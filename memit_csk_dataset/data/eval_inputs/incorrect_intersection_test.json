@@ -1,0 +1,890 @@
+[
+    {
+        "id": 2183,
+        "prompt": "a moth has dots",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1426,
+        "prompt": "Jockeys involve forests",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1686,
+        "prompt": "people pour sea",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 377,
+        "prompt": "babies have children",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1438,
+        "prompt": "pebbles build skyscraper",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1416,
+        "prompt": "Condensates have colors",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1927,
+        "prompt": "taps prepare food",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 348,
+        "prompt": "Pen pour juice",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 252,
+        "prompt": "a snowman involves snow",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1869,
+        "prompt": "forests contain trees",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 203,
+        "prompt": "a mouse makes noise",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1490,
+        "prompt": "people hold honey",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1173,
+        "prompt": "Places have feeling",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 656,
+        "prompt": "the dog stomps gorilla",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 604,
+        "prompt": "a hand smashes rock",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 316,
+        "prompt": "a man grabs ham",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 2171,
+        "prompt": "walruses have whiskers",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1439,
+        "prompt": "monkey hugs pen",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 427,
+        "prompt": "Ginseng contains meat",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 783,
+        "prompt": "Ant heaves pea",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 992,
+        "prompt": "a person breaks headphone",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1397,
+        "prompt": "a person carries stylus",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1802,
+        "prompt": "Apes lay eggs",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1993,
+        "prompt": "postmasters involve food",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1915,
+        "prompt": "a person wears sweatpants",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 718,
+        "prompt": "a man constructs building",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 425,
+        "prompt": "Nameplates make noise",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 655,
+        "prompt": "People hold ballads",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1071,
+        "prompt": "a person wears undershorts",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 552,
+        "prompt": "Man count coins",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1127,
+        "prompt": "sleepwalkers have arms",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 807,
+        "prompt": "People hold peepshows",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 2390,
+        "prompt": "Spiders spin webs",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1066,
+        "prompt": "a mouse eats cheese",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1850,
+        "prompt": "Source is used for armor",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 131,
+        "prompt": "Operators involve science",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1074,
+        "prompt": "a rock breaks pebbles",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 2205,
+        "prompt": "blinkers use electricity",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1249,
+        "prompt": "the octopus gropes cream",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 794,
+        "prompt": "elephant tosses boat",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 2352,
+        "prompt": "Suitcases dry clothes",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1257,
+        "prompt": "ant seizes pea",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1444,
+        "prompt": "the neck hangs train",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1656,
+        "prompt": "bathrobes have sleeves",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1627,
+        "prompt": "Tigers have fins",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 882,
+        "prompt": "Pillows peel bananas",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1868,
+        "prompt": "Shoppers involve religion",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1019,
+        "prompt": "gondolas use fuel",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1233,
+        "prompt": "Chefs burn water",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 262,
+        "prompt": "people see roars",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1319,
+        "prompt": "people find blackboard",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 2485,
+        "prompt": "platforms have railings",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1164,
+        "prompt": "horse fills cup",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1087,
+        "prompt": "a mother cleans house",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 731,
+        "prompt": "Acorns use electricity",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 710,
+        "prompt": "people drink gin",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 2006,
+        "prompt": "factories have belts",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1411,
+        "prompt": "a person builds bay",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 554,
+        "prompt": "Burrows have buildings",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1147,
+        "prompt": "a person holds flathead screwdriver",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 795,
+        "prompt": "an alarm makes noise",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 18,
+        "prompt": "Dog clean cloth",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 313,
+        "prompt": "metal helps people",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 734,
+        "prompt": "toasters require power",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 562,
+        "prompt": "Bottle leaks cup",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1780,
+        "prompt": "Hocks have antlers",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 223,
+        "prompt": "a schoolbook can hold anything",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 2070,
+        "prompt": "People hold ranches",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 2504,
+        "prompt": "an insomniac has pug",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 2179,
+        "prompt": "a tablet uses electricity",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 905,
+        "prompt": "bushes have legs",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1463,
+        "prompt": "airlifts have engines",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 328,
+        "prompt": "People hold luncheons",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 426,
+        "prompt": "a tent has restroom",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 605,
+        "prompt": "Someone borrows mainframe",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 512,
+        "prompt": "House breeds tree",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1402,
+        "prompt": "skates have wheels",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 241,
+        "prompt": "Gardeners use lambskins",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 464,
+        "prompt": "Hand grips pan",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1284,
+        "prompt": "evaporators make noise",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 508,
+        "prompt": "a dildo costs money",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 314,
+        "prompt": "cats hatch eggs",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 620,
+        "prompt": "an airplane has motor",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 318,
+        "prompt": "the dog draws computer",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1449,
+        "prompt": "a guardian has legs",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 2472,
+        "prompt": "a bull has horn",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 650,
+        "prompt": "women wear mustaches",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 808,
+        "prompt": "Aircraft have insides",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 783,
+        "prompt": "conchs wear dresses",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 2474,
+        "prompt": "The sun emits light",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1191,
+        "prompt": "people use honeydews",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 933,
+        "prompt": "Orchestras have colors",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 61,
+        "prompt": "axes can harm plants",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 656,
+        "prompt": "a person wears uniform",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1590,
+        "prompt": "spiders have legs",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 496,
+        "prompt": "a boat vents air",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1171,
+        "prompt": "spider poisons box",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 1555,
+        "prompt": "People see spillages",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 770,
+        "prompt": "Retailers involve nature",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1324,
+        "prompt": "a leaf attached rope",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 6,
+        "prompt": "the shirt damages pebbles",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 672,
+        "prompt": "busmen involve computers",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1664,
+        "prompt": "decors have teeth",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 943,
+        "prompt": "an elephant tackles car",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    },
+    {
+        "id": 546,
+        "prompt": "Apples cut stuff",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1273,
+        "prompt": "ovens use electricity",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1889,
+        "prompt": "dams use electricity",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1858,
+        "prompt": "People touch conductors",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 2121,
+        "prompt": "a biographer has eye",
+        "label": "True",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1447,
+        "prompt": "Cats serve people",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "20q"
+    },
+    {
+        "id": 1306,
+        "prompt": "An elephant filled bucket",
+        "label": "False",
+        "gpt2-xl_predicted_wrong": true,
+        "gpt2-l_predicted_wrong": true,
+        "dataset": "pep3k"
+    }
+]
