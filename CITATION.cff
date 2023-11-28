@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Gupta"
+    given-names: "Anshita"
+  - family-names: "Mondal"
+    given-names: "Debanjan"
+  - family-names: "Sheshadri"
+    given-names: "Akshay Krishna"
+  - family-names: "Zhao"
+    given-names: "Wenlong"
+  - family-names: "Li"
+    given-names: "Xiang Lorraine"
+  - family-names: "Wiegreffe"
+    given-names: "Sarah"
+  - family-names: "Tandon"
+    given-names: "Niket"
+  journal: "arXiv preprint arXiv:2305.14956"
+  title: "Editing Commonsense Knowledge in GPT"
+  year: 2023

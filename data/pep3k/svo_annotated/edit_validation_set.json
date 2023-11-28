@@ -1,0 +1,2450 @@
+[
+    {
+        "prompt": "Tongue licks wound",
+        "label": 1,
+        "subject": "Tongue",
+        "verb": "licks",
+        "object": "wound",
+        "neg": null
+    },
+    {
+        "prompt": "Rock fractures shirt",
+        "label": 0,
+        "subject": "Rock",
+        "verb": "fractures",
+        "object": "shirt",
+        "neg": null
+    },
+    {
+        "prompt": "Cream pierces tongue",
+        "label": 0,
+        "subject": "Cream",
+        "verb": "pierces",
+        "object": "tongue",
+        "neg": null
+    },
+    {
+        "prompt": "Ants are killed by air",
+        "label": 0,
+        "subject": "Ants",
+        "verb": "killed",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "Stove heats air",
+        "label": 1,
+        "subject": "Stove",
+        "verb": "heats",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "Worm swallow book",
+        "label": 0,
+        "subject": "Worm",
+        "verb": "swallow",
+        "object": "book",
+        "neg": null
+    },
+    {
+        "prompt": "Ice freezes rock",
+        "label": 1,
+        "subject": "Ice",
+        "verb": "freezes",
+        "object": "rock",
+        "neg": null
+    },
+    {
+        "prompt": "Chefs open bottles",
+        "label": 1,
+        "subject": "Chefs",
+        "verb": "open",
+        "object": "bottles",
+        "neg": null
+    },
+    {
+        "prompt": "a cheetah ate apple",
+        "label": 1,
+        "subject": "cheetah",
+        "verb": "ate",
+        "object": "apple",
+        "neg": null
+    },
+    {
+        "prompt": "Spatula capsize pan",
+        "label": 1,
+        "subject": "Spatula",
+        "verb": "capsize",
+        "object": "pan",
+        "neg": null
+    },
+    {
+        "prompt": "paper sharpens plastic",
+        "label": 0,
+        "subject": "paper",
+        "verb": "sharpens",
+        "object": "plastic",
+        "neg": null
+    },
+    {
+        "prompt": "Ship vents water.",
+        "label": 0,
+        "subject": "Ship",
+        "verb": "vents",
+        "object": "water.",
+        "neg": null
+    },
+    {
+        "prompt": "woman exhaled water",
+        "label": 0,
+        "subject": "woman",
+        "verb": "exhaled",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "woman drank cup",
+        "label": 0,
+        "subject": "woman",
+        "verb": "drank",
+        "object": "cup",
+        "neg": null
+    },
+    {
+        "prompt": "Lakes are erased with scissors",
+        "label": 0,
+        "subject": "Lakes",
+        "verb": "erased",
+        "object": "scissors",
+        "neg": null
+    },
+    {
+        "prompt": "Cloth mask skyscraper.",
+        "label": 0,
+        "subject": "Cloth",
+        "verb": "mask",
+        "object": "skyscraper.",
+        "neg": null
+    },
+    {
+        "prompt": "the man petted baby",
+        "label": 1,
+        "subject": "man",
+        "verb": "petted",
+        "object": "baby",
+        "neg": null
+    },
+    {
+        "prompt": "Men are stomped by dogs",
+        "label": 0,
+        "subject": "Men",
+        "verb": "stomped",
+        "object": "dogs",
+        "neg": null
+    },
+    {
+        "prompt": "a shirt absorbs sand",
+        "label": 0,
+        "subject": "shirt",
+        "verb": "absorbs",
+        "object": "sand",
+        "neg": null
+    },
+    {
+        "prompt": "a laptop can't absorb rock",
+        "label": 0,
+        "subject": "laptop",
+        "verb": "absorb",
+        "object": "rock",
+        "neg": "n't"
+    },
+    {
+        "prompt": "ant shoved horse",
+        "label": 0,
+        "subject": "ant",
+        "verb": "shoved",
+        "object": "horse",
+        "neg": null
+    },
+    {
+        "prompt": "Rain scratch arm",
+        "label": 0,
+        "subject": "Rain",
+        "verb": "scratch",
+        "object": "arm",
+        "neg": null
+    },
+    {
+        "prompt": "the scissors dug hay",
+        "label": 1,
+        "subject": "scissors",
+        "verb": "dug",
+        "object": "hay",
+        "neg": null
+    },
+    {
+        "prompt": "a cat was ridden by dog",
+        "label": 1,
+        "subject": "cat",
+        "verb": "ridden",
+        "object": "dog",
+        "neg": null
+    },
+    {
+        "prompt": "Girl slide on water",
+        "label": 0,
+        "subject": "Girl",
+        "verb": "slide",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Atom punches wall",
+        "label": 0,
+        "subject": "Atom",
+        "verb": "punches",
+        "object": "wall",
+        "neg": null
+    },
+    {
+        "prompt": "Cup pour milk",
+        "label": 1,
+        "subject": "Cup",
+        "verb": "pour",
+        "object": "milk",
+        "neg": null
+    },
+    {
+        "prompt": "Rocks are bent by infants",
+        "label": 0,
+        "subject": "Rocks",
+        "verb": "bent",
+        "object": "infants",
+        "neg": null
+    },
+    {
+        "prompt": "Clown sews paper",
+        "label": 0,
+        "subject": "Clown",
+        "verb": "sews",
+        "object": "paper",
+        "neg": null
+    },
+    {
+        "prompt": "the dad cleaned plate",
+        "label": 1,
+        "subject": "dad",
+        "verb": "cleaned",
+        "object": "plate",
+        "neg": null
+    },
+    {
+        "prompt": "Glue attaches sticker",
+        "label": 1,
+        "subject": "Glue",
+        "verb": "attaches",
+        "object": "sticker",
+        "neg": null
+    },
+    {
+        "prompt": "Dolphin burns cloth",
+        "label": 0,
+        "subject": "Dolphin",
+        "verb": "burns",
+        "object": "cloth",
+        "neg": null
+    },
+    {
+        "prompt": "Dolphin kiss fish",
+        "label": 1,
+        "subject": "Dolphin",
+        "verb": "kiss",
+        "object": "fish",
+        "neg": null
+    },
+    {
+        "prompt": "octopus groped soda",
+        "label": 0,
+        "subject": "octopus",
+        "verb": "groped",
+        "object": "soda",
+        "neg": null
+    },
+    {
+        "prompt": "a policeman halted ball.",
+        "label": 1,
+        "subject": "policeman",
+        "verb": "halted",
+        "object": "ball",
+        "neg": null
+    },
+    {
+        "prompt": "ant clenched closet",
+        "label": 0,
+        "subject": "ant",
+        "verb": "clenched",
+        "object": "closet",
+        "neg": null
+    },
+    {
+        "prompt": "a bug can't climb air",
+        "label": 0,
+        "subject": "bug",
+        "verb": "climb",
+        "object": "air",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Clown catch baboon",
+        "label": 1,
+        "subject": "Clown",
+        "verb": "catch",
+        "object": "baboon",
+        "neg": null
+    },
+    {
+        "prompt": "Rabbit seizes elephant",
+        "label": 0,
+        "subject": "Rabbit",
+        "verb": "seizes",
+        "object": "elephant",
+        "neg": null
+    },
+    {
+        "prompt": "a freezer can't warm foot",
+        "label": 0,
+        "subject": "freezer",
+        "verb": "warm",
+        "object": "foot",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Hand fastens rabbit",
+        "label": 1,
+        "subject": "Hand",
+        "verb": "fastens",
+        "object": "rabbit",
+        "neg": null
+    },
+    {
+        "prompt": "a man crushed child",
+        "label": 1,
+        "subject": "man",
+        "verb": "crushed",
+        "object": "child",
+        "neg": null
+    },
+    {
+        "prompt": "a rock crashed cup",
+        "label": 1,
+        "subject": "rock",
+        "verb": "crashed",
+        "object": "cup",
+        "neg": null
+    },
+    {
+        "prompt": "Cat knits shirt",
+        "label": 0,
+        "subject": "Cat",
+        "verb": "knits",
+        "object": "shirt",
+        "neg": null
+    },
+    {
+        "prompt": "Monkeys seize cats",
+        "label": 1,
+        "subject": "Monkeys",
+        "verb": "seize",
+        "object": "cats",
+        "neg": null
+    },
+    {
+        "prompt": "Branch cleaved",
+        "label": 0,
+        "subject": "Branch",
+        "verb": "cleaved",
+        "object": null,
+        "neg": null
+    },
+    {
+        "prompt": "Chef creates moon",
+        "label": 0,
+        "subject": "Chef",
+        "verb": "creates",
+        "object": "moon",
+        "neg": null
+    },
+    {
+        "prompt": "water pierced tongue",
+        "label": 0,
+        "subject": "water",
+        "verb": "pierced",
+        "object": "tongue",
+        "neg": null
+    },
+    {
+        "prompt": "a witch can't bake air",
+        "label": 0,
+        "subject": "witch",
+        "verb": "bake",
+        "object": "air",
+        "neg": "n't"
+    },
+    {
+        "prompt": "wood kneaded flour",
+        "label": 1,
+        "subject": "wood",
+        "verb": "kneaded",
+        "object": "flour",
+        "neg": null
+    },
+    {
+        "prompt": "Sticks hook purses",
+        "label": 1,
+        "subject": "Sticks",
+        "verb": "hook",
+        "object": "purses",
+        "neg": null
+    },
+    {
+        "prompt": "Rabbits are petted by computers",
+        "label": 0,
+        "subject": "Rabbits",
+        "verb": "petted",
+        "object": "computers",
+        "neg": null
+    },
+    {
+        "prompt": "paper absorbed sand",
+        "label": 0,
+        "subject": "paper",
+        "verb": "absorbed",
+        "object": "sand",
+        "neg": null
+    },
+    {
+        "prompt": "the monkey filled bucket",
+        "label": 1,
+        "subject": "monkey",
+        "verb": "filled",
+        "object": "bucket",
+        "neg": null
+    },
+    {
+        "prompt": "an elephant tore wool",
+        "label": 1,
+        "subject": "elephant",
+        "verb": "tore",
+        "object": "wool",
+        "neg": null
+    },
+    {
+        "prompt": "Man grip brush",
+        "label": 1,
+        "subject": "Man",
+        "verb": "grip",
+        "object": "brush",
+        "neg": null
+    },
+    {
+        "prompt": "a fist tapped spatula",
+        "label": 1,
+        "subject": "fist",
+        "verb": "tapped",
+        "object": "spatula",
+        "neg": null
+    },
+    {
+        "prompt": "Child packs truck",
+        "label": 0,
+        "subject": "Child",
+        "verb": "packs",
+        "object": "truck",
+        "neg": null
+    },
+    {
+        "prompt": "Cream is opened by cows",
+        "label": 0,
+        "subject": "Cream",
+        "verb": "opened",
+        "object": "cows",
+        "neg": null
+    },
+    {
+        "prompt": "an ant can't snatch rabbit",
+        "label": 0,
+        "subject": "ant",
+        "verb": "snatch",
+        "object": "rabbit",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Wool crushes rock",
+        "label": 0,
+        "subject": "Wool",
+        "verb": "crushes",
+        "object": "rock",
+        "neg": null
+    },
+    {
+        "prompt": "the pillow masked infant",
+        "label": 1,
+        "subject": "pillow",
+        "verb": "masked",
+        "object": "infant",
+        "neg": null
+    },
+    {
+        "prompt": "Women kiss girl",
+        "label": 1,
+        "subject": "Women",
+        "verb": "kiss",
+        "object": "girl",
+        "neg": null
+    },
+    {
+        "prompt": "Cloth erases house",
+        "label": 0,
+        "subject": "Cloth",
+        "verb": "erases",
+        "object": "house",
+        "neg": null
+    },
+    {
+        "prompt": "Girl cuts grape",
+        "label": 1,
+        "subject": "Girl",
+        "verb": "cuts",
+        "object": "grape",
+        "neg": null
+    },
+    {
+        "prompt": "Houses are lengthened by students",
+        "label": 0,
+        "subject": "Houses",
+        "verb": "lengthened",
+        "object": "students",
+        "neg": null
+    },
+    {
+        "prompt": "Girl clenches bike",
+        "label": 1,
+        "subject": "Girl",
+        "verb": "clenches",
+        "object": "bike",
+        "neg": null
+    },
+    {
+        "prompt": "Claw rip through water",
+        "label": 0,
+        "subject": "Claw",
+        "verb": "rip",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Girl vomits pea",
+        "label": 1,
+        "subject": "Girl",
+        "verb": "vomits",
+        "object": "pea",
+        "neg": null
+    },
+    {
+        "prompt": "Worm drag turtle",
+        "label": 0,
+        "subject": "Worm",
+        "verb": "drag",
+        "object": "turtle",
+        "neg": null
+    },
+    {
+        "prompt": "a woman can't eat shovel",
+        "label": 0,
+        "subject": "woman",
+        "verb": "eat",
+        "object": "shovel",
+        "neg": "n't"
+    },
+    {
+        "prompt": "the needle sewed dress",
+        "label": 1,
+        "subject": "needle",
+        "verb": "sewed",
+        "object": "dress",
+        "neg": null
+    },
+    {
+        "prompt": "Monkey kicks chef",
+        "label": 1,
+        "subject": "Monkey",
+        "verb": "kicks",
+        "object": "chef",
+        "neg": null
+    },
+    {
+        "prompt": "Girl cook fish",
+        "label": 1,
+        "subject": "Girl",
+        "verb": "cook",
+        "object": "fish",
+        "neg": null
+    },
+    {
+        "prompt": "Pins slash skins",
+        "label": 1,
+        "subject": "Pins",
+        "verb": "slash",
+        "object": "skins",
+        "neg": null
+    },
+    {
+        "prompt": "Turtle climb wind",
+        "label": 0,
+        "subject": "Turtle",
+        "verb": "climb",
+        "object": "wind",
+        "neg": null
+    },
+    {
+        "prompt": "Hand rotate log",
+        "label": 1,
+        "subject": "Hand",
+        "verb": "rotate",
+        "object": "log",
+        "neg": null
+    },
+    {
+        "prompt": "Boat breed baboon",
+        "label": 1,
+        "subject": "Boat",
+        "verb": "breed",
+        "object": "baboon",
+        "neg": null
+    },
+    {
+        "prompt": "Pipe ejaculate wind",
+        "label": 0,
+        "subject": "Pipe",
+        "verb": "ejaculate",
+        "object": "wind",
+        "neg": null
+    },
+    {
+        "prompt": "Water is cut by air",
+        "label": 0,
+        "subject": "Water",
+        "verb": "cut",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "Man shake door",
+        "label": 1,
+        "subject": "Man",
+        "verb": "shake",
+        "object": "door",
+        "neg": null
+    },
+    {
+        "prompt": "woman grabbed oil",
+        "label": 0,
+        "subject": "woman",
+        "verb": "grabbed",
+        "object": "oil",
+        "neg": null
+    },
+    {
+        "prompt": "Ant toss cat",
+        "label": 0,
+        "subject": "Ant",
+        "verb": "toss",
+        "object": "cat",
+        "neg": null
+    },
+    {
+        "prompt": "Needle pokes sink",
+        "label": 1,
+        "subject": "Needle",
+        "verb": "pokes",
+        "object": "sink",
+        "neg": null
+    },
+    {
+        "prompt": "the student dumped dirt",
+        "label": 1,
+        "subject": "student",
+        "verb": "dumped",
+        "object": "dirt",
+        "neg": null
+    },
+    {
+        "prompt": "Stick hook water",
+        "label": 0,
+        "subject": "Stick",
+        "verb": "hook",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Chefs knit shirts",
+        "label": 1,
+        "subject": "Chefs",
+        "verb": "knit",
+        "object": "shirts",
+        "neg": null
+    },
+    {
+        "prompt": "a bear buried dentist",
+        "label": 1,
+        "subject": "bear",
+        "verb": "buried",
+        "object": "dentist",
+        "neg": null
+    },
+    {
+        "prompt": "Pipe drain lake",
+        "label": 1,
+        "subject": "Pipe",
+        "verb": "drain",
+        "object": "lake",
+        "neg": null
+    },
+    {
+        "prompt": "a fist clenched fist",
+        "label": 1,
+        "subject": "fist",
+        "verb": "clenched",
+        "object": "fist",
+        "neg": null
+    },
+    {
+        "prompt": "Elephant squashes boat",
+        "label": 1,
+        "subject": "Elephant",
+        "verb": "squashes",
+        "object": "boat",
+        "neg": null
+    },
+    {
+        "prompt": "the hand stretched rabbit",
+        "label": 1,
+        "subject": "hand",
+        "verb": "stretched",
+        "object": "rabbit",
+        "neg": null
+    },
+    {
+        "prompt": "Brother hurt chair",
+        "label": 0,
+        "subject": "Brother",
+        "verb": "hurt",
+        "object": "chair",
+        "neg": null
+    },
+    {
+        "prompt": "a girl shoved book",
+        "label": 1,
+        "subject": "girl",
+        "verb": "shoved",
+        "object": "book",
+        "neg": null
+    },
+    {
+        "prompt": "the table rubbed shirt",
+        "label": 1,
+        "subject": "table",
+        "verb": "rubbed",
+        "object": "shirt",
+        "neg": null
+    },
+    {
+        "prompt": "Knife mince cream",
+        "label": 0,
+        "subject": "Knife",
+        "verb": "mince",
+        "object": "cream",
+        "neg": null
+    },
+    {
+        "prompt": "Girls are created by lions",
+        "label": 0,
+        "subject": "Girls",
+        "verb": "created",
+        "object": "lions",
+        "neg": null
+    },
+    {
+        "prompt": "Men build cups",
+        "label": 1,
+        "subject": "Men",
+        "verb": "build",
+        "object": "cups",
+        "neg": null
+    },
+    {
+        "prompt": "Horse toss elephant",
+        "label": 0,
+        "subject": "Horse",
+        "verb": "toss",
+        "object": "elephant",
+        "neg": null
+    },
+    {
+        "prompt": "Man fold pebbles",
+        "label": 0,
+        "subject": "Man",
+        "verb": "fold",
+        "object": "pebbles",
+        "neg": null
+    },
+    {
+        "prompt": "Glue fuses wind",
+        "label": 0,
+        "subject": "Glue",
+        "verb": "fuses",
+        "object": "wind",
+        "neg": null
+    },
+    {
+        "prompt": "Child fold cloth.",
+        "label": 1,
+        "subject": "Child",
+        "verb": "fold",
+        "object": "cloth.",
+        "neg": null
+    },
+    {
+        "prompt": "a dog folded silk",
+        "label": 1,
+        "subject": "dog",
+        "verb": "folded",
+        "object": "silk",
+        "neg": null
+    },
+    {
+        "prompt": "Wolves bite nails",
+        "label": 1,
+        "subject": "Wolves",
+        "verb": "bite",
+        "object": "nails",
+        "neg": null
+    },
+    {
+        "prompt": "the girl beat dentist",
+        "label": 1,
+        "subject": "girl",
+        "verb": "beat",
+        "object": "dentist",
+        "neg": null
+    },
+    {
+        "prompt": "straw bends body.",
+        "label": 0,
+        "subject": "straw",
+        "verb": "bends",
+        "object": "body",
+        "neg": null
+    },
+    {
+        "prompt": "Boy punch girl",
+        "label": 1,
+        "subject": "Boy",
+        "verb": "punch",
+        "object": "girl",
+        "neg": null
+    },
+    {
+        "prompt": "Pillows are sharpened with knife",
+        "label": 0,
+        "subject": "Pillows",
+        "verb": "sharpened",
+        "object": "knife",
+        "neg": null
+    },
+    {
+        "prompt": "Brothers are hit by air",
+        "label": 0,
+        "subject": "Brothers",
+        "verb": "hit",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "Hook fishes chair",
+        "label": 1,
+        "subject": "Hook",
+        "verb": "fishes",
+        "object": "chair",
+        "neg": null
+    },
+    {
+        "prompt": "pillow flattened car",
+        "label": 0,
+        "subject": "pillow",
+        "verb": "flattened",
+        "object": "car",
+        "neg": null
+    },
+    {
+        "prompt": "pebbles chafed nail",
+        "label": 1,
+        "subject": "pebbles",
+        "verb": "chafed",
+        "object": "nail",
+        "neg": null
+    },
+    {
+        "prompt": "Bears wrestle with rocks",
+        "label": 0,
+        "subject": "Bears",
+        "verb": "wrestle",
+        "object": "rocks",
+        "neg": null
+    },
+    {
+        "prompt": "a policeman cleaned rice",
+        "label": 1,
+        "subject": "policeman",
+        "verb": "cleaned",
+        "object": "rice",
+        "neg": null
+    },
+    {
+        "prompt": "Knives damage pillows",
+        "label": 1,
+        "subject": "Knives",
+        "verb": "damage",
+        "object": "pillows",
+        "neg": null
+    },
+    {
+        "prompt": "Air warms cream",
+        "label": 0,
+        "subject": "Air",
+        "verb": "warms",
+        "object": "cream",
+        "neg": null
+    },
+    {
+        "prompt": "Chefs peel skins",
+        "label": 1,
+        "subject": "Chefs",
+        "verb": "peel",
+        "object": "skins",
+        "neg": null
+    },
+    {
+        "prompt": "Snow curb house",
+        "label": 0,
+        "subject": "Snow",
+        "verb": "curb",
+        "object": "house",
+        "neg": null
+    },
+    {
+        "prompt": "an ape kissed woman",
+        "label": 1,
+        "subject": "ape",
+        "verb": "kissed",
+        "object": "woman",
+        "neg": null
+    },
+    {
+        "prompt": "Barge capsize basket",
+        "label": 1,
+        "subject": "Barge",
+        "verb": "capsize",
+        "object": "basket",
+        "neg": null
+    },
+    {
+        "prompt": "Children haul cats",
+        "label": 1,
+        "subject": "Children",
+        "verb": "haul",
+        "object": "cats",
+        "neg": null
+    },
+    {
+        "prompt": "Cat destroys hat.",
+        "label": 1,
+        "subject": "Cat",
+        "verb": "destroys",
+        "object": "hat",
+        "neg": null
+    },
+    {
+        "prompt": "straw bends egg",
+        "label": 0,
+        "subject": "straw",
+        "verb": "bends",
+        "object": "egg",
+        "neg": null
+    },
+    {
+        "prompt": "Toe pushes basketball",
+        "label": 1,
+        "subject": "Toe",
+        "verb": "pushes",
+        "object": "basketball",
+        "neg": null
+    },
+    {
+        "prompt": "Rocks are bred by students",
+        "label": 0,
+        "subject": "Rocks",
+        "verb": "bred",
+        "object": "students",
+        "neg": null
+    },
+    {
+        "prompt": "Ice cool girl",
+        "label": 1,
+        "subject": "Ice",
+        "verb": "cool",
+        "object": "girl",
+        "neg": null
+    },
+    {
+        "prompt": "Keys are peeled by girls",
+        "label": 0,
+        "subject": "Keys",
+        "verb": "peeled",
+        "object": "girls",
+        "neg": null
+    },
+    {
+        "prompt": "gorilla rode bowl",
+        "label": 0,
+        "subject": "gorilla",
+        "verb": "rode",
+        "object": "bowl",
+        "neg": null
+    },
+    {
+        "prompt": "a chisel scraped bone",
+        "label": 1,
+        "subject": "chisel",
+        "verb": "scraped",
+        "object": "bone",
+        "neg": null
+    },
+    {
+        "prompt": "water dug wool",
+        "label": 0,
+        "subject": "water",
+        "verb": "dug",
+        "object": "wool",
+        "neg": null
+    },
+    {
+        "prompt": "fire heated desert",
+        "label": 1,
+        "subject": "fire",
+        "verb": "heated",
+        "object": "desert",
+        "neg": null
+    },
+    {
+        "prompt": "Dog stretch chair",
+        "label": 0,
+        "subject": "Dog",
+        "verb": "stretch",
+        "object": "chair",
+        "neg": null
+    },
+    {
+        "prompt": "Dog creates bread",
+        "label": 0,
+        "subject": "Dog",
+        "verb": "creates",
+        "object": "bread",
+        "neg": null
+    },
+    {
+        "prompt": "Dog hauls wind",
+        "label": 0,
+        "subject": "Dog",
+        "verb": "hauls",
+        "object": "wind",
+        "neg": null
+    },
+    {
+        "prompt": "wood chops onions",
+        "label": 0,
+        "subject": "wood",
+        "verb": "chops",
+        "object": "onions",
+        "neg": null
+    },
+    {
+        "prompt": "a hand ripped book",
+        "label": 1,
+        "subject": "hand",
+        "verb": "ripped",
+        "object": "book",
+        "neg": null
+    },
+    {
+        "prompt": "cup poured cloud",
+        "label": 0,
+        "subject": "cup",
+        "verb": "poured",
+        "object": "cloud",
+        "neg": null
+    },
+    {
+        "prompt": "man burned ice",
+        "label": 0,
+        "subject": "man",
+        "verb": "burned",
+        "object": "ice",
+        "neg": null
+    },
+    {
+        "prompt": "water dumps water",
+        "label": 0,
+        "subject": "water",
+        "verb": "dumps",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "leaf erased oil",
+        "label": 0,
+        "subject": "leaf",
+        "verb": "erased",
+        "object": "oil",
+        "neg": null
+    },
+    {
+        "prompt": "Skyscraper heats air",
+        "label": 0,
+        "subject": "Skyscraper",
+        "verb": "heats",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "Boat hurls house",
+        "label": 0,
+        "subject": "Boat",
+        "verb": "hurls",
+        "object": "house",
+        "neg": null
+    },
+    {
+        "prompt": "Oil is cropped with knife",
+        "label": 0,
+        "subject": "Oil",
+        "verb": "cropped",
+        "object": "knife",
+        "neg": null
+    },
+    {
+        "prompt": "Dust is clipped with wool",
+        "label": 0,
+        "subject": "Dust",
+        "verb": "clipped",
+        "object": "wool",
+        "neg": null
+    },
+    {
+        "prompt": "Dog carry scissors",
+        "label": 1,
+        "subject": "Dog",
+        "verb": "carry",
+        "object": "scissors",
+        "neg": null
+    },
+    {
+        "prompt": "a girl choked dog",
+        "label": 1,
+        "subject": "girl",
+        "verb": "choked",
+        "object": "dog",
+        "neg": null
+    },
+    {
+        "prompt": "Knife mince cream",
+        "label": 0,
+        "subject": "Knife",
+        "verb": "mince",
+        "object": "cream",
+        "neg": null
+    },
+    {
+        "prompt": "Truck move tree",
+        "label": 1,
+        "subject": "Truck",
+        "verb": "move",
+        "object": "tree",
+        "neg": null
+    },
+    {
+        "prompt": "glue fused air",
+        "label": 0,
+        "subject": "glue",
+        "verb": "fused",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "Men kill dogs",
+        "label": 1,
+        "subject": "Men",
+        "verb": "kill",
+        "object": "dogs",
+        "neg": null
+    },
+    {
+        "prompt": "Child create table",
+        "label": 1,
+        "subject": "Child",
+        "verb": "create",
+        "object": "table",
+        "neg": null
+    },
+    {
+        "prompt": "Ant pack cake",
+        "label": 0,
+        "subject": "Ant",
+        "verb": "pack",
+        "object": "cake",
+        "neg": null
+    },
+    {
+        "prompt": "Monkey breed with dolphin",
+        "label": 0,
+        "subject": "Monkey",
+        "verb": "breed",
+        "object": "dolphin",
+        "neg": null
+    },
+    {
+        "prompt": "a dog can't draw laptop",
+        "label": 0,
+        "subject": "dog",
+        "verb": "draw",
+        "object": "laptop",
+        "neg": "n't"
+    },
+    {
+        "prompt": "the child threw cup",
+        "label": 1,
+        "subject": "child",
+        "verb": "threw",
+        "object": "cup",
+        "neg": null
+    },
+    {
+        "prompt": "Boat hurl ship",
+        "label": 1,
+        "subject": "Boat",
+        "verb": "hurl",
+        "object": "ship",
+        "neg": null
+    },
+    {
+        "prompt": "a chair can't rub rain",
+        "label": 0,
+        "subject": "chair",
+        "verb": "rub",
+        "object": "rain",
+        "neg": "n't"
+    },
+    {
+        "prompt": "tape fused spatula",
+        "label": 1,
+        "subject": "tape",
+        "verb": "fused",
+        "object": "spatula",
+        "neg": null
+    },
+    {
+        "prompt": "Air is clenched by clown",
+        "label": 0,
+        "subject": "Air",
+        "verb": "clenched",
+        "object": "clown",
+        "neg": null
+    },
+    {
+        "prompt": "Flea bites dog",
+        "label": 1,
+        "subject": "Flea",
+        "verb": "bites",
+        "object": "dog",
+        "neg": null
+    },
+    {
+        "prompt": "man ate laptop",
+        "label": 0,
+        "subject": "man",
+        "verb": "ate",
+        "object": "laptop",
+        "neg": null
+    },
+    {
+        "prompt": "man folded elephant",
+        "label": 0,
+        "subject": "man",
+        "verb": "folded",
+        "object": "elephant",
+        "neg": null
+    },
+    {
+        "prompt": "Man drops skyscraper",
+        "label": 0,
+        "subject": "Man",
+        "verb": "drops",
+        "object": "skyscraper",
+        "neg": null
+    },
+    {
+        "prompt": "Gorilla licks hand",
+        "label": 1,
+        "subject": "Gorilla",
+        "verb": "licks",
+        "object": "hand",
+        "neg": null
+    },
+    {
+        "prompt": "Boats are dragged by gas",
+        "label": 0,
+        "subject": "Boats",
+        "verb": "dragged",
+        "object": "gas",
+        "neg": null
+    },
+    {
+        "prompt": "Arrows pierce tongues",
+        "label": 1,
+        "subject": "Arrows",
+        "verb": "pierce",
+        "object": "tongues",
+        "neg": null
+    },
+    {
+        "prompt": "Pitcher pours laptop",
+        "label": 0,
+        "subject": "Pitcher",
+        "verb": "pours",
+        "object": "laptop",
+        "neg": null
+    },
+    {
+        "prompt": "Glove hold stick",
+        "label": 1,
+        "subject": "Glove",
+        "verb": "hold",
+        "object": "stick",
+        "neg": null
+    },
+    {
+        "prompt": "the clown clipped paper",
+        "label": 1,
+        "subject": "clown",
+        "verb": "clipped",
+        "object": "paper",
+        "neg": null
+    },
+    {
+        "prompt": "child grasped smoke",
+        "label": 0,
+        "subject": "child",
+        "verb": "grasped",
+        "object": "smoke",
+        "neg": null
+    },
+    {
+        "prompt": "Men grope strangers",
+        "label": 1,
+        "subject": "Men",
+        "verb": "grope",
+        "object": "strangers",
+        "neg": null
+    },
+    {
+        "prompt": "Knife peel banana",
+        "label": 1,
+        "subject": "Knife",
+        "verb": "peel",
+        "object": "banana",
+        "neg": null
+    },
+    {
+        "prompt": "an infant petted cat",
+        "label": 1,
+        "subject": "infant",
+        "verb": "petted",
+        "object": "cat",
+        "neg": null
+    },
+    {
+        "prompt": "Hands are masked with water",
+        "label": 0,
+        "subject": "Hands",
+        "verb": "masked",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Girl slides on ice",
+        "label": 1,
+        "subject": "Girl",
+        "verb": "slides",
+        "object": "ice",
+        "neg": null
+    },
+    {
+        "prompt": "Students climb ships",
+        "label": 1,
+        "subject": "Students",
+        "verb": "climb",
+        "object": "ships",
+        "neg": null
+    },
+    {
+        "prompt": "Zebras kill dolphins",
+        "label": 1,
+        "subject": "Zebras",
+        "verb": "kill",
+        "object": "dolphins",
+        "neg": null
+    },
+    {
+        "prompt": "Lion wrestles bear",
+        "label": 1,
+        "subject": "Lion",
+        "verb": "wrestles",
+        "object": "bear",
+        "neg": null
+    },
+    {
+        "prompt": "leather fed worm",
+        "label": 1,
+        "subject": "leather",
+        "verb": "fed",
+        "object": "worm",
+        "neg": null
+    },
+    {
+        "prompt": "the elephant hauled lion",
+        "label": 1,
+        "subject": "elephant",
+        "verb": "hauled",
+        "object": "lion",
+        "neg": null
+    },
+    {
+        "prompt": "Robot drive boat",
+        "label": 1,
+        "subject": "Robot",
+        "verb": "drive",
+        "object": "boat",
+        "neg": null
+    },
+    {
+        "prompt": "Hand throw smoke",
+        "label": 0,
+        "subject": "Hand",
+        "verb": "throw",
+        "object": "smoke",
+        "neg": null
+    },
+    {
+        "prompt": "Knife chop tree",
+        "label": 1,
+        "subject": "Knife",
+        "verb": "chop",
+        "object": "tree",
+        "neg": null
+    },
+    {
+        "prompt": "Child fixes laptop",
+        "label": 1,
+        "subject": "Child",
+        "verb": "fixes",
+        "object": "laptop",
+        "neg": null
+    },
+    {
+        "prompt": "Bowls spill water",
+        "label": 1,
+        "subject": "Bowls",
+        "verb": "spill",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Juice is poured with pin",
+        "label": 0,
+        "subject": "Juice",
+        "verb": "poured",
+        "object": "pin",
+        "neg": null
+    },
+    {
+        "prompt": "the dog threw rabbit",
+        "label": 1,
+        "subject": "dog",
+        "verb": "threw",
+        "object": "rabbit",
+        "neg": null
+    },
+    {
+        "prompt": "a woman can't grasp skyscraper",
+        "label": 0,
+        "subject": "woman",
+        "verb": "grasp",
+        "object": "skyscraper",
+        "neg": "n't"
+    },
+    {
+        "prompt": "man vented air",
+        "label": 0,
+        "subject": "man",
+        "verb": "vented",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "the glove held earplug",
+        "label": 1,
+        "subject": "glove",
+        "verb": "held",
+        "object": "earplug",
+        "neg": null
+    },
+    {
+        "prompt": "a dog ate rabbit",
+        "label": 1,
+        "subject": "dog",
+        "verb": "ate",
+        "object": "rabbit",
+        "neg": null
+    },
+    {
+        "prompt": "Clowns cook monkeys",
+        "label": 1,
+        "subject": "Clowns",
+        "verb": "cook",
+        "object": "monkeys",
+        "neg": null
+    },
+    {
+        "prompt": "the woman created child",
+        "label": 1,
+        "subject": "woman",
+        "verb": "created",
+        "object": "child",
+        "neg": null
+    },
+    {
+        "prompt": "lion filled bowl",
+        "label": 0,
+        "subject": "lion",
+        "verb": "filled",
+        "object": "bowl",
+        "neg": null
+    },
+    {
+        "prompt": "a man packed purse",
+        "label": 1,
+        "subject": "man",
+        "verb": "packed",
+        "object": "purse",
+        "neg": null
+    },
+    {
+        "prompt": "Rabbits hug dogs",
+        "label": 1,
+        "subject": "Rabbits",
+        "verb": "hug",
+        "object": "dogs",
+        "neg": null
+    },
+    {
+        "prompt": "man fed pebbles.",
+        "label": 0,
+        "subject": "man",
+        "verb": "fed",
+        "object": "pebbles",
+        "neg": null
+    },
+    {
+        "prompt": "book trimmed rabbit",
+        "label": 0,
+        "subject": "book",
+        "verb": "trimmed",
+        "object": "rabbit",
+        "neg": null
+    },
+    {
+        "prompt": "Bug curbs lion",
+        "label": 0,
+        "subject": "Bug",
+        "verb": "curbs",
+        "object": "lion",
+        "neg": null
+    },
+    {
+        "prompt": "the clown slammed window.",
+        "label": 1,
+        "subject": "clown",
+        "verb": "slammed",
+        "object": "window",
+        "neg": null
+    },
+    {
+        "prompt": "Sticks hook stools.",
+        "label": 1,
+        "subject": "Sticks",
+        "verb": "hook",
+        "object": "stools.",
+        "neg": null
+    },
+    {
+        "prompt": "an ant can't kiss elephant",
+        "label": 0,
+        "subject": "ant",
+        "verb": "kiss",
+        "object": "elephant",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Finger tap plane",
+        "label": 1,
+        "subject": "Finger",
+        "verb": "tap",
+        "object": "plane",
+        "neg": null
+    },
+    {
+        "prompt": "an infant can't spill apple",
+        "label": 0,
+        "subject": "infant",
+        "verb": "spill",
+        "object": "apple",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Wind is licked by dolphins",
+        "label": 0,
+        "subject": "Wind",
+        "verb": "licked",
+        "object": "dolphins",
+        "neg": null
+    },
+    {
+        "prompt": "the sun warmed skin",
+        "label": 1,
+        "subject": "sun",
+        "verb": "warmed",
+        "object": "skin",
+        "neg": null
+    },
+    {
+        "prompt": "Gorilla grabs pin",
+        "label": 1,
+        "subject": "Gorilla",
+        "verb": "grabs",
+        "object": "pin",
+        "neg": null
+    },
+    {
+        "prompt": "Sword fractures air",
+        "label": 0,
+        "subject": "Sword",
+        "verb": "fractures",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "a pillow covered pea",
+        "label": 1,
+        "subject": "pillow",
+        "verb": "covered",
+        "object": "pea",
+        "neg": null
+    },
+    {
+        "prompt": "Finger rub air",
+        "label": 0,
+        "subject": "Finger",
+        "verb": "rub",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "the cat plucked leaf",
+        "label": 1,
+        "subject": "cat",
+        "verb": "plucked",
+        "object": "leaf",
+        "neg": null
+    },
+    {
+        "prompt": "knife trimmed house",
+        "label": 0,
+        "subject": "knife",
+        "verb": "trimmed",
+        "object": "house",
+        "neg": null
+    },
+    {
+        "prompt": "Woman fries turtle",
+        "label": 1,
+        "subject": "Woman",
+        "verb": "fries",
+        "object": "turtle",
+        "neg": null
+    },
+    {
+        "prompt": "Knives poke fingers",
+        "label": 1,
+        "subject": "Knives",
+        "verb": "poke",
+        "object": "fingers",
+        "neg": null
+    },
+    {
+        "prompt": "Pillows are exhaled by cats",
+        "label": 0,
+        "subject": "Pillows",
+        "verb": "exhaled",
+        "object": "cats",
+        "neg": null
+    },
+    {
+        "prompt": "Horse tackle turtle",
+        "label": 1,
+        "subject": "Horse",
+        "verb": "tackle",
+        "object": "turtle",
+        "neg": null
+    },
+    {
+        "prompt": "a rabbit can't erect building",
+        "label": 0,
+        "subject": "rabbit",
+        "verb": "erect",
+        "object": "building",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Water is buried by student",
+        "label": 0,
+        "subject": "Water",
+        "verb": "buried",
+        "object": "student",
+        "neg": null
+    },
+    {
+        "prompt": "Bikes are chopped by pumpkins",
+        "label": 0,
+        "subject": "Bikes",
+        "verb": "chopped",
+        "object": "pumpkins",
+        "neg": null
+    },
+    {
+        "prompt": "ice warms food",
+        "label": 0,
+        "subject": "ice",
+        "verb": "warms",
+        "object": "food",
+        "neg": null
+    },
+    {
+        "prompt": "Chef fishes house",
+        "label": 0,
+        "subject": "Chef",
+        "verb": "fishes",
+        "object": "house",
+        "neg": null
+    },
+    {
+        "prompt": "a knife can't damage oil",
+        "label": 0,
+        "subject": "knife",
+        "verb": "damage",
+        "object": "oil",
+        "neg": "n't"
+    },
+    {
+        "prompt": "a donkey can't kick milk",
+        "label": 0,
+        "subject": "donkey",
+        "verb": "kick",
+        "object": "milk",
+        "neg": "n't"
+    },
+    {
+        "prompt": "The rabbit was damaged by knife",
+        "label": 1,
+        "subject": "rabbit",
+        "verb": "damaged",
+        "object": "knife",
+        "neg": null
+    },
+    {
+        "prompt": "Rabbit choke man",
+        "label": 0,
+        "subject": "Rabbit",
+        "verb": "choke",
+        "object": "man",
+        "neg": null
+    },
+    {
+        "prompt": "Elephants are grabbed by men",
+        "label": 0,
+        "subject": "Elephants",
+        "verb": "grabbed",
+        "object": "men",
+        "neg": null
+    },
+    {
+        "prompt": "an elephant heaved log",
+        "label": 1,
+        "subject": "elephant",
+        "verb": "heaved",
+        "object": "log",
+        "neg": null
+    },
+    {
+        "prompt": "dog choked bear",
+        "label": 0,
+        "subject": "dog",
+        "verb": "choked",
+        "object": "bear",
+        "neg": null
+    },
+    {
+        "prompt": "Freezers cool oil",
+        "label": 1,
+        "subject": "Freezers",
+        "verb": "cool",
+        "object": "oil",
+        "neg": null
+    },
+    {
+        "prompt": "the ant built wall",
+        "label": 1,
+        "subject": "ant",
+        "verb": "built",
+        "object": "wall",
+        "neg": null
+    },
+    {
+        "prompt": "Pencil hang shirt",
+        "label": 1,
+        "subject": "Pencil",
+        "verb": "hang",
+        "object": "shirt",
+        "neg": null
+    },
+    {
+        "prompt": "the boat carried mud",
+        "label": 1,
+        "subject": "boat",
+        "verb": "carried",
+        "object": "mud",
+        "neg": null
+    },
+    {
+        "prompt": "a tree can't leak gas",
+        "label": 0,
+        "subject": "tree",
+        "verb": "leak",
+        "object": "gas",
+        "neg": "n't"
+    },
+    {
+        "prompt": "a monkey grasped cup",
+        "label": 1,
+        "subject": "monkey",
+        "verb": "grasped",
+        "object": "cup",
+        "neg": null
+    },
+    {
+        "prompt": "the calculator counted cup",
+        "label": 1,
+        "subject": "calculator",
+        "verb": "counted",
+        "object": "cup",
+        "neg": null
+    },
+    {
+        "prompt": "Man chokes bird",
+        "label": 1,
+        "subject": "Man",
+        "verb": "chokes",
+        "object": "bird",
+        "neg": null
+    },
+    {
+        "prompt": "Balloon leaks air",
+        "label": 1,
+        "subject": "Balloon",
+        "verb": "leaks",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "the knife slashed pillow",
+        "label": 1,
+        "subject": "knife",
+        "verb": "slashed",
+        "object": "pillow",
+        "neg": null
+    },
+    {
+        "prompt": "Man kicks rain",
+        "label": 0,
+        "subject": "Man",
+        "verb": "kicks",
+        "object": "rain",
+        "neg": null
+    },
+    {
+        "prompt": "scooter leaked rain",
+        "label": 0,
+        "subject": "scooter",
+        "verb": "leaked",
+        "object": "rain",
+        "neg": null
+    },
+    {
+        "prompt": "Dog cook turkey",
+        "label": 0,
+        "subject": "Dog",
+        "verb": "cook",
+        "object": "turkey",
+        "neg": null
+    },
+    {
+        "prompt": "a hand seized spatula",
+        "label": 1,
+        "subject": "hand",
+        "verb": "seized",
+        "object": "spatula",
+        "neg": null
+    },
+    {
+        "prompt": "Girl enters cup",
+        "label": 0,
+        "subject": "Girl",
+        "verb": "enters",
+        "object": "cup",
+        "neg": null
+    },
+    {
+        "prompt": "Scissors poke finger",
+        "label": 1,
+        "subject": "Scissors",
+        "verb": "poke",
+        "object": "finger",
+        "neg": null
+    },
+    {
+        "prompt": "Stick shove cream",
+        "label": 0,
+        "subject": "Stick",
+        "verb": "shove",
+        "object": "cream",
+        "neg": null
+    },
+    {
+        "prompt": "Bear smash glass",
+        "label": 1,
+        "subject": "Bear",
+        "verb": "smash",
+        "object": "glass",
+        "neg": null
+    },
+    {
+        "prompt": "Cat vomits ant",
+        "label": 1,
+        "subject": "Cat",
+        "verb": "vomits",
+        "object": "ant",
+        "neg": null
+    },
+    {
+        "prompt": "Water is filmed by rabbits",
+        "label": 0,
+        "subject": "Water",
+        "verb": "filmed",
+        "object": "rabbits",
+        "neg": null
+    },
+    {
+        "prompt": "a faucet squirted blood",
+        "label": 1,
+        "subject": "faucet",
+        "verb": "squirted",
+        "object": "blood",
+        "neg": null
+    },
+    {
+        "prompt": "Man hit water",
+        "label": 0,
+        "subject": "Man",
+        "verb": "hit",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Child rotates ball",
+        "label": 1,
+        "subject": "Child",
+        "verb": "rotates",
+        "object": "ball",
+        "neg": null
+    },
+    {
+        "prompt": "the elephant tossed cat",
+        "label": 1,
+        "subject": "elephant",
+        "verb": "tossed",
+        "object": "cat",
+        "neg": null
+    },
+    {
+        "prompt": "Gorilla puff vapor",
+        "label": 1,
+        "subject": "Gorilla",
+        "verb": "puff",
+        "object": "vapor",
+        "neg": null
+    },
+    {
+        "prompt": "Mud kneads water",
+        "label": 0,
+        "subject": "Mud",
+        "verb": "kneads",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Ant heave pumpkin",
+        "label": 0,
+        "subject": "Ant",
+        "verb": "heave",
+        "object": "pumpkin",
+        "neg": null
+    },
+    {
+        "prompt": "Saw mince oxygen",
+        "label": 0,
+        "subject": "mince",
+        "verb": "Saw",
+        "object": "oxygen",
+        "neg": null
+    },
+    {
+        "prompt": "Cat vomits infant",
+        "label": 0,
+        "subject": "Cat",
+        "verb": "vomits",
+        "object": "infant",
+        "neg": null
+    },
+    {
+        "prompt": "a man petted infant",
+        "label": 1,
+        "subject": "man",
+        "verb": "petted",
+        "object": "infant",
+        "neg": null
+    },
+    {
+        "prompt": "Water dampens oil",
+        "label": 0,
+        "subject": "Water",
+        "verb": "dampens",
+        "object": "oil",
+        "neg": null
+    },
+    {
+        "prompt": "Trains are curbed by rabbits",
+        "label": 0,
+        "subject": "Trains",
+        "verb": "curbed",
+        "object": "rabbits",
+        "neg": null
+    },
+    {
+        "prompt": "the man gripped bush",
+        "label": 1,
+        "subject": "man",
+        "verb": "gripped",
+        "object": "bush",
+        "neg": null
+    },
+    {
+        "prompt": "Wolf tackle elephant",
+        "label": 0,
+        "subject": "Wolf",
+        "verb": "tackle",
+        "object": "elephant",
+        "neg": null
+    },
+    {
+        "prompt": "Donkey kicks mud",
+        "label": 1,
+        "subject": "Donkey",
+        "verb": "kicks",
+        "object": "mud",
+        "neg": null
+    },
+    {
+        "prompt": "The dog closed door",
+        "label": 1,
+        "subject": "dog",
+        "verb": "closed",
+        "object": "door",
+        "neg": null
+    },
+    {
+        "prompt": "Knife sharpen glass",
+        "label": 1,
+        "subject": "Knife",
+        "verb": "sharpen",
+        "object": "glass",
+        "neg": null
+    },
+    {
+        "prompt": "cloth absorbs concrete",
+        "label": 0,
+        "subject": "cloth",
+        "verb": "absorbs",
+        "object": "concrete",
+        "neg": null
+    },
+    {
+        "prompt": "ants can't pet cats",
+        "label": 0,
+        "subject": "ants",
+        "verb": "pet",
+        "object": "cats",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Arms fasten girls",
+        "label": 1,
+        "subject": "Arms",
+        "verb": "fasten",
+        "object": "girls",
+        "neg": null
+    },
+    {
+        "prompt": "Wind masks laptop",
+        "label": 0,
+        "subject": "Wind",
+        "verb": "masks",
+        "object": "laptop",
+        "neg": null
+    },
+    {
+        "prompt": "Infant tears tree",
+        "label": 0,
+        "subject": "Infant",
+        "verb": "tears",
+        "object": "tree",
+        "neg": null
+    },
+    {
+        "prompt": "Boat enter room",
+        "label": 0,
+        "subject": "Boat",
+        "verb": "enter",
+        "object": "room",
+        "neg": null
+    },
+    {
+        "prompt": "Chef lengthen rubber",
+        "label": 1,
+        "subject": "Chef",
+        "verb": "lengthen",
+        "object": "rubber",
+        "neg": null
+    },
+    {
+        "prompt": "scissors etched water",
+        "label": 0,
+        "subject": "scissors",
+        "verb": "etched",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Monkeys pluck apples",
+        "label": 1,
+        "subject": "Monkeys",
+        "verb": "pluck",
+        "object": "apples",
+        "neg": null
+    },
+    {
+        "prompt": "an elephant can't fill cup",
+        "label": 0,
+        "subject": "elephant",
+        "verb": "fill",
+        "object": "cup",
+        "neg": "n't"
+    },
+    {
+        "prompt": "man chopped air",
+        "label": 0,
+        "subject": "man",
+        "verb": "chopped",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "Spoon rips dough",
+        "label": 1,
+        "subject": "Spoon",
+        "verb": "rips",
+        "object": "dough",
+        "neg": null
+    },
+    {
+        "prompt": "Monkey grabs hand",
+        "label": 1,
+        "subject": "Monkey",
+        "verb": "grabs",
+        "object": "hand",
+        "neg": null
+    },
+    {
+        "prompt": "table vented air",
+        "label": 0,
+        "subject": "table",
+        "verb": "vented",
+        "object": "air",
+        "neg": null
+    },
+    {
+        "prompt": "Bears pet dolphins",
+        "label": 1,
+        "subject": "Bears",
+        "verb": "pet",
+        "object": "dolphins",
+        "neg": null
+    },
+    {
+        "prompt": "Wind chills water",
+        "label": 1,
+        "subject": "Wind",
+        "verb": "chills",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "a butterfly can't swallow pillow",
+        "label": 0,
+        "subject": "butterfly",
+        "verb": "swallow",
+        "object": "pillow",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Children draw guns",
+        "label": 1,
+        "subject": "Children",
+        "verb": "draw",
+        "object": "guns",
+        "neg": null
+    },
+    {
+        "prompt": "a girl can't catch desert",
+        "label": 0,
+        "subject": "girl",
+        "verb": "catch",
+        "object": "desert",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Elephant drive car",
+        "label": 0,
+        "subject": "Elephant",
+        "verb": "drive",
+        "object": "car",
+        "neg": null
+    },
+    {
+        "prompt": "a girl rolled wheels",
+        "label": 1,
+        "subject": "girl",
+        "verb": "rolled",
+        "object": "wheels",
+        "neg": null
+    },
+    {
+        "prompt": "Men cut fingers",
+        "label": 1,
+        "subject": "Men",
+        "verb": "cut",
+        "object": "fingers",
+        "neg": null
+    },
+    {
+        "prompt": "a girl can't swallow desk",
+        "label": 0,
+        "subject": "girl",
+        "verb": "swallow",
+        "object": "desk",
+        "neg": "n't"
+    },
+    {
+        "prompt": "the clown erected pen",
+        "label": 1,
+        "subject": "clown",
+        "verb": "erected",
+        "object": "pen",
+        "neg": null
+    },
+    {
+        "prompt": "Barbers drain swamps",
+        "label": 1,
+        "subject": "Barbers",
+        "verb": "drain",
+        "object": "swamps",
+        "neg": null
+    },
+    {
+        "prompt": "Claw seizes pebbles",
+        "label": 1,
+        "subject": "Claw",
+        "verb": "seizes",
+        "object": "pebbles",
+        "neg": null
+    },
+    {
+        "prompt": "Rope drags purse",
+        "label": 1,
+        "subject": "Rope",
+        "verb": "drags",
+        "object": "purse",
+        "neg": null
+    },
+    {
+        "prompt": "a girl can't grab stairs",
+        "label": 0,
+        "subject": "girl",
+        "verb": "grab",
+        "object": "stairs",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Dog drops cup",
+        "label": 1,
+        "subject": "Dog",
+        "verb": "drops",
+        "object": "cup",
+        "neg": null
+    },
+    {
+        "prompt": "the spatula poked baby",
+        "label": 1,
+        "subject": "spatula",
+        "verb": "poked",
+        "object": "baby",
+        "neg": null
+    },
+    {
+        "prompt": "Boxes are ticked by men",
+        "label": 0,
+        "subject": "Boxes",
+        "verb": "ticked",
+        "object": "men",
+        "neg": null
+    },
+    {
+        "prompt": "Sons catch thieves",
+        "label": 1,
+        "subject": "Sons",
+        "verb": "catch",
+        "object": "thieves",
+        "neg": null
+    },
+    {
+        "prompt": "Chef halts oil",
+        "label": 0,
+        "subject": "Chef",
+        "verb": "halts",
+        "object": "oil",
+        "neg": null
+    },
+    {
+        "prompt": "Women tug chefs",
+        "label": 1,
+        "subject": "Women",
+        "verb": "tug",
+        "object": "chefs",
+        "neg": null
+    },
+    {
+        "prompt": "Elephant haul nail",
+        "label": 0,
+        "subject": "Elephant",
+        "verb": "haul",
+        "object": "nail",
+        "neg": null
+    },
+    {
+        "prompt": "Smoke is seized by claws.",
+        "label": 0,
+        "subject": "Smoke",
+        "verb": "seized",
+        "object": "claws",
+        "neg": null
+    },
+    {
+        "prompt": "Man sews curtain",
+        "label": 1,
+        "subject": "Man",
+        "verb": "sews",
+        "object": "curtain",
+        "neg": null
+    },
+    {
+        "prompt": "man leaked wind",
+        "label": 0,
+        "subject": "man",
+        "verb": "leaked",
+        "object": "wind",
+        "neg": null
+    },
+    {
+        "prompt": "woman flipped cream",
+        "label": 0,
+        "subject": "woman",
+        "verb": "flipped",
+        "object": "cream",
+        "neg": null
+    },
+    {
+        "prompt": "Knife chops rock",
+        "label": 0,
+        "subject": "Knife",
+        "verb": "chops",
+        "object": "rock",
+        "neg": null
+    },
+    {
+        "prompt": "rabbit baked turkey",
+        "label": 0,
+        "subject": "rabbit",
+        "verb": "baked",
+        "object": "turkey",
+        "neg": null
+    }
+]

@@ -1,0 +1,1226 @@
+[
+    {
+        "prompt": "Tongue licks wound",
+        "label": 1
+    },
+    {
+        "prompt": "Rock fractures shirt",
+        "label": 0
+    },
+    {
+        "prompt": "Cream pierces tongue",
+        "label": 0
+    },
+    {
+        "prompt": "Ants are killed by air",
+        "label": 0
+    },
+    {
+        "prompt": "Stove heats air",
+        "label": 1
+    },
+    {
+        "prompt": "Worm swallow book",
+        "label": 0
+    },
+    {
+        "prompt": "Ice freezes rock",
+        "label": 1
+    },
+    {
+        "prompt": "Chefs open bottles",
+        "label": 1
+    },
+    {
+        "prompt": "a cheetah ate apple",
+        "label": 1
+    },
+    {
+        "prompt": "Spatula capsize pan",
+        "label": 1
+    },
+    {
+        "prompt": "paper sharpens plastic",
+        "label": 0
+    },
+    {
+        "prompt": "Ship vents water.",
+        "label": 0
+    },
+    {
+        "prompt": "woman exhaled water",
+        "label": 0
+    },
+    {
+        "prompt": "woman drank cup",
+        "label": 0
+    },
+    {
+        "prompt": "Lakes are erased with scissors",
+        "label": 0
+    },
+    {
+        "prompt": "Cloth mask skyscraper.",
+        "label": 0
+    },
+    {
+        "prompt": "the man petted baby",
+        "label": 1
+    },
+    {
+        "prompt": "Men are stomped by dogs",
+        "label": 0
+    },
+    {
+        "prompt": "a shirt absorbs sand",
+        "label": 0
+    },
+    {
+        "prompt": "a laptop can't absorb rock",
+        "label": 0
+    },
+    {
+        "prompt": "ant shoved horse",
+        "label": 0
+    },
+    {
+        "prompt": "Rain scratch arm",
+        "label": 0
+    },
+    {
+        "prompt": "the scissors dug hay",
+        "label": 1
+    },
+    {
+        "prompt": "a cat was ridden by dog",
+        "label": 1
+    },
+    {
+        "prompt": "Girl slide on water",
+        "label": 0
+    },
+    {
+        "prompt": "Atom punches wall",
+        "label": 0
+    },
+    {
+        "prompt": "Cup pour milk",
+        "label": 1
+    },
+    {
+        "prompt": "Rocks are bent by infants",
+        "label": 0
+    },
+    {
+        "prompt": "Clown sews paper",
+        "label": 0
+    },
+    {
+        "prompt": "the dad cleaned plate",
+        "label": 1
+    },
+    {
+        "prompt": "Glue attaches sticker",
+        "label": 1
+    },
+    {
+        "prompt": "Dolphin burns cloth",
+        "label": 0
+    },
+    {
+        "prompt": "Dolphin kiss fish",
+        "label": 1
+    },
+    {
+        "prompt": "octopus groped soda",
+        "label": 0
+    },
+    {
+        "prompt": "a policeman halted ball.",
+        "label": 1
+    },
+    {
+        "prompt": "ant clenched closet",
+        "label": 0
+    },
+    {
+        "prompt": "a bug can't climb air",
+        "label": 0
+    },
+    {
+        "prompt": "Clown catch baboon",
+        "label": 1
+    },
+    {
+        "prompt": "Rabbit seizes elephant",
+        "label": 0
+    },
+    {
+        "prompt": "a freezer can't warm foot",
+        "label": 0
+    },
+    {
+        "prompt": "Hand fastens rabbit",
+        "label": 1
+    },
+    {
+        "prompt": "a man crushed child",
+        "label": 1
+    },
+    {
+        "prompt": "a rock crashed cup",
+        "label": 1
+    },
+    {
+        "prompt": "Cat knits shirt",
+        "label": 0
+    },
+    {
+        "prompt": "Monkeys seize cats",
+        "label": 1
+    },
+    {
+        "prompt": "Branch cleaved",
+        "label": 0
+    },
+    {
+        "prompt": "Chef creates moon",
+        "label": 0
+    },
+    {
+        "prompt": "water pierced tongue",
+        "label": 0
+    },
+    {
+        "prompt": "a witch can't bake air",
+        "label": 0
+    },
+    {
+        "prompt": "wood kneaded flour",
+        "label": 1
+    },
+    {
+        "prompt": "Sticks hook purses",
+        "label": 1
+    },
+    {
+        "prompt": "Rabbits are petted by computers",
+        "label": 0
+    },
+    {
+        "prompt": "paper absorbed sand",
+        "label": 0
+    },
+    {
+        "prompt": "the monkey filled bucket",
+        "label": 1
+    },
+    {
+        "prompt": "an elephant tore wool",
+        "label": 1
+    },
+    {
+        "prompt": "Man grip brush",
+        "label": 1
+    },
+    {
+        "prompt": "a fist tapped spatula",
+        "label": 1
+    },
+    {
+        "prompt": "Child packs truck",
+        "label": 0
+    },
+    {
+        "prompt": "Cream is opened by cows",
+        "label": 0
+    },
+    {
+        "prompt": "an ant can't snatch rabbit",
+        "label": 0
+    },
+    {
+        "prompt": "Wool crushes rock",
+        "label": 0
+    },
+    {
+        "prompt": "the pillow masked infant",
+        "label": 1
+    },
+    {
+        "prompt": "Women kiss girl",
+        "label": 1
+    },
+    {
+        "prompt": "Cloth erases house",
+        "label": 0
+    },
+    {
+        "prompt": "Girl cuts grape",
+        "label": 1
+    },
+    {
+        "prompt": "Houses are lengthened by students",
+        "label": 0
+    },
+    {
+        "prompt": "Girl clenches bike",
+        "label": 1
+    },
+    {
+        "prompt": "Claw rip through water",
+        "label": 0
+    },
+    {
+        "prompt": "Girl vomits pea",
+        "label": 1
+    },
+    {
+        "prompt": "Worm drag turtle",
+        "label": 0
+    },
+    {
+        "prompt": "a woman can't eat shovel",
+        "label": 0
+    },
+    {
+        "prompt": "the needle sewed dress",
+        "label": 1
+    },
+    {
+        "prompt": "Monkey kicks chef",
+        "label": 1
+    },
+    {
+        "prompt": "Girl cook fish",
+        "label": 1
+    },
+    {
+        "prompt": "Pins slash skins",
+        "label": 1
+    },
+    {
+        "prompt": "Turtle climb wind",
+        "label": 0
+    },
+    {
+        "prompt": "Hand rotate log",
+        "label": 1
+    },
+    {
+        "prompt": "Boat breed baboon",
+        "label": 1
+    },
+    {
+        "prompt": "Pipe ejaculate wind",
+        "label": 0
+    },
+    {
+        "prompt": "Water is cut by air",
+        "label": 0
+    },
+    {
+        "prompt": "Man shake door",
+        "label": 1
+    },
+    {
+        "prompt": "woman grabbed oil",
+        "label": 0
+    },
+    {
+        "prompt": "Ant toss cat",
+        "label": 0
+    },
+    {
+        "prompt": "Needle pokes sink",
+        "label": 1
+    },
+    {
+        "prompt": "the student dumped dirt",
+        "label": 1
+    },
+    {
+        "prompt": "Stick hook water",
+        "label": 0
+    },
+    {
+        "prompt": "Chefs knit shirts",
+        "label": 1
+    },
+    {
+        "prompt": "a bear buried dentist",
+        "label": 1
+    },
+    {
+        "prompt": "Pipe drain lake",
+        "label": 1
+    },
+    {
+        "prompt": "a fist clenched fist",
+        "label": 1
+    },
+    {
+        "prompt": "Elephant squashes boat",
+        "label": 1
+    },
+    {
+        "prompt": "the hand stretched rabbit",
+        "label": 1
+    },
+    {
+        "prompt": "Brother hurt chair",
+        "label": 0
+    },
+    {
+        "prompt": "a girl shoved book",
+        "label": 1
+    },
+    {
+        "prompt": "the table rubbed shirt",
+        "label": 1
+    },
+    {
+        "prompt": "Knife mince cream",
+        "label": 0
+    },
+    {
+        "prompt": "Girls are created by lions",
+        "label": 0
+    },
+    {
+        "prompt": "Men build cups",
+        "label": 1
+    },
+    {
+        "prompt": "Horse toss elephant",
+        "label": 0
+    },
+    {
+        "prompt": "Man fold pebbles",
+        "label": 0
+    },
+    {
+        "prompt": "Glue fuses wind",
+        "label": 0
+    },
+    {
+        "prompt": "Child fold cloth.",
+        "label": 1
+    },
+    {
+        "prompt": "a dog folded silk",
+        "label": 1
+    },
+    {
+        "prompt": "Wolves bite nails",
+        "label": 1
+    },
+    {
+        "prompt": "the girl beat dentist",
+        "label": 1
+    },
+    {
+        "prompt": "straw bends body.",
+        "label": 0
+    },
+    {
+        "prompt": "Boy punch girl",
+        "label": 1
+    },
+    {
+        "prompt": "Pillows are sharpened with knife",
+        "label": 0
+    },
+    {
+        "prompt": "Brothers are hit by air",
+        "label": 0
+    },
+    {
+        "prompt": "Hook fishes chair",
+        "label": 1
+    },
+    {
+        "prompt": "pillow flattened car",
+        "label": 0
+    },
+    {
+        "prompt": "pebbles chafed nail",
+        "label": 1
+    },
+    {
+        "prompt": "Bears wrestle with rocks",
+        "label": 0
+    },
+    {
+        "prompt": "a policeman cleaned rice",
+        "label": 1
+    },
+    {
+        "prompt": "Knives damage pillows",
+        "label": 1
+    },
+    {
+        "prompt": "Air warms cream",
+        "label": 0
+    },
+    {
+        "prompt": "Chefs peel skins",
+        "label": 1
+    },
+    {
+        "prompt": "Snow curb house",
+        "label": 0
+    },
+    {
+        "prompt": "an ape kissed woman",
+        "label": 1
+    },
+    {
+        "prompt": "Barge capsize basket",
+        "label": 1
+    },
+    {
+        "prompt": "Children haul cats",
+        "label": 1
+    },
+    {
+        "prompt": "Cat destroys hat.",
+        "label": 1
+    },
+    {
+        "prompt": "straw bends egg",
+        "label": 0
+    },
+    {
+        "prompt": "Toe pushes basketball",
+        "label": 1
+    },
+    {
+        "prompt": "Rocks are bred by students",
+        "label": 0
+    },
+    {
+        "prompt": "Ice cool girl",
+        "label": 1
+    },
+    {
+        "prompt": "Keys are peeled by girls",
+        "label": 0
+    },
+    {
+        "prompt": "gorilla rode bowl",
+        "label": 0
+    },
+    {
+        "prompt": "a chisel scraped bone",
+        "label": 1
+    },
+    {
+        "prompt": "water dug wool",
+        "label": 0
+    },
+    {
+        "prompt": "fire heated desert",
+        "label": 1
+    },
+    {
+        "prompt": "Dog stretch chair",
+        "label": 0
+    },
+    {
+        "prompt": "Dog creates bread",
+        "label": 0
+    },
+    {
+        "prompt": "Dog hauls wind",
+        "label": 0
+    },
+    {
+        "prompt": "wood chops onions",
+        "label": 0
+    },
+    {
+        "prompt": "a hand ripped book",
+        "label": 1
+    },
+    {
+        "prompt": "cup poured cloud",
+        "label": 0
+    },
+    {
+        "prompt": "man burned ice",
+        "label": 0
+    },
+    {
+        "prompt": "water dumps water",
+        "label": 0
+    },
+    {
+        "prompt": "leaf erased oil",
+        "label": 0
+    },
+    {
+        "prompt": "Skyscraper heats air",
+        "label": 0
+    },
+    {
+        "prompt": "Boat hurls house",
+        "label": 0
+    },
+    {
+        "prompt": "Oil is cropped with knife",
+        "label": 0
+    },
+    {
+        "prompt": "Dust is clipped with wool",
+        "label": 0
+    },
+    {
+        "prompt": "Dog carry scissors",
+        "label": 1
+    },
+    {
+        "prompt": "a girl choked dog",
+        "label": 1
+    },
+    {
+        "prompt": "Knife mince cream",
+        "label": 0
+    },
+    {
+        "prompt": "Truck move tree",
+        "label": 1
+    },
+    {
+        "prompt": "glue fused air",
+        "label": 0
+    },
+    {
+        "prompt": "Men kill dogs",
+        "label": 1
+    },
+    {
+        "prompt": "Child create table",
+        "label": 1
+    },
+    {
+        "prompt": "Ant pack cake",
+        "label": 0
+    },
+    {
+        "prompt": "Monkey breed with dolphin",
+        "label": 0
+    },
+    {
+        "prompt": "a dog can't draw laptop",
+        "label": 0
+    },
+    {
+        "prompt": "the child threw cup",
+        "label": 1
+    },
+    {
+        "prompt": "Boat hurl ship",
+        "label": 1
+    },
+    {
+        "prompt": "a chair can't rub rain",
+        "label": 0
+    },
+    {
+        "prompt": "tape fused spatula",
+        "label": 1
+    },
+    {
+        "prompt": "Air is clenched by clown",
+        "label": 0
+    },
+    {
+        "prompt": "Flea bites dog",
+        "label": 1
+    },
+    {
+        "prompt": "man ate laptop",
+        "label": 0
+    },
+    {
+        "prompt": "man folded elephant",
+        "label": 0
+    },
+    {
+        "prompt": "Man drops skyscraper",
+        "label": 0
+    },
+    {
+        "prompt": "Gorilla licks hand",
+        "label": 1
+    },
+    {
+        "prompt": "Boats are dragged by gas",
+        "label": 0
+    },
+    {
+        "prompt": "Arrows pierce tongues",
+        "label": 1
+    },
+    {
+        "prompt": "Pitcher pours laptop",
+        "label": 0
+    },
+    {
+        "prompt": "Glove hold stick",
+        "label": 1
+    },
+    {
+        "prompt": "the clown clipped paper",
+        "label": 1
+    },
+    {
+        "prompt": "child grasped smoke",
+        "label": 0
+    },
+    {
+        "prompt": "Men grope strangers",
+        "label": 1
+    },
+    {
+        "prompt": "Knife peel banana",
+        "label": 1
+    },
+    {
+        "prompt": "an infant petted cat",
+        "label": 1
+    },
+    {
+        "prompt": "Hands are masked with water",
+        "label": 0
+    },
+    {
+        "prompt": "Girl slides on ice",
+        "label": 1
+    },
+    {
+        "prompt": "Students climb ships",
+        "label": 1
+    },
+    {
+        "prompt": "Zebras kill dolphins",
+        "label": 1
+    },
+    {
+        "prompt": "Lion wrestles bear",
+        "label": 1
+    },
+    {
+        "prompt": "leather fed worm",
+        "label": 1
+    },
+    {
+        "prompt": "the elephant hauled lion",
+        "label": 1
+    },
+    {
+        "prompt": "Robot drive boat",
+        "label": 1
+    },
+    {
+        "prompt": "Hand throw smoke",
+        "label": 0
+    },
+    {
+        "prompt": "Knife chop tree",
+        "label": 1
+    },
+    {
+        "prompt": "Child fixes laptop",
+        "label": 1
+    },
+    {
+        "prompt": "Bowls spill water",
+        "label": 1
+    },
+    {
+        "prompt": "Juice is poured with pin",
+        "label": 0
+    },
+    {
+        "prompt": "the dog threw rabbit",
+        "label": 1
+    },
+    {
+        "prompt": "a woman can't grasp skyscraper",
+        "label": 0
+    },
+    {
+        "prompt": "man vented air",
+        "label": 0
+    },
+    {
+        "prompt": "the glove held earplug",
+        "label": 1
+    },
+    {
+        "prompt": "a dog ate rabbit",
+        "label": 1
+    },
+    {
+        "prompt": "Clowns cook monkeys",
+        "label": 1
+    },
+    {
+        "prompt": "the woman created child",
+        "label": 1
+    },
+    {
+        "prompt": "lion filled bowl",
+        "label": 0
+    },
+    {
+        "prompt": "a man packed purse",
+        "label": 1
+    },
+    {
+        "prompt": "Rabbits hug dogs",
+        "label": 1
+    },
+    {
+        "prompt": "man fed pebbles.",
+        "label": 0
+    },
+    {
+        "prompt": "book trimmed rabbit",
+        "label": 0
+    },
+    {
+        "prompt": "Bug curbs lion",
+        "label": 0
+    },
+    {
+        "prompt": "the clown slammed window.",
+        "label": 1
+    },
+    {
+        "prompt": "Sticks hook stools.",
+        "label": 1
+    },
+    {
+        "prompt": "an ant can't kiss elephant",
+        "label": 0
+    },
+    {
+        "prompt": "Finger tap plane",
+        "label": 1
+    },
+    {
+        "prompt": "an infant can't spill apple",
+        "label": 0
+    },
+    {
+        "prompt": "Wind is licked by dolphins",
+        "label": 0
+    },
+    {
+        "prompt": "the sun warmed skin",
+        "label": 1
+    },
+    {
+        "prompt": "Gorilla grabs pin",
+        "label": 1
+    },
+    {
+        "prompt": "Sword fractures air",
+        "label": 0
+    },
+    {
+        "prompt": "a pillow covered pea",
+        "label": 1
+    },
+    {
+        "prompt": "Finger rub air",
+        "label": 0
+    },
+    {
+        "prompt": "the cat plucked leaf",
+        "label": 1
+    },
+    {
+        "prompt": "knife trimmed house",
+        "label": 0
+    },
+    {
+        "prompt": "Woman fries turtle",
+        "label": 1
+    },
+    {
+        "prompt": "Knives poke fingers",
+        "label": 1
+    },
+    {
+        "prompt": "Pillows are exhaled by cats",
+        "label": 0
+    },
+    {
+        "prompt": "Horse tackle turtle",
+        "label": 1
+    },
+    {
+        "prompt": "a rabbit can't erect building",
+        "label": 0
+    },
+    {
+        "prompt": "Water is buried by student",
+        "label": 0
+    },
+    {
+        "prompt": "Bikes are chopped by pumpkins",
+        "label": 0
+    },
+    {
+        "prompt": "ice warms food",
+        "label": 0
+    },
+    {
+        "prompt": "Chef fishes house",
+        "label": 0
+    },
+    {
+        "prompt": "a knife can't damage oil",
+        "label": 0
+    },
+    {
+        "prompt": "a donkey can't kick milk",
+        "label": 0
+    },
+    {
+        "prompt": "The rabbit was damaged by knife",
+        "label": 1
+    },
+    {
+        "prompt": "Rabbit choke man",
+        "label": 0
+    },
+    {
+        "prompt": "Elephants are grabbed by men",
+        "label": 0
+    },
+    {
+        "prompt": "an elephant heaved log",
+        "label": 1
+    },
+    {
+        "prompt": "dog choked bear",
+        "label": 0
+    },
+    {
+        "prompt": "Freezers cool oil",
+        "label": 1
+    },
+    {
+        "prompt": "the ant built wall",
+        "label": 1
+    },
+    {
+        "prompt": "Pencil hang shirt",
+        "label": 1
+    },
+    {
+        "prompt": "the boat carried mud",
+        "label": 1
+    },
+    {
+        "prompt": "a tree can't leak gas",
+        "label": 0
+    },
+    {
+        "prompt": "a monkey grasped cup",
+        "label": 1
+    },
+    {
+        "prompt": "the calculator counted cup",
+        "label": 1
+    },
+    {
+        "prompt": "Man chokes bird",
+        "label": 1
+    },
+    {
+        "prompt": "Balloon leaks air",
+        "label": 1
+    },
+    {
+        "prompt": "the knife slashed pillow",
+        "label": 1
+    },
+    {
+        "prompt": "Man kicks rain",
+        "label": 0
+    },
+    {
+        "prompt": "scooter leaked rain",
+        "label": 0
+    },
+    {
+        "prompt": "Dog cook turkey",
+        "label": 0
+    },
+    {
+        "prompt": "a hand seized spatula",
+        "label": 1
+    },
+    {
+        "prompt": "Girl enters cup",
+        "label": 0
+    },
+    {
+        "prompt": "Scissors poke finger",
+        "label": 1
+    },
+    {
+        "prompt": "Stick shove cream",
+        "label": 0
+    },
+    {
+        "prompt": "Bear smash glass",
+        "label": 1
+    },
+    {
+        "prompt": "Cat vomits ant",
+        "label": 1
+    },
+    {
+        "prompt": "Water is filmed by rabbits",
+        "label": 0
+    },
+    {
+        "prompt": "a faucet squirted blood",
+        "label": 1
+    },
+    {
+        "prompt": "Man hit water",
+        "label": 0
+    },
+    {
+        "prompt": "Child rotates ball",
+        "label": 1
+    },
+    {
+        "prompt": "the elephant tossed cat",
+        "label": 1
+    },
+    {
+        "prompt": "Gorilla puff vapor",
+        "label": 1
+    },
+    {
+        "prompt": "Mud kneads water",
+        "label": 0
+    },
+    {
+        "prompt": "Ant heave pumpkin",
+        "label": 0
+    },
+    {
+        "prompt": "Saw mince oxygen",
+        "label": 0
+    },
+    {
+        "prompt": "Cat vomits infant",
+        "label": 0
+    },
+    {
+        "prompt": "a man petted infant",
+        "label": 1
+    },
+    {
+        "prompt": "Water dampens oil",
+        "label": 0
+    },
+    {
+        "prompt": "Trains are curbed by rabbits",
+        "label": 0
+    },
+    {
+        "prompt": "the man gripped bush",
+        "label": 1
+    },
+    {
+        "prompt": "Wolf tackle elephant",
+        "label": 0
+    },
+    {
+        "prompt": "Donkey kicks mud",
+        "label": 1
+    },
+    {
+        "prompt": "The dog closed door",
+        "label": 1
+    },
+    {
+        "prompt": "Knife sharpen glass",
+        "label": 1
+    },
+    {
+        "prompt": "cloth absorbs concrete",
+        "label": 0
+    },
+    {
+        "prompt": "ants can't pet cats",
+        "label": 0
+    },
+    {
+        "prompt": "Arms fasten girls",
+        "label": 1
+    },
+    {
+        "prompt": "Wind masks laptop",
+        "label": 0
+    },
+    {
+        "prompt": "Infant tears tree",
+        "label": 0
+    },
+    {
+        "prompt": "Boat enter room",
+        "label": 0
+    },
+    {
+        "prompt": "Chef lengthen rubber",
+        "label": 1
+    },
+    {
+        "prompt": "scissors etched water",
+        "label": 0
+    },
+    {
+        "prompt": "Monkeys pluck apples",
+        "label": 1
+    },
+    {
+        "prompt": "an elephant can't fill cup",
+        "label": 0
+    },
+    {
+        "prompt": "man chopped air",
+        "label": 0
+    },
+    {
+        "prompt": "Spoon rips dough",
+        "label": 1
+    },
+    {
+        "prompt": "Monkey grabs hand",
+        "label": 1
+    },
+    {
+        "prompt": "table vented air",
+        "label": 0
+    },
+    {
+        "prompt": "Bears pet dolphins",
+        "label": 1
+    },
+    {
+        "prompt": "Wind chills water",
+        "label": 1
+    },
+    {
+        "prompt": "a butterfly can't swallow pillow",
+        "label": 0
+    },
+    {
+        "prompt": "Children draw guns",
+        "label": 1
+    },
+    {
+        "prompt": "a girl can't catch desert",
+        "label": 0
+    },
+    {
+        "prompt": "Elephant drive car",
+        "label": 0
+    },
+    {
+        "prompt": "a girl rolled wheels",
+        "label": 1
+    },
+    {
+        "prompt": "Men cut fingers",
+        "label": 1
+    },
+    {
+        "prompt": "a girl can't swallow desk",
+        "label": 0
+    },
+    {
+        "prompt": "the clown erected pen",
+        "label": 1
+    },
+    {
+        "prompt": "Barbers drain swamps",
+        "label": 1
+    },
+    {
+        "prompt": "Claw seizes pebbles",
+        "label": 1
+    },
+    {
+        "prompt": "Rope drags purse",
+        "label": 1
+    },
+    {
+        "prompt": "a girl can't grab stairs",
+        "label": 0
+    },
+    {
+        "prompt": "Dog drops cup",
+        "label": 1
+    },
+    {
+        "prompt": "the spatula poked baby",
+        "label": 1
+    },
+    {
+        "prompt": "Boxes are ticked by men",
+        "label": 0
+    },
+    {
+        "prompt": "Sons catch thieves",
+        "label": 1
+    },
+    {
+        "prompt": "Chef halts oil",
+        "label": 0
+    },
+    {
+        "prompt": "Women tug chefs",
+        "label": 1
+    },
+    {
+        "prompt": "Elephant haul nail",
+        "label": 0
+    },
+    {
+        "prompt": "Smoke is seized by claws.",
+        "label": 0
+    },
+    {
+        "prompt": "Man sews curtain",
+        "label": 1
+    },
+    {
+        "prompt": "man leaked wind",
+        "label": 0
+    },
+    {
+        "prompt": "woman flipped cream",
+        "label": 0
+    },
+    {
+        "prompt": "Knife chops rock",
+        "label": 0
+    },
+    {
+        "prompt": "rabbit baked turkey",
+        "label": 0
+    }
+]
