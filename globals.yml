@@ -1,0 +1,10 @@
+---
+  # Result files
+  RESULTS_DIR: "results"
+
+  # Data files
+  STATS_DIR: "data/stats"
+  KV_DIR: "/share/projects/rewriting-knowledge/kvs"
+
+  # Hyperparameters
+  HPARAMS_DIR: "hparams"

@@ -1,0 +1,282 @@
+[
+    {
+        "prompt": "Rock fractures shirt",
+        "label": 0
+    },
+    {
+        "prompt": "Cream pierces tongue",
+        "label": 0
+    },
+    {
+        "prompt": "Stove heats air",
+        "label": 1
+    },
+    {
+        "prompt": "Ice freezes rock",
+        "label": 1
+    },
+    {
+        "prompt": "Ship vents water.",
+        "label": 0
+    },
+    {
+        "prompt": "a shirt absorbs sand",
+        "label": 0
+    },
+    {
+        "prompt": "Atom punches wall",
+        "label": 0
+    },
+    {
+        "prompt": "Clown sews paper",
+        "label": 0
+    },
+    {
+        "prompt": "Dolphin kiss fish",
+        "label": 1
+    },
+    {
+        "prompt": "Clown catch baboon",
+        "label": 1
+    },
+    {
+        "prompt": "Branch cleaved",
+        "label": 0
+    },
+    {
+        "prompt": "Chef creates moon",
+        "label": 0
+    },
+    {
+        "prompt": "wood kneaded flour",
+        "label": 1
+    },
+    {
+        "prompt": "paper absorbed sand",
+        "label": 0
+    },
+    {
+        "prompt": "an elephant tore wool",
+        "label": 1
+    },
+    {
+        "prompt": "Child packs truck",
+        "label": 0
+    },
+    {
+        "prompt": "Girl vomits pea",
+        "label": 1
+    },
+    {
+        "prompt": "Man shake door",
+        "label": 1
+    },
+    {
+        "prompt": "a bear buried dentist",
+        "label": 1
+    },
+    {
+        "prompt": "Pipe drain lake",
+        "label": 1
+    },
+    {
+        "prompt": "Elephant squashes boat",
+        "label": 1
+    },
+    {
+        "prompt": "Brother hurt chair",
+        "label": 0
+    },
+    {
+        "prompt": "Knife mince cream",
+        "label": 0
+    },
+    {
+        "prompt": "Men build cups",
+        "label": 1
+    },
+    {
+        "prompt": "a dog folded silk",
+        "label": 1
+    },
+    {
+        "prompt": "pebbles chafed nail",
+        "label": 1
+    },
+    {
+        "prompt": "Bears wrestle with rocks",
+        "label": 0
+    },
+    {
+        "prompt": "Air warms cream",
+        "label": 0
+    },
+    {
+        "prompt": "Toe pushes basketball",
+        "label": 1
+    },
+    {
+        "prompt": "fire heated desert",
+        "label": 1
+    },
+    {
+        "prompt": "Dog creates bread",
+        "label": 0
+    },
+    {
+        "prompt": "wood chops onions",
+        "label": 0
+    },
+    {
+        "prompt": "a hand ripped book",
+        "label": 1
+    },
+    {
+        "prompt": "Knife mince cream",
+        "label": 0
+    },
+    {
+        "prompt": "Truck move tree",
+        "label": 1
+    },
+    {
+        "prompt": "Child create table",
+        "label": 1
+    },
+    {
+        "prompt": "man ate laptop",
+        "label": 0
+    },
+    {
+        "prompt": "Man drops skyscraper",
+        "label": 0
+    },
+    {
+        "prompt": "Pitcher pours laptop",
+        "label": 0
+    },
+    {
+        "prompt": "Students climb ships",
+        "label": 1
+    },
+    {
+        "prompt": "Zebras kill dolphins",
+        "label": 1
+    },
+    {
+        "prompt": "Lion wrestles bear",
+        "label": 1
+    },
+    {
+        "prompt": "Knife chop tree",
+        "label": 1
+    },
+    {
+        "prompt": "Rabbits hug dogs",
+        "label": 1
+    },
+    {
+        "prompt": "book trimmed rabbit",
+        "label": 0
+    },
+    {
+        "prompt": "Bug curbs lion",
+        "label": 0
+    },
+    {
+        "prompt": "Sticks hook stools.",
+        "label": 1
+    },
+    {
+        "prompt": "Finger tap plane",
+        "label": 1
+    },
+    {
+        "prompt": "Gorilla grabs pin",
+        "label": 1
+    },
+    {
+        "prompt": "a pillow covered pea",
+        "label": 1
+    },
+    {
+        "prompt": "Horse tackle turtle",
+        "label": 1
+    },
+    {
+        "prompt": "Bikes are chopped by pumpkins",
+        "label": 0
+    },
+    {
+        "prompt": "ice warms food",
+        "label": 0
+    },
+    {
+        "prompt": "Chef fishes house",
+        "label": 0
+    },
+    {
+        "prompt": "Freezers cool oil",
+        "label": 1
+    },
+    {
+        "prompt": "Balloon leaks air",
+        "label": 1
+    },
+    {
+        "prompt": "Dog cook turkey",
+        "label": 0
+    },
+    {
+        "prompt": "a hand seized spatula",
+        "label": 1
+    },
+    {
+        "prompt": "Girl enters cup",
+        "label": 0
+    },
+    {
+        "prompt": "Cat vomits ant",
+        "label": 1
+    },
+    {
+        "prompt": "Gorilla puff vapor",
+        "label": 1
+    },
+    {
+        "prompt": "Saw mince oxygen",
+        "label": 0
+    },
+    {
+        "prompt": "Cat vomits infant",
+        "label": 0
+    },
+    {
+        "prompt": "Boat enter room",
+        "label": 0
+    },
+    {
+        "prompt": "Bears pet dolphins",
+        "label": 1
+    },
+    {
+        "prompt": "Wind chills water",
+        "label": 1
+    },
+    {
+        "prompt": "Barbers drain swamps",
+        "label": 1
+    },
+    {
+        "prompt": "a girl can't grab stairs",
+        "label": 0
+    },
+    {
+        "prompt": "Chef halts oil",
+        "label": 0
+    },
+    {
+        "prompt": "Women tug chefs",
+        "label": 1
+    }
+]

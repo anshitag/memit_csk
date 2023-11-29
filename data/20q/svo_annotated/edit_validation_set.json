@@ -1,0 +1,4058 @@
+[
+    {
+        "prompt": "shoppers involve themselves in degree programs",
+        "label": 0,
+        "subject": "shoppers",
+        "verb": "involve",
+        "object": "themselves",
+        "neg": null
+    },
+    {
+        "prompt": "Microwaves need water",
+        "label": 0,
+        "subject": "Microwaves",
+        "verb": "need",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "kids use valves",
+        "label": 1,
+        "subject": "kids",
+        "verb": "use",
+        "object": "valves",
+        "neg": null
+    },
+    {
+        "prompt": "a monsignor requires college",
+        "label": 1,
+        "subject": "monsignor",
+        "verb": "requires",
+        "object": "college",
+        "neg": null
+    },
+    {
+        "prompt": "a child eats crackers",
+        "label": 1,
+        "subject": "child",
+        "verb": "eats",
+        "object": "crackers",
+        "neg": null
+    },
+    {
+        "prompt": "cash tells time",
+        "label": 0,
+        "subject": "cash",
+        "verb": "tells",
+        "object": "time",
+        "neg": null
+    },
+    {
+        "prompt": "People eat diarrhoea",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "diarrhoea",
+        "neg": null
+    },
+    {
+        "prompt": "plugs are used in compost",
+        "label": 0,
+        "subject": "plugs",
+        "verb": "used",
+        "object": "compost",
+        "neg": null
+    },
+    {
+        "prompt": "Artists make something",
+        "label": 1,
+        "subject": "Artists",
+        "verb": "make",
+        "object": "something",
+        "neg": null
+    },
+    {
+        "prompt": "okra have flowers",
+        "label": 1,
+        "subject": "okra",
+        "verb": "have",
+        "object": "flowers",
+        "neg": null
+    },
+    {
+        "prompt": "notepads have legs",
+        "label": 0,
+        "subject": "notepads",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "monograms use water",
+        "label": 0,
+        "subject": "monograms",
+        "verb": "use",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Foundations have no wheels",
+        "label": 0,
+        "subject": "Foundations",
+        "verb": "have",
+        "object": "wheels",
+        "neg": null
+    },
+    {
+        "prompt": "smokescreens involve wafers",
+        "label": 0,
+        "subject": "smokescreens",
+        "verb": "involve",
+        "object": "wafers",
+        "neg": null
+    },
+    {
+        "prompt": "abdomens take electricity",
+        "label": 0,
+        "subject": "abdomens",
+        "verb": "take",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "men use tampons",
+        "label": 0,
+        "subject": "men",
+        "verb": "use",
+        "object": "tampons",
+        "neg": null
+    },
+    {
+        "prompt": "clitorises have brains",
+        "label": 0,
+        "subject": "clitorises",
+        "verb": "have",
+        "object": "brains",
+        "neg": null
+    },
+    {
+        "prompt": "triages are driven by people",
+        "label": 0,
+        "subject": "triages",
+        "verb": "driven",
+        "object": "people",
+        "neg": null
+    },
+    {
+        "prompt": "fire hydrants emit water",
+        "label": 0,
+        "subject": "fire",
+        "verb": "emit",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Whetstones have buttons",
+        "label": 0,
+        "subject": "Whetstones",
+        "verb": "have",
+        "object": "buttons",
+        "neg": null
+    },
+    {
+        "prompt": "people drink ground",
+        "label": 0,
+        "subject": "people",
+        "verb": "drink",
+        "object": "ground",
+        "neg": null
+    },
+    {
+        "prompt": "delegates have windows",
+        "label": 0,
+        "subject": "delegates",
+        "verb": "have",
+        "object": "windows",
+        "neg": null
+    },
+    {
+        "prompt": "Hobby makes noise",
+        "label": 1,
+        "subject": "Hobby",
+        "verb": "makes",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "snakes have legs",
+        "label": 0,
+        "subject": "snakes",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "Thumbnails have cameras",
+        "label": 0,
+        "subject": "Thumbnails",
+        "verb": "have",
+        "object": "cameras",
+        "neg": null
+    },
+    {
+        "prompt": "swimming involves driving",
+        "label": 0,
+        "subject": "swimming",
+        "verb": "involves",
+        "object": "driving",
+        "neg": null
+    },
+    {
+        "prompt": "Doves have tails",
+        "label": 1,
+        "subject": "Doves",
+        "verb": "have",
+        "object": "tails",
+        "neg": null
+    },
+    {
+        "prompt": "people climb turtles",
+        "label": 0,
+        "subject": "people",
+        "verb": "climb",
+        "object": "turtles",
+        "neg": null
+    },
+    {
+        "prompt": "oregano has heart",
+        "label": 0,
+        "subject": "oregano",
+        "verb": "has",
+        "object": "heart",
+        "neg": null
+    },
+    {
+        "prompt": "people eat cans",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "cans",
+        "neg": null
+    },
+    {
+        "prompt": "completion involves ethnicity",
+        "label": 0,
+        "subject": "completion",
+        "verb": "involves",
+        "object": "ethnicity",
+        "neg": null
+    },
+    {
+        "prompt": "Fungi have no legs",
+        "label": 0,
+        "subject": "Fungi",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "People don't eat poop",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "poop",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Schoolmistress creates design",
+        "label": 1,
+        "subject": "Schoolmistress",
+        "verb": "creates",
+        "object": "design",
+        "neg": null
+    },
+    {
+        "prompt": "Attire uses electricity",
+        "label": 0,
+        "subject": "Attire",
+        "verb": "uses",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "Recipients emit odors",
+        "label": 0,
+        "subject": "Recipients",
+        "verb": "emit",
+        "object": "odors",
+        "neg": null
+    },
+    {
+        "prompt": "rhinos eat grass",
+        "label": 1,
+        "subject": "rhinos",
+        "verb": "eat",
+        "object": "grass",
+        "neg": null
+    },
+    {
+        "prompt": "Squids have legs",
+        "label": 1,
+        "subject": "Squids",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "Reading takes more time",
+        "label": 1,
+        "subject": "Reading",
+        "verb": "takes",
+        "object": "time",
+        "neg": null
+    },
+    {
+        "prompt": "Contracts have noses",
+        "label": 0,
+        "subject": "Contracts",
+        "verb": "have",
+        "object": "noses",
+        "neg": null
+    },
+    {
+        "prompt": "Hovercraft has color",
+        "label": 1,
+        "subject": "Hovercraft",
+        "verb": "has",
+        "object": "color",
+        "neg": null
+    },
+    {
+        "prompt": "People share earbuds",
+        "label": 1,
+        "subject": "People",
+        "verb": "share",
+        "object": "earbuds",
+        "neg": null
+    },
+    {
+        "prompt": "an opponent has head",
+        "label": 1,
+        "subject": "opponent",
+        "verb": "has",
+        "object": "head",
+        "neg": null
+    },
+    {
+        "prompt": "Presents cost $",
+        "label": 1,
+        "subject": "Presents",
+        "verb": "cost",
+        "object": "$",
+        "neg": null
+    },
+    {
+        "prompt": "people eat slicers",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "slicers",
+        "neg": null
+    },
+    {
+        "prompt": "people smash keratin",
+        "label": 0,
+        "subject": "people",
+        "verb": "smash",
+        "object": "keratin",
+        "neg": null
+    },
+    {
+        "prompt": "Ringtails require cages",
+        "label": 1,
+        "subject": "Ringtails",
+        "verb": "require",
+        "object": "cages",
+        "neg": null
+    },
+    {
+        "prompt": "Reptiles have no fur",
+        "label": 0,
+        "subject": "Reptiles",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "people eat tinderboxes",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "tinderboxes",
+        "neg": null
+    },
+    {
+        "prompt": "Humans sell stewpots",
+        "label": 1,
+        "subject": "Humans",
+        "verb": "sell",
+        "object": "stewpots",
+        "neg": null
+    },
+    {
+        "prompt": "people see thoughts",
+        "label": 0,
+        "subject": "people",
+        "verb": "see",
+        "object": "thoughts",
+        "neg": null
+    },
+    {
+        "prompt": "shredders have wheels",
+        "label": 0,
+        "subject": "shredders",
+        "verb": "have",
+        "object": "wheels",
+        "neg": null
+    },
+    {
+        "prompt": "people see high schools",
+        "label": 1,
+        "subject": "people",
+        "verb": "see",
+        "object": "schools",
+        "neg": null
+    },
+    {
+        "prompt": "pheasants have tails",
+        "label": 1,
+        "subject": "pheasants",
+        "verb": "have",
+        "object": "tails",
+        "neg": null
+    },
+    {
+        "prompt": "cattlemen involve themselves in office work",
+        "label": 0,
+        "subject": "cattlemen",
+        "verb": "involve",
+        "object": "themselves",
+        "neg": null
+    },
+    {
+        "prompt": "people drive cars",
+        "label": 0,
+        "subject": "people",
+        "verb": "drive",
+        "object": "cars",
+        "neg": null
+    },
+    {
+        "prompt": "Children like kidnappers",
+        "label": 0,
+        "subject": "Children",
+        "verb": "like",
+        "object": "kidnappers",
+        "neg": null
+    },
+    {
+        "prompt": "people touch vermouth",
+        "label": 1,
+        "subject": "people",
+        "verb": "touch",
+        "object": "vermouth",
+        "neg": null
+    },
+    {
+        "prompt": "people eat ladles",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "ladles",
+        "neg": null
+    },
+    {
+        "prompt": "Children enjoy trouble",
+        "label": 1,
+        "subject": "Children",
+        "verb": "enjoy",
+        "object": "trouble",
+        "neg": null
+    },
+    {
+        "prompt": "Radio requires electricity",
+        "label": 1,
+        "subject": "Radio",
+        "verb": "requires",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "tits cut hair",
+        "label": 0,
+        "subject": "tits",
+        "verb": "cut",
+        "object": "hair",
+        "neg": null
+    },
+    {
+        "prompt": "People don't eat faucets",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "faucets",
+        "neg": "n't"
+    },
+    {
+        "prompt": "people eat uncles",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "uncles",
+        "neg": null
+    },
+    {
+        "prompt": "fountains play music",
+        "label": 1,
+        "subject": "fountains",
+        "verb": "play",
+        "object": "music",
+        "neg": null
+    },
+    {
+        "prompt": "mugs cost lot",
+        "label": 1,
+        "subject": "mugs",
+        "verb": "cost",
+        "object": "lot",
+        "neg": null
+    },
+    {
+        "prompt": "stuffing has smell",
+        "label": 1,
+        "subject": "stuffing",
+        "verb": "has",
+        "object": "smell",
+        "neg": null
+    },
+    {
+        "prompt": "a caboose requires source",
+        "label": 1,
+        "subject": "caboose",
+        "verb": "requires",
+        "object": "source",
+        "neg": null
+    },
+    {
+        "prompt": "kids use spades",
+        "label": 1,
+        "subject": "kids",
+        "verb": "use",
+        "object": "spades",
+        "neg": null
+    },
+    {
+        "prompt": "Boats use seats",
+        "label": 1,
+        "subject": "Boats",
+        "verb": "use",
+        "object": "seats",
+        "neg": null
+    },
+    {
+        "prompt": "people ride schoolbooks",
+        "label": 0,
+        "subject": "people",
+        "verb": "ride",
+        "object": "schoolbooks",
+        "neg": null
+    },
+    {
+        "prompt": "Tomatoes need water",
+        "label": 1,
+        "subject": "Tomatoes",
+        "verb": "need",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "a person holds amaretto",
+        "label": 1,
+        "subject": "person",
+        "verb": "holds",
+        "object": "amaretto",
+        "neg": null
+    },
+    {
+        "prompt": "webmasters are worn by people",
+        "label": 0,
+        "subject": "webmasters",
+        "verb": "worn",
+        "object": "people",
+        "neg": null
+    },
+    {
+        "prompt": "people use waitperson",
+        "label": 1,
+        "subject": "people",
+        "verb": "use",
+        "object": "waitperson",
+        "neg": null
+    },
+    {
+        "prompt": "Nudists wear clothes",
+        "label": 1,
+        "subject": "Nudists",
+        "verb": "wear",
+        "object": "clothes",
+        "neg": null
+    },
+    {
+        "prompt": "People breathe with their arms",
+        "label": 0,
+        "subject": "People",
+        "verb": "breathe",
+        "object": "arms",
+        "neg": null
+    },
+    {
+        "prompt": "roasts contain meat",
+        "label": 1,
+        "subject": "roasts",
+        "verb": "contain",
+        "object": "meat",
+        "neg": null
+    },
+    {
+        "prompt": "people eat warriors",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "warriors",
+        "neg": null
+    },
+    {
+        "prompt": "syllabi involve crowds",
+        "label": 1,
+        "subject": "syllabi",
+        "verb": "involve",
+        "object": "crowds",
+        "neg": null
+    },
+    {
+        "prompt": "People eat bookmarks",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "bookmarks",
+        "neg": null
+    },
+    {
+        "prompt": "people drive carousels",
+        "label": 0,
+        "subject": "people",
+        "verb": "drive",
+        "object": "carousels",
+        "neg": null
+    },
+    {
+        "prompt": "jurors have fur",
+        "label": 0,
+        "subject": "jurors",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "people drive men",
+        "label": 0,
+        "subject": "people",
+        "verb": "drive",
+        "object": "men",
+        "neg": null
+    },
+    {
+        "prompt": "Suppositories have seats",
+        "label": 0,
+        "subject": "Suppositories",
+        "verb": "have",
+        "object": "seats",
+        "neg": null
+    },
+    {
+        "prompt": "Rocks bite humans",
+        "label": 0,
+        "subject": "Rocks",
+        "verb": "bite",
+        "object": "humans",
+        "neg": null
+    },
+    {
+        "prompt": "teams have legs",
+        "label": 0,
+        "subject": "teams",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "shooting involves food",
+        "label": 0,
+        "subject": "shooting",
+        "verb": "involves",
+        "object": "food",
+        "neg": null
+    },
+    {
+        "prompt": "bottles hold water",
+        "label": 1,
+        "subject": "bottles",
+        "verb": "hold",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Person finds load",
+        "label": 1,
+        "subject": "Person",
+        "verb": "finds",
+        "object": "load",
+        "neg": null
+    },
+    {
+        "prompt": "laws have electricals",
+        "label": 0,
+        "subject": "laws",
+        "verb": "have",
+        "object": "electricals",
+        "neg": null
+    },
+    {
+        "prompt": "fighters make noise",
+        "label": 1,
+        "subject": "fighters",
+        "verb": "make",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "an analyst involves finance",
+        "label": 1,
+        "subject": "analyst",
+        "verb": "involves",
+        "object": "finance",
+        "neg": null
+    },
+    {
+        "prompt": "swarms cost money",
+        "label": 0,
+        "subject": "swarms",
+        "verb": "cost",
+        "object": "money",
+        "neg": null
+    },
+    {
+        "prompt": "a person sees browser",
+        "label": 1,
+        "subject": "person",
+        "verb": "sees",
+        "object": "browser",
+        "neg": null
+    },
+    {
+        "prompt": "Tit throws baseball",
+        "label": 0,
+        "subject": "Tit",
+        "verb": "throws",
+        "object": "baseball",
+        "neg": null
+    },
+    {
+        "prompt": "a trainload creates something",
+        "label": 0,
+        "subject": "trainload",
+        "verb": "creates",
+        "object": "something",
+        "neg": null
+    },
+    {
+        "prompt": "Cows eat meat",
+        "label": 0,
+        "subject": "Cows",
+        "verb": "eat",
+        "object": "meat",
+        "neg": null
+    },
+    {
+        "prompt": "Family has heartbeat",
+        "label": 1,
+        "subject": "Family",
+        "verb": "has",
+        "object": "heartbeat",
+        "neg": null
+    },
+    {
+        "prompt": "people use sawmills",
+        "label": 0,
+        "subject": "people",
+        "verb": "use",
+        "object": "sawmills",
+        "neg": null
+    },
+    {
+        "prompt": "Muskrats have claws",
+        "label": 1,
+        "subject": "Muskrats",
+        "verb": "have",
+        "object": "claws",
+        "neg": null
+    },
+    {
+        "prompt": "trees have burrows",
+        "label": 0,
+        "subject": "trees",
+        "verb": "have",
+        "object": "burrows",
+        "neg": null
+    },
+    {
+        "prompt": "dispensers hold beverages",
+        "label": 1,
+        "subject": "dispensers",
+        "verb": "hold",
+        "object": "beverages",
+        "neg": null
+    },
+    {
+        "prompt": "hustlers speak languages",
+        "label": 1,
+        "subject": "hustlers",
+        "verb": "speak",
+        "object": "languages",
+        "neg": null
+    },
+    {
+        "prompt": "voicing has handle",
+        "label": 0,
+        "subject": "voicing",
+        "verb": "has",
+        "object": "handle",
+        "neg": null
+    },
+    {
+        "prompt": "Coroners involve people",
+        "label": 1,
+        "subject": "Coroners",
+        "verb": "involve",
+        "object": "people",
+        "neg": null
+    },
+    {
+        "prompt": "People watch tombstones",
+        "label": 1,
+        "subject": "People",
+        "verb": "watch",
+        "object": "tombstones",
+        "neg": null
+    },
+    {
+        "prompt": "Kids use slacks",
+        "label": 1,
+        "subject": "Kids",
+        "verb": "use",
+        "object": "slacks",
+        "neg": null
+    },
+    {
+        "prompt": "Prison has function",
+        "label": 1,
+        "subject": "Prison",
+        "verb": "has",
+        "object": "function",
+        "neg": null
+    },
+    {
+        "prompt": "Registrar involves writing",
+        "label": 1,
+        "subject": "Registrar",
+        "verb": "involves",
+        "object": "writing",
+        "neg": null
+    },
+    {
+        "prompt": "Basement has door",
+        "label": 1,
+        "subject": "Basement",
+        "verb": "has",
+        "object": "door",
+        "neg": null
+    },
+    {
+        "prompt": "Golfing has function",
+        "label": 1,
+        "subject": "Golfing",
+        "verb": "has",
+        "object": "function",
+        "neg": null
+    },
+    {
+        "prompt": "People move displays",
+        "label": 1,
+        "subject": "People",
+        "verb": "move",
+        "object": "displays",
+        "neg": null
+    },
+    {
+        "prompt": "Person opens grille",
+        "label": 1,
+        "subject": "Person",
+        "verb": "opens",
+        "object": "grille",
+        "neg": null
+    },
+    {
+        "prompt": "canals have feathers",
+        "label": 0,
+        "subject": "canals",
+        "verb": "have",
+        "object": "feathers",
+        "neg": null
+    },
+    {
+        "prompt": "people eat food with collaborators",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "food",
+        "neg": null
+    },
+    {
+        "prompt": "infields provide shelter",
+        "label": 0,
+        "subject": "infields",
+        "verb": "provide",
+        "object": "shelter",
+        "neg": null
+    },
+    {
+        "prompt": "buildings are involved in soda",
+        "label": 0,
+        "subject": "buildings",
+        "verb": "involved",
+        "object": "soda",
+        "neg": null
+    },
+    {
+        "prompt": "People smash scars",
+        "label": 0,
+        "subject": "People",
+        "verb": "smash",
+        "object": "scars",
+        "neg": null
+    },
+    {
+        "prompt": "people feed worthiness",
+        "label": 0,
+        "subject": "people",
+        "verb": "feed",
+        "object": "worthiness",
+        "neg": null
+    },
+    {
+        "prompt": "Art has rules",
+        "label": 1,
+        "subject": "Art",
+        "verb": "has",
+        "object": "rules",
+        "neg": null
+    },
+    {
+        "prompt": "Concerts involve music",
+        "label": 1,
+        "subject": "Concerts",
+        "verb": "involve",
+        "object": "music",
+        "neg": null
+    },
+    {
+        "prompt": "horses have legs",
+        "label": 1,
+        "subject": "horses",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "bikinis have colors",
+        "label": 1,
+        "subject": "bikinis",
+        "verb": "have",
+        "object": "colors",
+        "neg": null
+    },
+    {
+        "prompt": "restaurants involve food",
+        "label": 1,
+        "subject": "restaurants",
+        "verb": "involve",
+        "object": "food",
+        "neg": null
+    },
+    {
+        "prompt": "Person holds tissue",
+        "label": 1,
+        "subject": "Person",
+        "verb": "holds",
+        "object": "tissue",
+        "neg": null
+    },
+    {
+        "prompt": "pickles have cords",
+        "label": 0,
+        "subject": "pickles",
+        "verb": "have",
+        "object": "cords",
+        "neg": null
+    },
+    {
+        "prompt": "baptizers involve numbers",
+        "label": 0,
+        "subject": "baptizers",
+        "verb": "involve",
+        "object": "numbers",
+        "neg": null
+    },
+    {
+        "prompt": "boxes have ones",
+        "label": 1,
+        "subject": "boxes",
+        "verb": "have",
+        "object": "ones",
+        "neg": null
+    },
+    {
+        "prompt": "burritos require batteries",
+        "label": 0,
+        "subject": "burritos",
+        "verb": "require",
+        "object": "batteries",
+        "neg": null
+    },
+    {
+        "prompt": "dumps involve entertainment",
+        "label": 0,
+        "subject": "dumps",
+        "verb": "involve",
+        "object": "entertainment",
+        "neg": null
+    },
+    {
+        "prompt": "People use worms",
+        "label": 1,
+        "subject": "People",
+        "verb": "use",
+        "object": "worms",
+        "neg": null
+    },
+    {
+        "prompt": "people see driveways",
+        "label": 1,
+        "subject": "people",
+        "verb": "see",
+        "object": "driveways",
+        "neg": null
+    },
+    {
+        "prompt": "Squirrels have claws",
+        "label": 1,
+        "subject": "Squirrels",
+        "verb": "have",
+        "object": "claws",
+        "neg": null
+    },
+    {
+        "prompt": "people drive snowballs",
+        "label": 0,
+        "subject": "people",
+        "verb": "drive",
+        "object": "snowballs",
+        "neg": null
+    },
+    {
+        "prompt": "people use polyethylene",
+        "label": 1,
+        "subject": "people",
+        "verb": "use",
+        "object": "polyethylene",
+        "neg": null
+    },
+    {
+        "prompt": "Cutter uses power",
+        "label": 1,
+        "subject": "Cutter",
+        "verb": "uses",
+        "object": "power",
+        "neg": null
+    },
+    {
+        "prompt": "Cereals have sauces",
+        "label": 0,
+        "subject": "Cereals",
+        "verb": "have",
+        "object": "sauces",
+        "neg": null
+    },
+    {
+        "prompt": "hope has no poison",
+        "label": 0,
+        "subject": "hope",
+        "verb": "has",
+        "object": "poison",
+        "neg": null
+    },
+    {
+        "prompt": "people touch time",
+        "label": 0,
+        "subject": "people",
+        "verb": "touch",
+        "object": "time",
+        "neg": null
+    },
+    {
+        "prompt": "Checkers have lot",
+        "label": 1,
+        "subject": "Checkers",
+        "verb": "have",
+        "object": "lot",
+        "neg": null
+    },
+    {
+        "prompt": "cash uses electricity",
+        "label": 0,
+        "subject": "cash",
+        "verb": "uses",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "Kid loves eggnog",
+        "label": 1,
+        "subject": "Kid",
+        "verb": "loves",
+        "object": "eggnog",
+        "neg": null
+    },
+    {
+        "prompt": "Baboons have fur",
+        "label": 1,
+        "subject": "Baboons",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "People use excretions",
+        "label": 0,
+        "subject": "People",
+        "verb": "use",
+        "object": "excretions",
+        "neg": null
+    },
+    {
+        "prompt": "a person touches henhouse",
+        "label": 1,
+        "subject": "person",
+        "verb": "touches",
+        "object": "henhouse",
+        "neg": null
+    },
+    {
+        "prompt": "People eat cooks",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "cooks",
+        "neg": null
+    },
+    {
+        "prompt": "Elephants have trunks",
+        "label": 1,
+        "subject": "Elephants",
+        "verb": "have",
+        "object": "trunks",
+        "neg": null
+    },
+    {
+        "prompt": "rabbits have spots",
+        "label": 1,
+        "subject": "rabbits",
+        "verb": "have",
+        "object": "spots",
+        "neg": null
+    },
+    {
+        "prompt": "gladiators require skill",
+        "label": 1,
+        "subject": "gladiators",
+        "verb": "require",
+        "object": "skill",
+        "neg": null
+    },
+    {
+        "prompt": "trees have wiring",
+        "label": 0,
+        "subject": "trees",
+        "verb": "have",
+        "object": "wiring",
+        "neg": null
+    },
+    {
+        "prompt": "people use vaccines",
+        "label": 0,
+        "subject": "people",
+        "verb": "use",
+        "object": "vaccines",
+        "neg": null
+    },
+    {
+        "prompt": "frogs have fur",
+        "label": 0,
+        "subject": "frogs",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "people pour chairs",
+        "label": 0,
+        "subject": "people",
+        "verb": "pour",
+        "object": "chairs",
+        "neg": null
+    },
+    {
+        "prompt": "People consume chronographs",
+        "label": 0,
+        "subject": "People",
+        "verb": "consume",
+        "object": "chronographs",
+        "neg": null
+    },
+    {
+        "prompt": "Millet has thorns",
+        "label": 0,
+        "subject": "Millet",
+        "verb": "has",
+        "object": "thorns",
+        "neg": null
+    },
+    {
+        "prompt": "people wear dumbwaiters",
+        "label": 0,
+        "subject": "people",
+        "verb": "wear",
+        "object": "dumbwaiters",
+        "neg": null
+    },
+    {
+        "prompt": "People hold tonics",
+        "label": 1,
+        "subject": "People",
+        "verb": "hold",
+        "object": "tonics",
+        "neg": null
+    },
+    {
+        "prompt": "Light has no water",
+        "label": 0,
+        "subject": "Light",
+        "verb": "has",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "mice have hair",
+        "label": 1,
+        "subject": "mice",
+        "verb": "have",
+        "object": "hair",
+        "neg": null
+    },
+    {
+        "prompt": "crashers operate engines",
+        "label": 0,
+        "subject": "crashers",
+        "verb": "operate",
+        "object": "engines",
+        "neg": null
+    },
+    {
+        "prompt": "antibiotics use electricity",
+        "label": 0,
+        "subject": "antibiotics",
+        "verb": "use",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "people eat food they submit",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "food",
+        "neg": null
+    },
+    {
+        "prompt": "brooders involve comedy",
+        "label": 0,
+        "subject": "brooders",
+        "verb": "involve",
+        "object": "comedy",
+        "neg": null
+    },
+    {
+        "prompt": "people buy talent",
+        "label": 0,
+        "subject": "people",
+        "verb": "buy",
+        "object": "talent",
+        "neg": null
+    },
+    {
+        "prompt": "people hold baseballs",
+        "label": 1,
+        "subject": "people",
+        "verb": "hold",
+        "object": "baseballs",
+        "neg": null
+    },
+    {
+        "prompt": "Storybooks have abilities",
+        "label": 0,
+        "subject": "Storybooks",
+        "verb": "have",
+        "object": "abilities",
+        "neg": null
+    },
+    {
+        "prompt": "a person eats brisket",
+        "label": 1,
+        "subject": "person",
+        "verb": "eats",
+        "object": "brisket",
+        "neg": null
+    },
+    {
+        "prompt": "people touch exercisers",
+        "label": 1,
+        "subject": "people",
+        "verb": "touch",
+        "object": "exercisers",
+        "neg": null
+    },
+    {
+        "prompt": "Obsidian has color",
+        "label": 0,
+        "subject": "Obsidian",
+        "verb": "has",
+        "object": "color",
+        "neg": null
+    },
+    {
+        "prompt": "shacks involve water",
+        "label": 0,
+        "subject": "shacks",
+        "verb": "involve",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "people drive boutiques",
+        "label": 0,
+        "subject": "people",
+        "verb": "drive",
+        "object": "boutiques",
+        "neg": null
+    },
+    {
+        "prompt": "People see thoughts",
+        "label": 0,
+        "subject": "People",
+        "verb": "see",
+        "object": "thoughts",
+        "neg": null
+    },
+    {
+        "prompt": "Column has color",
+        "label": 1,
+        "subject": "Column",
+        "verb": "has",
+        "object": "color",
+        "neg": null
+    },
+    {
+        "prompt": "Person touches pebble",
+        "label": 1,
+        "subject": "Person",
+        "verb": "touches",
+        "object": "pebble",
+        "neg": null
+    },
+    {
+        "prompt": "Portions cost $",
+        "label": 1,
+        "subject": "Portions",
+        "verb": "cost",
+        "object": "$",
+        "neg": null
+    },
+    {
+        "prompt": "Person eats croaker",
+        "label": 1,
+        "subject": "Person",
+        "verb": "eats",
+        "object": "croaker",
+        "neg": null
+    },
+    {
+        "prompt": "Notes have jobs",
+        "label": 0,
+        "subject": "Notes",
+        "verb": "have",
+        "object": "jobs",
+        "neg": null
+    },
+    {
+        "prompt": "Whales have legs",
+        "label": 1,
+        "subject": "Whales",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "people hold narcotics",
+        "label": 1,
+        "subject": "people",
+        "verb": "hold",
+        "object": "narcotics",
+        "neg": null
+    },
+    {
+        "prompt": "People build ammonium",
+        "label": 1,
+        "subject": "People",
+        "verb": "build",
+        "object": "ammonium",
+        "neg": null
+    },
+    {
+        "prompt": "people wear gauntlets",
+        "label": 1,
+        "subject": "people",
+        "verb": "wear",
+        "object": "gauntlets",
+        "neg": null
+    },
+    {
+        "prompt": "hairdryers make noise",
+        "label": 1,
+        "subject": "hairdryers",
+        "verb": "make",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "Large things are held",
+        "label": 0,
+        "subject": "Large things",
+        "verb": "held",
+        "object": null,
+        "neg": null
+    },
+    {
+        "prompt": "Slime costs lot",
+        "label": 1,
+        "subject": "Slime",
+        "verb": "costs",
+        "object": "lot",
+        "neg": null
+    },
+    {
+        "prompt": "alcohol has color",
+        "label": 1,
+        "subject": "alcohol",
+        "verb": "has",
+        "object": "color",
+        "neg": null
+    },
+    {
+        "prompt": "leaves cost money",
+        "label": 0,
+        "subject": "cost",
+        "verb": "leaves",
+        "object": "money",
+        "neg": null
+    },
+    {
+        "prompt": "people like embassies",
+        "label": 1,
+        "subject": "people",
+        "verb": "like",
+        "object": "embassies",
+        "neg": null
+    },
+    {
+        "prompt": "Cattlemen involve animals",
+        "label": 1,
+        "subject": "Cattlemen",
+        "verb": "involve",
+        "object": "animals",
+        "neg": null
+    },
+    {
+        "prompt": "exhibitionists involve movement",
+        "label": 1,
+        "subject": "exhibitionists",
+        "verb": "involve",
+        "object": "movement",
+        "neg": null
+    },
+    {
+        "prompt": "people eat ovens",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "ovens",
+        "neg": null
+    },
+    {
+        "prompt": "tea costs money",
+        "label": 1,
+        "subject": "tea",
+        "verb": "costs",
+        "object": "money",
+        "neg": null
+    },
+    {
+        "prompt": "people drink baptisms",
+        "label": 0,
+        "subject": "people",
+        "verb": "drink",
+        "object": "baptisms",
+        "neg": null
+    },
+    {
+        "prompt": "Kiwis have pits",
+        "label": 0,
+        "subject": "Kiwis",
+        "verb": "have",
+        "object": "pits",
+        "neg": null
+    },
+    {
+        "prompt": "spinach have leaves",
+        "label": 1,
+        "subject": "spinach",
+        "verb": "have",
+        "object": "leaves",
+        "neg": null
+    },
+    {
+        "prompt": "Sixpences have wheels",
+        "label": 0,
+        "subject": "Sixpences",
+        "verb": "have",
+        "object": "wheels",
+        "neg": null
+    },
+    {
+        "prompt": "throwing involves cleaning",
+        "label": 0,
+        "subject": "throwing",
+        "verb": "involves",
+        "object": "cleaning",
+        "neg": null
+    },
+    {
+        "prompt": "hospitals are stored by people",
+        "label": 0,
+        "subject": "hospitals",
+        "verb": "stored",
+        "object": "people",
+        "neg": null
+    },
+    {
+        "prompt": "Perfume has scent",
+        "label": 1,
+        "subject": "Perfume",
+        "verb": "has",
+        "object": "scent",
+        "neg": null
+    },
+    {
+        "prompt": "schooners use gas",
+        "label": 1,
+        "subject": "schooners",
+        "verb": "use",
+        "object": "gas",
+        "neg": null
+    },
+    {
+        "prompt": "Fumigators involve science",
+        "label": 1,
+        "subject": "Fumigators",
+        "verb": "involve",
+        "object": "science",
+        "neg": null
+    },
+    {
+        "prompt": "Railcars require water",
+        "label": 0,
+        "subject": "Railcars",
+        "verb": "require",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Playing costs money",
+        "label": 1,
+        "subject": "Playing",
+        "verb": "costs",
+        "object": "money",
+        "neg": null
+    },
+    {
+        "prompt": "Gold has value",
+        "label": 1,
+        "subject": "Gold",
+        "verb": "has",
+        "object": "value",
+        "neg": null
+    },
+    {
+        "prompt": "People eat ejectors",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "ejectors",
+        "neg": null
+    },
+    {
+        "prompt": "Thrones involve nature",
+        "label": 0,
+        "subject": "Thrones",
+        "verb": "involve",
+        "object": "nature",
+        "neg": null
+    },
+    {
+        "prompt": "Vase costs $",
+        "label": 1,
+        "subject": "Vase",
+        "verb": "costs",
+        "object": "$",
+        "neg": null
+    },
+    {
+        "prompt": "jackrabbits have antlers",
+        "label": 0,
+        "subject": "jackrabbits",
+        "verb": "have",
+        "object": "antlers",
+        "neg": null
+    },
+    {
+        "prompt": "Clergy store everything",
+        "label": 0,
+        "subject": "Clergy",
+        "verb": "store",
+        "object": "everything",
+        "neg": null
+    },
+    {
+        "prompt": "cityscapes have color",
+        "label": 1,
+        "subject": "cityscapes",
+        "verb": "have",
+        "object": "color",
+        "neg": null
+    },
+    {
+        "prompt": "kids use kettledrums",
+        "label": 1,
+        "subject": "kids",
+        "verb": "use",
+        "object": "kettledrums",
+        "neg": null
+    },
+    {
+        "prompt": "Batteries are used in burritos",
+        "label": 0,
+        "subject": "Batteries",
+        "verb": "used",
+        "object": "burritos",
+        "neg": null
+    },
+    {
+        "prompt": "broccoli have teeth",
+        "label": 0,
+        "subject": "broccoli",
+        "verb": "have",
+        "object": "teeth",
+        "neg": null
+    },
+    {
+        "prompt": "Turnips have thorns",
+        "label": 0,
+        "subject": "Turnips",
+        "verb": "have",
+        "object": "thorns",
+        "neg": null
+    },
+    {
+        "prompt": "People buy souls",
+        "label": 0,
+        "subject": "People",
+        "verb": "buy",
+        "object": "souls",
+        "neg": null
+    },
+    {
+        "prompt": "stereos play discs",
+        "label": 1,
+        "subject": "stereos",
+        "verb": "play",
+        "object": "discs",
+        "neg": null
+    },
+    {
+        "prompt": "People touch scruff",
+        "label": 1,
+        "subject": "People",
+        "verb": "touch",
+        "object": "scruff",
+        "neg": null
+    },
+    {
+        "prompt": "hombres have feelings",
+        "label": 1,
+        "subject": "hombres",
+        "verb": "have",
+        "object": "feelings",
+        "neg": null
+    },
+    {
+        "prompt": "People read thumbs",
+        "label": 0,
+        "subject": "People",
+        "verb": "read",
+        "object": "thumbs",
+        "neg": null
+    },
+    {
+        "prompt": "tonsillectomies involve reunions",
+        "label": 0,
+        "subject": "tonsillectomies",
+        "verb": "involve",
+        "object": "reunions",
+        "neg": null
+    },
+    {
+        "prompt": "Paintings have faces",
+        "label": 1,
+        "subject": "Paintings",
+        "verb": "have",
+        "object": "faces",
+        "neg": null
+    },
+    {
+        "prompt": "people wear midterms",
+        "label": 0,
+        "subject": "people",
+        "verb": "wear",
+        "object": "midterms",
+        "neg": null
+    },
+    {
+        "prompt": "muskrats have fur",
+        "label": 1,
+        "subject": "muskrats",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "carts have wheels",
+        "label": 1,
+        "subject": "carts",
+        "verb": "have",
+        "object": "wheels",
+        "neg": null
+    },
+    {
+        "prompt": "Eggs have legs",
+        "label": 0,
+        "subject": "Eggs",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "people buy Plutos",
+        "label": 0,
+        "subject": "people",
+        "verb": "buy",
+        "object": "Plutos",
+        "neg": null
+    },
+    {
+        "prompt": "People hold steamers",
+        "label": 1,
+        "subject": "People",
+        "verb": "hold",
+        "object": "steamers",
+        "neg": null
+    },
+    {
+        "prompt": "Plating has feelings",
+        "label": 0,
+        "subject": "Plating",
+        "verb": "has",
+        "object": "feelings",
+        "neg": null
+    },
+    {
+        "prompt": "People hear about malaria",
+        "label": 0,
+        "subject": "People",
+        "verb": "hear",
+        "object": "malaria",
+        "neg": null
+    },
+    {
+        "prompt": "Baseball involves ball",
+        "label": 1,
+        "subject": "Baseball",
+        "verb": "involves",
+        "object": "ball",
+        "neg": null
+    },
+    {
+        "prompt": "people hold sun",
+        "label": 0,
+        "subject": "people",
+        "verb": "hold",
+        "object": "sun",
+        "neg": null
+    },
+    {
+        "prompt": "work is involved in tonic",
+        "label": 0,
+        "subject": "work",
+        "verb": "involved",
+        "object": "tonic",
+        "neg": null
+    },
+    {
+        "prompt": "People bury regrets",
+        "label": 0,
+        "subject": "People",
+        "verb": "bury",
+        "object": "regrets",
+        "neg": null
+    },
+    {
+        "prompt": "Steersmen involve healthcare",
+        "label": 1,
+        "subject": "Steersmen",
+        "verb": "involve",
+        "object": "healthcare",
+        "neg": null
+    },
+    {
+        "prompt": "Writers use numbers",
+        "label": 1,
+        "subject": "Writers",
+        "verb": "use",
+        "object": "numbers",
+        "neg": null
+    },
+    {
+        "prompt": "denim has components",
+        "label": 1,
+        "subject": "denim",
+        "verb": "has",
+        "object": "components",
+        "neg": null
+    },
+    {
+        "prompt": "restaurants serve limes",
+        "label": 1,
+        "subject": "restaurants",
+        "verb": "serve",
+        "object": "limes",
+        "neg": null
+    },
+    {
+        "prompt": "Firewood has shape",
+        "label": 1,
+        "subject": "Firewood",
+        "verb": "has",
+        "object": "shape",
+        "neg": null
+    },
+    {
+        "prompt": "people eat goldsmiths",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "goldsmiths",
+        "neg": null
+    },
+    {
+        "prompt": "crabs have scales",
+        "label": 0,
+        "subject": "crabs",
+        "verb": "have",
+        "object": "scales",
+        "neg": null
+    },
+    {
+        "prompt": "pourers tell time",
+        "label": 0,
+        "subject": "pourers",
+        "verb": "tell",
+        "object": "time",
+        "neg": null
+    },
+    {
+        "prompt": "jugs hold water",
+        "label": 1,
+        "subject": "jugs",
+        "verb": "hold",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "Thoroughbreds lay eggs",
+        "label": 0,
+        "subject": "Thoroughbreds",
+        "verb": "lay",
+        "object": "eggs",
+        "neg": null
+    },
+    {
+        "prompt": "people read mice",
+        "label": 0,
+        "subject": "people",
+        "verb": "read",
+        "object": "mice",
+        "neg": null
+    },
+    {
+        "prompt": "captains require work",
+        "label": 1,
+        "subject": "captains",
+        "verb": "require",
+        "object": "work",
+        "neg": null
+    },
+    {
+        "prompt": "sticks need electricity",
+        "label": 0,
+        "subject": "sticks",
+        "verb": "need",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "People move mountains",
+        "label": 0,
+        "subject": "People",
+        "verb": "move",
+        "object": "mountains",
+        "neg": null
+    },
+    {
+        "prompt": "Person smashes chinaware",
+        "label": 1,
+        "subject": "Person",
+        "verb": "smashes",
+        "object": "chinaware",
+        "neg": null
+    },
+    {
+        "prompt": "Haylofts have glass",
+        "label": 0,
+        "subject": "Haylofts",
+        "verb": "have",
+        "object": "glass",
+        "neg": null
+    },
+    {
+        "prompt": "weights use electricity",
+        "label": 0,
+        "subject": "weights",
+        "verb": "use",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "Ligaments have wheels",
+        "label": 0,
+        "subject": "Ligaments",
+        "verb": "have",
+        "object": "wheels",
+        "neg": null
+    },
+    {
+        "prompt": "people wear pills",
+        "label": 0,
+        "subject": "people",
+        "verb": "wear",
+        "object": "pills",
+        "neg": null
+    },
+    {
+        "prompt": "Whales have holes",
+        "label": 1,
+        "subject": "Whales",
+        "verb": "have",
+        "object": "holes",
+        "neg": null
+    },
+    {
+        "prompt": "people touch wetlands",
+        "label": 1,
+        "subject": "people",
+        "verb": "touch",
+        "object": "wetlands",
+        "neg": null
+    },
+    {
+        "prompt": "Goddaughter wears makeup",
+        "label": 1,
+        "subject": "Goddaughter",
+        "verb": "wears",
+        "object": "makeup",
+        "neg": null
+    },
+    {
+        "prompt": "mice have legs",
+        "label": 1,
+        "subject": "mice",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "Tailbones have roots",
+        "label": 0,
+        "subject": "Tailbones",
+        "verb": "have",
+        "object": "roots",
+        "neg": null
+    },
+    {
+        "prompt": "rain has no handle",
+        "label": 0,
+        "subject": "rain",
+        "verb": "has",
+        "object": "handle",
+        "neg": null
+    },
+    {
+        "prompt": "People use transistors",
+        "label": 0,
+        "subject": "People",
+        "verb": "use",
+        "object": "transistors",
+        "neg": null
+    },
+    {
+        "prompt": "people use cones",
+        "label": 0,
+        "subject": "people",
+        "verb": "use",
+        "object": "cones",
+        "neg": null
+    },
+    {
+        "prompt": "Jailbirds involve entertainment",
+        "label": 0,
+        "subject": "Jailbirds",
+        "verb": "involve",
+        "object": "entertainment",
+        "neg": null
+    },
+    {
+        "prompt": "humans have eyes",
+        "label": 1,
+        "subject": "humans",
+        "verb": "have",
+        "object": "eyes",
+        "neg": null
+    },
+    {
+        "prompt": "a spotlight creates light",
+        "label": 1,
+        "subject": "spotlight",
+        "verb": "creates",
+        "object": "light",
+        "neg": null
+    },
+    {
+        "prompt": "Bagpipes have colors",
+        "label": 1,
+        "subject": "Bagpipes",
+        "verb": "have",
+        "object": "colors",
+        "neg": null
+    },
+    {
+        "prompt": "people use presoaking",
+        "label": 0,
+        "subject": "people",
+        "verb": "use",
+        "object": "presoaking",
+        "neg": null
+    },
+    {
+        "prompt": "People touch bass",
+        "label": 1,
+        "subject": "People",
+        "verb": "touch",
+        "object": "bass",
+        "neg": null
+    },
+    {
+        "prompt": "Cabinets store something",
+        "label": 1,
+        "subject": "Cabinets",
+        "verb": "store",
+        "object": "something",
+        "neg": null
+    },
+    {
+        "prompt": "a spearfish has fins",
+        "label": 1,
+        "subject": "spearfish",
+        "verb": "has",
+        "object": "fins",
+        "neg": null
+    },
+    {
+        "prompt": "revolvers use fuel",
+        "label": 0,
+        "subject": "revolvers",
+        "verb": "use",
+        "object": "fuel",
+        "neg": null
+    },
+    {
+        "prompt": "people drive methanol-powered cars",
+        "label": 0,
+        "subject": "people",
+        "verb": "drive",
+        "object": "cars",
+        "neg": null
+    },
+    {
+        "prompt": "People use labelers",
+        "label": 0,
+        "subject": "People",
+        "verb": "use",
+        "object": "labelers",
+        "neg": null
+    },
+    {
+        "prompt": "people eat kindling",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "kindling",
+        "neg": null
+    },
+    {
+        "prompt": "Interviewer requires education",
+        "label": 1,
+        "subject": "Interviewer",
+        "verb": "requires",
+        "object": "education",
+        "neg": null
+    },
+    {
+        "prompt": "Pumas have fur",
+        "label": 1,
+        "subject": "Pumas",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "a warrant involves lawyer",
+        "label": 1,
+        "subject": "warrant",
+        "verb": "involves",
+        "object": "lawyer",
+        "neg": null
+    },
+    {
+        "prompt": "a woman has eyes",
+        "label": 1,
+        "subject": "woman",
+        "verb": "has",
+        "object": "eyes",
+        "neg": null
+    },
+    {
+        "prompt": "Person touches log",
+        "label": 1,
+        "subject": "Person",
+        "verb": "touches",
+        "object": "log",
+        "neg": null
+    },
+    {
+        "prompt": "People touch atmosphere",
+        "label": 0,
+        "subject": "People",
+        "verb": "touch",
+        "object": "atmosphere",
+        "neg": null
+    },
+    {
+        "prompt": "women wear dresses",
+        "label": 1,
+        "subject": "women",
+        "verb": "wear",
+        "object": "dresses",
+        "neg": null
+    },
+    {
+        "prompt": "people wear shakers",
+        "label": 0,
+        "subject": "people",
+        "verb": "wear",
+        "object": "shakers",
+        "neg": null
+    },
+    {
+        "prompt": "humans eat food",
+        "label": 0,
+        "subject": "humans",
+        "verb": "eat",
+        "object": "food",
+        "neg": null
+    },
+    {
+        "prompt": "people see bass",
+        "label": 1,
+        "subject": "people",
+        "verb": "see",
+        "object": "bass",
+        "neg": null
+    },
+    {
+        "prompt": "Firefighters fight fire",
+        "label": 1,
+        "subject": "Firefighters",
+        "verb": "fight",
+        "object": "fire",
+        "neg": null
+    },
+    {
+        "prompt": "Clouds have no gender",
+        "label": 0,
+        "subject": "Clouds",
+        "verb": "have",
+        "object": "gender",
+        "neg": null
+    },
+    {
+        "prompt": "lions eat grass",
+        "label": 0,
+        "subject": "lions",
+        "verb": "eat",
+        "object": "grass",
+        "neg": null
+    },
+    {
+        "prompt": "Time has no fur",
+        "label": 0,
+        "subject": "Time",
+        "verb": "has",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "Hammers wear shoes",
+        "label": 0,
+        "subject": "Hammers",
+        "verb": "wear",
+        "object": "shoes",
+        "neg": null
+    },
+    {
+        "prompt": "People eat boulders",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "boulders",
+        "neg": null
+    },
+    {
+        "prompt": "People ride mice",
+        "label": 0,
+        "subject": "People",
+        "verb": "ride",
+        "object": "mice",
+        "neg": null
+    },
+    {
+        "prompt": "vodka needs sunlight",
+        "label": 0,
+        "subject": "vodka",
+        "verb": "needs",
+        "object": "sunlight",
+        "neg": null
+    },
+    {
+        "prompt": "People don't eat teapots",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "teapots",
+        "neg": "n't"
+    },
+    {
+        "prompt": "Mammals attack humans",
+        "label": 1,
+        "subject": "Mammals",
+        "verb": "attack",
+        "object": "humans",
+        "neg": null
+    },
+    {
+        "prompt": "people use lampposts",
+        "label": 1,
+        "subject": "people",
+        "verb": "use",
+        "object": "lampposts",
+        "neg": null
+    },
+    {
+        "prompt": "People don't eat ticks",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "ticks",
+        "neg": "n't"
+    },
+    {
+        "prompt": "people touch internet",
+        "label": 0,
+        "subject": "people",
+        "verb": "touch",
+        "object": "internet",
+        "neg": null
+    },
+    {
+        "prompt": "People use spoons",
+        "label": 1,
+        "subject": "People",
+        "verb": "use",
+        "object": "spoons",
+        "neg": null
+    },
+    {
+        "prompt": "Clocks help humans",
+        "label": 1,
+        "subject": "Clocks",
+        "verb": "help",
+        "object": "humans",
+        "neg": null
+    },
+    {
+        "prompt": "People touch pantyhose",
+        "label": 1,
+        "subject": "People",
+        "verb": "touch",
+        "object": "pantyhose",
+        "neg": null
+    },
+    {
+        "prompt": "people wear potholes",
+        "label": 0,
+        "subject": "people",
+        "verb": "wear",
+        "object": "potholes",
+        "neg": null
+    },
+    {
+        "prompt": "people sell signals",
+        "label": 0,
+        "subject": "people",
+        "verb": "sell",
+        "object": "signals",
+        "neg": null
+    },
+    {
+        "prompt": "Potlucks have no fur",
+        "label": 0,
+        "subject": "Potlucks",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "Wheels take gas",
+        "label": 0,
+        "subject": "Wheels",
+        "verb": "take",
+        "object": "gas",
+        "neg": null
+    },
+    {
+        "prompt": "Children use cases",
+        "label": 1,
+        "subject": "Children",
+        "verb": "use",
+        "object": "cases",
+        "neg": null
+    },
+    {
+        "prompt": "psychics require degrees",
+        "label": 0,
+        "subject": "psychics",
+        "verb": "require",
+        "object": "degrees",
+        "neg": null
+    },
+    {
+        "prompt": "people eat hellhounds",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "hellhounds",
+        "neg": null
+    },
+    {
+        "prompt": "a person buys gyro",
+        "label": 1,
+        "subject": "person",
+        "verb": "buys",
+        "object": "gyro",
+        "neg": null
+    },
+    {
+        "prompt": "Doppelgangers involve breathing",
+        "label": 1,
+        "subject": "Doppelgangers",
+        "verb": "involve",
+        "object": "breathing",
+        "neg": null
+    },
+    {
+        "prompt": "wheels have scents",
+        "label": 1,
+        "subject": "wheels",
+        "verb": "have",
+        "object": "scents",
+        "neg": null
+    },
+    {
+        "prompt": "people touch targets",
+        "label": 1,
+        "subject": "people",
+        "verb": "touch",
+        "object": "targets",
+        "neg": null
+    },
+    {
+        "prompt": "vases use electricity",
+        "label": 0,
+        "subject": "vases",
+        "verb": "use",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "Driver involves transportation",
+        "label": 1,
+        "subject": "Driver",
+        "verb": "involves",
+        "object": "transportation",
+        "neg": null
+    },
+    {
+        "prompt": "people hold rulers",
+        "label": 1,
+        "subject": "people",
+        "verb": "hold",
+        "object": "rulers",
+        "neg": null
+    },
+    {
+        "prompt": "Dragons breathe fire",
+        "label": 1,
+        "subject": "Dragons",
+        "verb": "breathe",
+        "object": "fire",
+        "neg": null
+    },
+    {
+        "prompt": "lavatories are held by people",
+        "label": 0,
+        "subject": "lavatories",
+        "verb": "held",
+        "object": "people",
+        "neg": null
+    },
+    {
+        "prompt": "a person buys lotto",
+        "label": 1,
+        "subject": "person",
+        "verb": "buys",
+        "object": "lotto",
+        "neg": null
+    },
+    {
+        "prompt": "Blasters make sound",
+        "label": 1,
+        "subject": "Blasters",
+        "verb": "make",
+        "object": "sound",
+        "neg": null
+    },
+    {
+        "prompt": "a person touches chopstick",
+        "label": 1,
+        "subject": "person",
+        "verb": "touches",
+        "object": "chopstick",
+        "neg": null
+    },
+    {
+        "prompt": "listeners involve weapons",
+        "label": 0,
+        "subject": "listeners",
+        "verb": "involve",
+        "object": "weapons",
+        "neg": null
+    },
+    {
+        "prompt": "People use aprons",
+        "label": 0,
+        "subject": "People",
+        "verb": "use",
+        "object": "aprons",
+        "neg": null
+    },
+    {
+        "prompt": "cameras involve computers",
+        "label": 1,
+        "subject": "cameras",
+        "verb": "involve",
+        "object": "computers",
+        "neg": null
+    },
+    {
+        "prompt": "granola uses electricity",
+        "label": 0,
+        "subject": "granola",
+        "verb": "uses",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "Sushi has no wheel",
+        "label": 0,
+        "subject": "Sushi",
+        "verb": "has",
+        "object": "wheel",
+        "neg": null
+    },
+    {
+        "prompt": "Squads require movement",
+        "label": 1,
+        "subject": "Squads",
+        "verb": "require",
+        "object": "movement",
+        "neg": null
+    },
+    {
+        "prompt": "research has color",
+        "label": 0,
+        "subject": "research",
+        "verb": "has",
+        "object": "color",
+        "neg": null
+    },
+    {
+        "prompt": "Bulbs give light",
+        "label": 1,
+        "subject": "Bulbs",
+        "verb": "give",
+        "object": "light",
+        "neg": null
+    },
+    {
+        "prompt": "Lithographs benefit people",
+        "label": 1,
+        "subject": "Lithographs",
+        "verb": "benefit",
+        "object": "people",
+        "neg": null
+    },
+    {
+        "prompt": "speakers make sounds",
+        "label": 1,
+        "subject": "speakers",
+        "verb": "make",
+        "object": "sounds",
+        "neg": null
+    },
+    {
+        "prompt": "People eat moneybags",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "moneybags",
+        "neg": null
+    },
+    {
+        "prompt": "People hold rashes",
+        "label": 0,
+        "subject": "People",
+        "verb": "hold",
+        "object": "rashes",
+        "neg": null
+    },
+    {
+        "prompt": "Barons require more",
+        "label": 1,
+        "subject": "Barons",
+        "verb": "require",
+        "object": "more",
+        "neg": null
+    },
+    {
+        "prompt": "Quakes make noise",
+        "label": 1,
+        "subject": "Quakes",
+        "verb": "make",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "People wear typists",
+        "label": 0,
+        "subject": "People",
+        "verb": "wear",
+        "object": "typists",
+        "neg": null
+    },
+    {
+        "prompt": "People use reels",
+        "label": 0,
+        "subject": "People",
+        "verb": "use",
+        "object": "reels",
+        "neg": null
+    },
+    {
+        "prompt": "people eat duckweed",
+        "label": 1,
+        "subject": "people",
+        "verb": "eat",
+        "object": "duckweed",
+        "neg": null
+    },
+    {
+        "prompt": "Earthworms eat meat",
+        "label": 0,
+        "subject": "Earthworms",
+        "verb": "eat",
+        "object": "meat",
+        "neg": null
+    },
+    {
+        "prompt": "Mugs have handles",
+        "label": 1,
+        "subject": "Mugs",
+        "verb": "have",
+        "object": "handles",
+        "neg": null
+    },
+    {
+        "prompt": "People smell romaine",
+        "label": 1,
+        "subject": "People",
+        "verb": "smell",
+        "object": "romaine",
+        "neg": null
+    },
+    {
+        "prompt": "litmus has purpose",
+        "label": 1,
+        "subject": "litmus",
+        "verb": "has",
+        "object": "purpose",
+        "neg": null
+    },
+    {
+        "prompt": "Tapeworms have holes",
+        "label": 0,
+        "subject": "Tapeworms",
+        "verb": "have",
+        "object": "holes",
+        "neg": null
+    },
+    {
+        "prompt": "Registrars involve surveillance",
+        "label": 0,
+        "subject": "Registrars",
+        "verb": "involve",
+        "object": "surveillance",
+        "neg": null
+    },
+    {
+        "prompt": "a parasite has eyes",
+        "label": 1,
+        "subject": "parasite",
+        "verb": "has",
+        "object": "eyes",
+        "neg": null
+    },
+    {
+        "prompt": "statesmen involve kids",
+        "label": 1,
+        "subject": "statesmen",
+        "verb": "involve",
+        "object": "kids",
+        "neg": null
+    },
+    {
+        "prompt": "toasters have switches",
+        "label": 1,
+        "subject": "toasters",
+        "verb": "have",
+        "object": "switches",
+        "neg": null
+    },
+    {
+        "prompt": "licenses have tails",
+        "label": 0,
+        "subject": "licenses",
+        "verb": "have",
+        "object": "tails",
+        "neg": null
+    },
+    {
+        "prompt": "sparkplugs use electricity",
+        "label": 1,
+        "subject": "sparkplugs",
+        "verb": "use",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "gumshoes have legs",
+        "label": 1,
+        "subject": "gumshoes",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "Donkeys have fur",
+        "label": 1,
+        "subject": "Donkeys",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "Herbivores have claws",
+        "label": 1,
+        "subject": "Herbivores",
+        "verb": "have",
+        "object": "claws",
+        "neg": null
+    },
+    {
+        "prompt": "sweethearts have feelings",
+        "label": 1,
+        "subject": "sweethearts",
+        "verb": "have",
+        "object": "feelings",
+        "neg": null
+    },
+    {
+        "prompt": "Pools contain water",
+        "label": 1,
+        "subject": "Pools",
+        "verb": "contain",
+        "object": "water",
+        "neg": null
+    },
+    {
+        "prompt": "a person touches arch",
+        "label": 1,
+        "subject": "person",
+        "verb": "touches",
+        "object": "arch",
+        "neg": null
+    },
+    {
+        "prompt": "Person carries dart",
+        "label": 1,
+        "subject": "Person",
+        "verb": "carries",
+        "object": "dart",
+        "neg": null
+    },
+    {
+        "prompt": "bloodworms have wings",
+        "label": 0,
+        "subject": "bloodworms",
+        "verb": "have",
+        "object": "wings",
+        "neg": null
+    },
+    {
+        "prompt": "trees have leaves",
+        "label": 1,
+        "subject": "trees",
+        "verb": "have",
+        "object": "leaves",
+        "neg": null
+    },
+    {
+        "prompt": "Shouts make sounds",
+        "label": 1,
+        "subject": "Shouts",
+        "verb": "make",
+        "object": "sounds",
+        "neg": null
+    },
+    {
+        "prompt": "Darts take batteries",
+        "label": 0,
+        "subject": "Darts",
+        "verb": "take",
+        "object": "batteries",
+        "neg": null
+    },
+    {
+        "prompt": "Correspondent drives car",
+        "label": 1,
+        "subject": "Correspondent",
+        "verb": "drives",
+        "object": "car",
+        "neg": null
+    },
+    {
+        "prompt": "People touch massages",
+        "label": 0,
+        "subject": "People",
+        "verb": "touch",
+        "object": "massages",
+        "neg": null
+    },
+    {
+        "prompt": "Telegraphers have color",
+        "label": 1,
+        "subject": "Telegraphers",
+        "verb": "have",
+        "object": "color",
+        "neg": null
+    },
+    {
+        "prompt": "people touch springboards",
+        "label": 1,
+        "subject": "people",
+        "verb": "touch",
+        "object": "springboards",
+        "neg": null
+    },
+    {
+        "prompt": "TVs use electricity",
+        "label": 1,
+        "subject": "TVs",
+        "verb": "use",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "people hold hippos",
+        "label": 1,
+        "subject": "people",
+        "verb": "hold",
+        "object": "hippos",
+        "neg": null
+    },
+    {
+        "prompt": "telemarketers involve numbers",
+        "label": 1,
+        "subject": "telemarketers",
+        "verb": "involve",
+        "object": "numbers",
+        "neg": null
+    },
+    {
+        "prompt": "people touch routers",
+        "label": 1,
+        "subject": "people",
+        "verb": "touch",
+        "object": "routers",
+        "neg": null
+    },
+    {
+        "prompt": "tearooms are held by people",
+        "label": 0,
+        "subject": "tearooms",
+        "verb": "held",
+        "object": "people",
+        "neg": null
+    },
+    {
+        "prompt": "Sackers sell stuff",
+        "label": 0,
+        "subject": "Sackers",
+        "verb": "sell",
+        "object": "stuff",
+        "neg": null
+    },
+    {
+        "prompt": "Boobs have electrons",
+        "label": 0,
+        "subject": "Boobs",
+        "verb": "have",
+        "object": "electrons",
+        "neg": null
+    },
+    {
+        "prompt": "People eat walking",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "walking",
+        "neg": null
+    },
+    {
+        "prompt": "Clowns take lot",
+        "label": 1,
+        "subject": "Clowns",
+        "verb": "take",
+        "object": "lot",
+        "neg": null
+    },
+    {
+        "prompt": "Yellowtails have no fur",
+        "label": 0,
+        "subject": "Yellowtails",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "Revolvers have no legs",
+        "label": 0,
+        "subject": "Revolvers",
+        "verb": "have",
+        "object": "legs",
+        "neg": null
+    },
+    {
+        "prompt": "Flamethrowers have no fur",
+        "label": 0,
+        "subject": "Flamethrowers",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "karate involves fighting",
+        "label": 1,
+        "subject": "karate",
+        "verb": "involves",
+        "object": "fighting",
+        "neg": null
+    },
+    {
+        "prompt": "synagogues take batteries",
+        "label": 0,
+        "subject": "synagogues",
+        "verb": "take",
+        "object": "batteries",
+        "neg": null
+    },
+    {
+        "prompt": "abortions emit light",
+        "label": 0,
+        "subject": "abortions",
+        "verb": "emit",
+        "object": "light",
+        "neg": null
+    },
+    {
+        "prompt": "horses have doors",
+        "label": 0,
+        "subject": "horses",
+        "verb": "have",
+        "object": "doors",
+        "neg": null
+    },
+    {
+        "prompt": "person holds sage",
+        "label": 1,
+        "subject": "person",
+        "verb": "holds",
+        "object": "sage",
+        "neg": null
+    },
+    {
+        "prompt": "Collarbones have fur",
+        "label": 0,
+        "subject": "Collarbones",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "a watchdog has tail",
+        "label": 1,
+        "subject": "watchdog",
+        "verb": "has",
+        "object": "tail",
+        "neg": null
+    },
+    {
+        "prompt": "papers play music",
+        "label": 0,
+        "subject": "papers",
+        "verb": "play",
+        "object": "music",
+        "neg": null
+    },
+    {
+        "prompt": "Hernias make noise",
+        "label": 0,
+        "subject": "Hernias",
+        "verb": "make",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "faceplates hold trash",
+        "label": 0,
+        "subject": "faceplates",
+        "verb": "hold",
+        "object": "trash",
+        "neg": null
+    },
+    {
+        "prompt": "People ride doorkeepers",
+        "label": 0,
+        "subject": "People",
+        "verb": "ride",
+        "object": "doorkeepers",
+        "neg": null
+    },
+    {
+        "prompt": "people see appointees",
+        "label": 1,
+        "subject": "people",
+        "verb": "see",
+        "object": "appointees",
+        "neg": null
+    },
+    {
+        "prompt": "Secrets involve governments",
+        "label": 1,
+        "subject": "Secrets",
+        "verb": "involve",
+        "object": "governments",
+        "neg": null
+    },
+    {
+        "prompt": "People use raincoats",
+        "label": 1,
+        "subject": "People",
+        "verb": "use",
+        "object": "raincoats",
+        "neg": null
+    },
+    {
+        "prompt": "brats cost money",
+        "label": 0,
+        "subject": "brats",
+        "verb": "cost",
+        "object": "money",
+        "neg": null
+    },
+    {
+        "prompt": "people wear drills",
+        "label": 0,
+        "subject": "people",
+        "verb": "wear",
+        "object": "drills",
+        "neg": null
+    },
+    {
+        "prompt": "honkers have screens",
+        "label": 0,
+        "subject": "honkers",
+        "verb": "have",
+        "object": "screens",
+        "neg": null
+    },
+    {
+        "prompt": "truckers have fur",
+        "label": 0,
+        "subject": "truckers",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "fields require sources",
+        "label": 0,
+        "subject": "fields",
+        "verb": "require",
+        "object": "sources",
+        "neg": null
+    },
+    {
+        "prompt": "Conches eat food",
+        "label": 1,
+        "subject": "Conches",
+        "verb": "eat",
+        "object": "food",
+        "neg": null
+    },
+    {
+        "prompt": "Crowns help humans",
+        "label": 1,
+        "subject": "Crowns",
+        "verb": "help",
+        "object": "humans",
+        "neg": null
+    },
+    {
+        "prompt": "Gear uses gas",
+        "label": 1,
+        "subject": "Gear",
+        "verb": "uses",
+        "object": "gas",
+        "neg": null
+    },
+    {
+        "prompt": "People wear teaspoonsful",
+        "label": 0,
+        "subject": "People",
+        "verb": "wear",
+        "object": "teaspoonsful",
+        "neg": null
+    },
+    {
+        "prompt": "Yard functions",
+        "label": 0,
+        "subject": "Yard",
+        "verb": "functions",
+        "object": null,
+        "neg": null
+    },
+    {
+        "prompt": "parks involve children",
+        "label": 1,
+        "subject": "parks",
+        "verb": "involve",
+        "object": "children",
+        "neg": null
+    },
+    {
+        "prompt": "limes have pits",
+        "label": 0,
+        "subject": "limes",
+        "verb": "have",
+        "object": "pits",
+        "neg": null
+    },
+    {
+        "prompt": "kids have pincers",
+        "label": 0,
+        "subject": "kids",
+        "verb": "have",
+        "object": "pincers",
+        "neg": null
+    },
+    {
+        "prompt": "a person buys steamer",
+        "label": 1,
+        "subject": "person",
+        "verb": "buys",
+        "object": "steamer",
+        "neg": null
+    },
+    {
+        "prompt": "Ore is food",
+        "label": 0,
+        "subject": "Ore",
+        "verb": "is",
+        "object": "food",
+        "neg": null
+    },
+    {
+        "prompt": "Photos are dry things",
+        "label": 0,
+        "subject": "Photos",
+        "verb": "are",
+        "object": "dry things",
+        "neg": null
+    },
+    {
+        "prompt": "people eat rhinoceros",
+        "label": 1,
+        "subject": "people",
+        "verb": "eat",
+        "object": "rhinoceros",
+        "neg": null
+    },
+    {
+        "prompt": "people use beverages",
+        "label": 1,
+        "subject": "people",
+        "verb": "use",
+        "object": "beverages",
+        "neg": null
+    },
+    {
+        "prompt": "Flutes make sound",
+        "label": 1,
+        "subject": "Flutes",
+        "verb": "make",
+        "object": "sound",
+        "neg": null
+    },
+    {
+        "prompt": "people eat traps",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "traps",
+        "neg": null
+    },
+    {
+        "prompt": "families eat grass",
+        "label": 1,
+        "subject": "families",
+        "verb": "eat",
+        "object": "grass",
+        "neg": null
+    },
+    {
+        "prompt": "a doggy eats nut",
+        "label": 1,
+        "subject": "doggy",
+        "verb": "eats",
+        "object": "nut",
+        "neg": null
+    },
+    {
+        "prompt": "people mold ammonia",
+        "label": 0,
+        "subject": "people",
+        "verb": "mold",
+        "object": "ammonia",
+        "neg": null
+    },
+    {
+        "prompt": "people use butter",
+        "label": 1,
+        "subject": "people",
+        "verb": "use",
+        "object": "butter",
+        "neg": null
+    },
+    {
+        "prompt": "superstructures require electricity",
+        "label": 1,
+        "subject": "superstructures",
+        "verb": "require",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "waterwheels require electricity",
+        "label": 0,
+        "subject": "waterwheels",
+        "verb": "require",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "people buy schools",
+        "label": 1,
+        "subject": "people",
+        "verb": "buy",
+        "object": "schools",
+        "neg": null
+    },
+    {
+        "prompt": "Scanning has flowers",
+        "label": 0,
+        "subject": "Scanning",
+        "verb": "has",
+        "object": "flowers",
+        "neg": null
+    },
+    {
+        "prompt": "eateries have smells",
+        "label": 1,
+        "subject": "eateries",
+        "verb": "have",
+        "object": "smells",
+        "neg": null
+    },
+    {
+        "prompt": "Anyone uses exterior",
+        "label": 1,
+        "subject": "Anyone",
+        "verb": "uses",
+        "object": "exterior",
+        "neg": null
+    },
+    {
+        "prompt": "people eat inquisitors",
+        "label": 1,
+        "subject": "people",
+        "verb": "eat",
+        "object": "inquisitors",
+        "neg": null
+    },
+    {
+        "prompt": "foundations take electricity",
+        "label": 0,
+        "subject": "foundations",
+        "verb": "take",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "hydroxides require work",
+        "label": 0,
+        "subject": "hydroxides",
+        "verb": "require",
+        "object": "work",
+        "neg": null
+    },
+    {
+        "prompt": "Teachers have minds",
+        "label": 1,
+        "subject": "Teachers",
+        "verb": "have",
+        "object": "minds",
+        "neg": null
+    },
+    {
+        "prompt": "contracts involve secretaries",
+        "label": 1,
+        "subject": "contracts",
+        "verb": "involve",
+        "object": "secretaries",
+        "neg": null
+    },
+    {
+        "prompt": "a print has words",
+        "label": 1,
+        "subject": "print",
+        "verb": "has",
+        "object": "words",
+        "neg": null
+    },
+    {
+        "prompt": "Cities have buildings",
+        "label": 1,
+        "subject": "Cities",
+        "verb": "have",
+        "object": "buildings",
+        "neg": null
+    },
+    {
+        "prompt": "bison have scales",
+        "label": 0,
+        "subject": "bison",
+        "verb": "have",
+        "object": "scales",
+        "neg": null
+    },
+    {
+        "prompt": "whales are used by people",
+        "label": 0,
+        "subject": "whales",
+        "verb": "used",
+        "object": "people",
+        "neg": null
+    },
+    {
+        "prompt": "Men carry guestrooms",
+        "label": 0,
+        "subject": "Men",
+        "verb": "carry",
+        "object": "guestrooms",
+        "neg": null
+    },
+    {
+        "prompt": "Children like kids",
+        "label": 1,
+        "subject": "Children",
+        "verb": "like",
+        "object": "kids",
+        "neg": null
+    },
+    {
+        "prompt": "People use waxworks",
+        "label": 0,
+        "subject": "People",
+        "verb": "use",
+        "object": "waxworks",
+        "neg": null
+    },
+    {
+        "prompt": "dogs make noise",
+        "label": 1,
+        "subject": "dogs",
+        "verb": "make",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "People eat groundskeepers",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "groundskeepers",
+        "neg": null
+    },
+    {
+        "prompt": "Doctors have jobs",
+        "label": 1,
+        "subject": "Doctors",
+        "verb": "have",
+        "object": "jobs",
+        "neg": null
+    },
+    {
+        "prompt": "People ride tombstones",
+        "label": 0,
+        "subject": "People",
+        "verb": "ride",
+        "object": "tombstones",
+        "neg": null
+    },
+    {
+        "prompt": "mongrels involve writing",
+        "label": 0,
+        "subject": "mongrels",
+        "verb": "involve",
+        "object": "writing",
+        "neg": null
+    },
+    {
+        "prompt": "people eat dumbwaiters",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "dumbwaiters",
+        "neg": null
+    },
+    {
+        "prompt": "People buy some",
+        "label": 0,
+        "subject": "People",
+        "verb": "buy",
+        "object": "some",
+        "neg": null
+    },
+    {
+        "prompt": "Outlets control electricity",
+        "label": 1,
+        "subject": "Outlets",
+        "verb": "control",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "carriages have wheels",
+        "label": 1,
+        "subject": "carriages",
+        "verb": "have",
+        "object": "wheels",
+        "neg": null
+    },
+    {
+        "prompt": "octopuses have claws",
+        "label": 0,
+        "subject": "octopuses",
+        "verb": "have",
+        "object": "claws",
+        "neg": null
+    },
+    {
+        "prompt": "Penthouses have color",
+        "label": 1,
+        "subject": "Penthouses",
+        "verb": "have",
+        "object": "color",
+        "neg": null
+    },
+    {
+        "prompt": "stamens involve plants",
+        "label": 1,
+        "subject": "stamens",
+        "verb": "involve",
+        "object": "plants",
+        "neg": null
+    },
+    {
+        "prompt": "people drive whetstones",
+        "label": 0,
+        "subject": "people",
+        "verb": "drive",
+        "object": "whetstones",
+        "neg": null
+    },
+    {
+        "prompt": "bridges have faces",
+        "label": 0,
+        "subject": "bridges",
+        "verb": "have",
+        "object": "faces",
+        "neg": null
+    },
+    {
+        "prompt": "Someone builds caskets",
+        "label": 1,
+        "subject": "Someone",
+        "verb": "builds",
+        "object": "caskets",
+        "neg": null
+    },
+    {
+        "prompt": "children have shapes",
+        "label": 1,
+        "subject": "children",
+        "verb": "have",
+        "object": "shapes",
+        "neg": null
+    },
+    {
+        "prompt": "landmarks have roofs",
+        "label": 1,
+        "subject": "landmarks",
+        "verb": "have",
+        "object": "roofs",
+        "neg": null
+    },
+    {
+        "prompt": "People lift chairlifts",
+        "label": 1,
+        "subject": "People",
+        "verb": "lift",
+        "object": "chairlifts",
+        "neg": null
+    },
+    {
+        "prompt": "People find interiors",
+        "label": 0,
+        "subject": "People",
+        "verb": "find",
+        "object": "interiors",
+        "neg": null
+    },
+    {
+        "prompt": "people hold truffles",
+        "label": 1,
+        "subject": "people",
+        "verb": "hold",
+        "object": "truffles",
+        "neg": null
+    },
+    {
+        "prompt": "electricity inflicts pain",
+        "label": 1,
+        "subject": "electricity",
+        "verb": "inflicts",
+        "object": "pain",
+        "neg": null
+    },
+    {
+        "prompt": "Terminal costs money",
+        "label": 1,
+        "subject": "Terminal",
+        "verb": "costs",
+        "object": "money",
+        "neg": null
+    },
+    {
+        "prompt": "guides make noise",
+        "label": 1,
+        "subject": "guides",
+        "verb": "make",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "fawns have fur",
+        "label": 1,
+        "subject": "fawns",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "Womb births child",
+        "label": 1,
+        "subject": "Womb",
+        "verb": "births",
+        "object": "child",
+        "neg": null
+    },
+    {
+        "prompt": "Busmen involve construction",
+        "label": 0,
+        "subject": "Busmen",
+        "verb": "involve",
+        "object": "construction",
+        "neg": null
+    },
+    {
+        "prompt": "Chameleons change color",
+        "label": 1,
+        "subject": "Chameleons",
+        "verb": "change",
+        "object": "color",
+        "neg": null
+    },
+    {
+        "prompt": "solicitors require use",
+        "label": 1,
+        "subject": "solicitors",
+        "verb": "require",
+        "object": "use",
+        "neg": null
+    },
+    {
+        "prompt": "Men use lanes",
+        "label": 1,
+        "subject": "Men",
+        "verb": "use",
+        "object": "lanes",
+        "neg": null
+    },
+    {
+        "prompt": "buckets have brains",
+        "label": 0,
+        "subject": "buckets",
+        "verb": "have",
+        "object": "brains",
+        "neg": null
+    },
+    {
+        "prompt": "Boilers require maintenance",
+        "label": 1,
+        "subject": "Boilers",
+        "verb": "require",
+        "object": "maintenance",
+        "neg": null
+    },
+    {
+        "prompt": "People carry elephants",
+        "label": 0,
+        "subject": "People",
+        "verb": "carry",
+        "object": "elephants",
+        "neg": null
+    },
+    {
+        "prompt": "Refineries involve education",
+        "label": 0,
+        "subject": "Refineries",
+        "verb": "involve",
+        "object": "education",
+        "neg": null
+    },
+    {
+        "prompt": "cabdrivers involve uniforms",
+        "label": 1,
+        "subject": "cabdrivers",
+        "verb": "involve",
+        "object": "uniforms",
+        "neg": null
+    },
+    {
+        "prompt": "goats have fur",
+        "label": 1,
+        "subject": "goats",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "Gulls weigh anything",
+        "label": 1,
+        "subject": "Gulls",
+        "verb": "weigh",
+        "object": "anything",
+        "neg": null
+    },
+    {
+        "prompt": "Holders cost money",
+        "label": 1,
+        "subject": "Holders",
+        "verb": "cost",
+        "object": "money",
+        "neg": null
+    },
+    {
+        "prompt": "rain ruins tuxedos",
+        "label": 1,
+        "subject": "rain",
+        "verb": "ruins",
+        "object": "tuxedos",
+        "neg": null
+    },
+    {
+        "prompt": "a windstorm damages house",
+        "label": 1,
+        "subject": "windstorm",
+        "verb": "damages",
+        "object": "house",
+        "neg": null
+    },
+    {
+        "prompt": "People eat litmus paper",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "paper",
+        "neg": null
+    },
+    {
+        "prompt": "cups need batteries",
+        "label": 0,
+        "subject": "cups",
+        "verb": "need",
+        "object": "batteries",
+        "neg": null
+    },
+    {
+        "prompt": "mutes make noise",
+        "label": 0,
+        "subject": "mutes",
+        "verb": "make",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "Kid uses clicker",
+        "label": 1,
+        "subject": "Kid",
+        "verb": "uses",
+        "object": "clicker",
+        "neg": null
+    },
+    {
+        "prompt": "Carpets involve writing",
+        "label": 0,
+        "subject": "Carpets",
+        "verb": "involve",
+        "object": "writing",
+        "neg": null
+    },
+    {
+        "prompt": "People use fractures",
+        "label": 0,
+        "subject": "People",
+        "verb": "use",
+        "object": "fractures",
+        "neg": null
+    },
+    {
+        "prompt": "people carry their belongings",
+        "label": 1,
+        "subject": "people",
+        "verb": "carry",
+        "object": "belongings",
+        "neg": null
+    },
+    {
+        "prompt": "people buy nests",
+        "label": 0,
+        "subject": "people",
+        "verb": "buy",
+        "object": "nests",
+        "neg": null
+    },
+    {
+        "prompt": "pumps have motors",
+        "label": 1,
+        "subject": "pumps",
+        "verb": "have",
+        "object": "motors",
+        "neg": null
+    },
+    {
+        "prompt": "Person holds jade",
+        "label": 1,
+        "subject": "Person",
+        "verb": "holds",
+        "object": "jade",
+        "neg": null
+    },
+    {
+        "prompt": "we hope to kill bacteria",
+        "label": 0,
+        "subject": "we",
+        "verb": "hope",
+        "object": "kill",
+        "neg": null
+    },
+    {
+        "prompt": "People build rosebushes",
+        "label": 0,
+        "subject": "People",
+        "verb": "build",
+        "object": "rosebushes",
+        "neg": null
+    },
+    {
+        "prompt": "People eat articles",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "articles",
+        "neg": null
+    },
+    {
+        "prompt": "institutions make noise",
+        "label": 0,
+        "subject": "institutions",
+        "verb": "make",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "Slaps make noise",
+        "label": 1,
+        "subject": "Slaps",
+        "verb": "make",
+        "object": "noise",
+        "neg": null
+    },
+    {
+        "prompt": "Turtles have money",
+        "label": 0,
+        "subject": "Turtles",
+        "verb": "have",
+        "object": "money",
+        "neg": null
+    },
+    {
+        "prompt": "Lecterns hold books",
+        "label": 1,
+        "subject": "Lecterns",
+        "verb": "hold",
+        "object": "books",
+        "neg": null
+    },
+    {
+        "prompt": "People eat neckerchiefs",
+        "label": 0,
+        "subject": "People",
+        "verb": "eat",
+        "object": "neckerchiefs",
+        "neg": null
+    },
+    {
+        "prompt": "alehouses require construction",
+        "label": 1,
+        "subject": "alehouses",
+        "verb": "require",
+        "object": "construction",
+        "neg": null
+    },
+    {
+        "prompt": "Armpits have odors",
+        "label": 1,
+        "subject": "Armpits",
+        "verb": "have",
+        "object": "odors",
+        "neg": null
+    },
+    {
+        "prompt": "People use mainframes",
+        "label": 1,
+        "subject": "People",
+        "verb": "use",
+        "object": "mainframes",
+        "neg": null
+    },
+    {
+        "prompt": "a person smashed fodder",
+        "label": 1,
+        "subject": "person",
+        "verb": "smashed",
+        "object": "fodder",
+        "neg": null
+    },
+    {
+        "prompt": "Backpacks have wheels",
+        "label": 1,
+        "subject": "Backpacks",
+        "verb": "have",
+        "object": "wheels",
+        "neg": null
+    },
+    {
+        "prompt": "faxes require electricity",
+        "label": 1,
+        "subject": "faxes",
+        "verb": "require",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "malaria involves people",
+        "label": 0,
+        "subject": "malaria",
+        "verb": "involves",
+        "object": "people",
+        "neg": null
+    },
+    {
+        "prompt": "interns cost money",
+        "label": 1,
+        "subject": "interns",
+        "verb": "cost",
+        "object": "money",
+        "neg": null
+    },
+    {
+        "prompt": "A person wears watch",
+        "label": 1,
+        "subject": "person",
+        "verb": "wears",
+        "object": "watch",
+        "neg": null
+    },
+    {
+        "prompt": "flatheads have smells",
+        "label": 1,
+        "subject": "flatheads",
+        "verb": "have",
+        "object": "smells",
+        "neg": null
+    },
+    {
+        "prompt": "Corn has resemblance",
+        "label": 1,
+        "subject": "Corn",
+        "verb": "has",
+        "object": "resemblance",
+        "neg": null
+    },
+    {
+        "prompt": "Brushes have shells",
+        "label": 0,
+        "subject": "Brushes",
+        "verb": "have",
+        "object": "shells",
+        "neg": null
+    },
+    {
+        "prompt": "Riches have manual",
+        "label": 0,
+        "subject": "Riches",
+        "verb": "have",
+        "object": "manual",
+        "neg": null
+    },
+    {
+        "prompt": "Clergy use electricity",
+        "label": 0,
+        "subject": "Clergy",
+        "verb": "use",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "lights require electricity",
+        "label": 1,
+        "subject": "lights",
+        "verb": "require",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "hunchbacks take degrees",
+        "label": 0,
+        "subject": "hunchbacks",
+        "verb": "take",
+        "object": "degrees",
+        "neg": null
+    },
+    {
+        "prompt": "bottles use electricity",
+        "label": 0,
+        "subject": "bottles",
+        "verb": "use",
+        "object": "electricity",
+        "neg": null
+    },
+    {
+        "prompt": "snakes have fur",
+        "label": 0,
+        "subject": "snakes",
+        "verb": "have",
+        "object": "fur",
+        "neg": null
+    },
+    {
+        "prompt": "Mailmen have tails",
+        "label": 0,
+        "subject": "Mailmen",
+        "verb": "have",
+        "object": "tails",
+        "neg": null
+    },
+    {
+        "prompt": "Soil serves purpose",
+        "label": 1,
+        "subject": "Soil",
+        "verb": "serves",
+        "object": "purpose",
+        "neg": null
+    },
+    {
+        "prompt": "people eat midterms",
+        "label": 0,
+        "subject": "people",
+        "verb": "eat",
+        "object": "midterms",
+        "neg": null
+    },
+    {
+        "prompt": "people hear mosquitoes",
+        "label": 1,
+        "subject": "people",
+        "verb": "hear",
+        "object": "mosquitoes",
+        "neg": null
+    }
+]

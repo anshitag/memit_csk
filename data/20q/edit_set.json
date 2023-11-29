@@ -1,0 +1,10022 @@
+[
+    {
+        "prompt": "a revolver makes sound",
+        "label": 1
+    },
+    {
+        "prompt": "Furnishings make noise",
+        "label": 0
+    },
+    {
+        "prompt": "Sportscasters make noise",
+        "label": 1
+    },
+    {
+        "prompt": "people purchase chateaus",
+        "label": 1
+    },
+    {
+        "prompt": "Steamrollers cost $",
+        "label": 1
+    },
+    {
+        "prompt": "People touch whores",
+        "label": 1
+    },
+    {
+        "prompt": "Doppelgangers provide services",
+        "label": 1
+    },
+    {
+        "prompt": "a coordinator has leg",
+        "label": 1
+    },
+    {
+        "prompt": "People want nightmares",
+        "label": 0
+    },
+    {
+        "prompt": "children use hooves",
+        "label": 0
+    },
+    {
+        "prompt": "people wear processors",
+        "label": 0
+    },
+    {
+        "prompt": "genomes have mass",
+        "label": 1
+    },
+    {
+        "prompt": "clubhouses have lights",
+        "label": 1
+    },
+    {
+        "prompt": "everyone has conscience",
+        "label": 0
+    },
+    {
+        "prompt": "machetes require labor",
+        "label": 1
+    },
+    {
+        "prompt": "People use levers",
+        "label": 1
+    },
+    {
+        "prompt": "People drink platters",
+        "label": 0
+    },
+    {
+        "prompt": "stumps produce nuts",
+        "label": 0
+    },
+    {
+        "prompt": "People touch steam",
+        "label": 0
+    },
+    {
+        "prompt": "people eat grail",
+        "label": 0
+    },
+    {
+        "prompt": "landlines involve internet",
+        "label": 1
+    },
+    {
+        "prompt": "people eat undercoating",
+        "label": 0
+    },
+    {
+        "prompt": "a fox makes noise",
+        "label": 1
+    },
+    {
+        "prompt": "Contracts have hairs",
+        "label": 0
+    },
+    {
+        "prompt": "people lift over",
+        "label": 0
+    },
+    {
+        "prompt": "Avoiding involves insurance",
+        "label": 0
+    },
+    {
+        "prompt": "people cook boathouses",
+        "label": 0
+    },
+    {
+        "prompt": "vegetarians don't eat meat",
+        "label": 0
+    },
+    {
+        "prompt": "pussycats have screens",
+        "label": 0
+    },
+    {
+        "prompt": "Washstands have headboards",
+        "label": 0
+    },
+    {
+        "prompt": "Stretches reflect light",
+        "label": 0
+    },
+    {
+        "prompt": "people drink condors",
+        "label": 0
+    },
+    {
+        "prompt": "people buy jurors",
+        "label": 1
+    },
+    {
+        "prompt": "magnets pull something",
+        "label": 1
+    },
+    {
+        "prompt": "People lift airplanes",
+        "label": 0
+    },
+    {
+        "prompt": "mountains don't have doors",
+        "label": 0
+    },
+    {
+        "prompt": "macaroni costs $",
+        "label": 1
+    },
+    {
+        "prompt": "platters have purposes",
+        "label": 1
+    },
+    {
+        "prompt": "people drive alcohols",
+        "label": 0
+    },
+    {
+        "prompt": "People touch mildew",
+        "label": 1
+    },
+    {
+        "prompt": "crows have wings",
+        "label": 1
+    },
+    {
+        "prompt": "workhouses start foundations",
+        "label": 1
+    },
+    {
+        "prompt": "people eat dimes",
+        "label": 0
+    },
+    {
+        "prompt": "crabs have claws",
+        "label": 1
+    },
+    {
+        "prompt": "people wear bifocals",
+        "label": 1
+    },
+    {
+        "prompt": "daggers cost money",
+        "label": 1
+    },
+    {
+        "prompt": "Blowfish has shell",
+        "label": 0
+    },
+    {
+        "prompt": "beggars have jobs",
+        "label": 1
+    },
+    {
+        "prompt": "Grapes involve food",
+        "label": 1
+    },
+    {
+        "prompt": "Floodplains spray water",
+        "label": 0
+    },
+    {
+        "prompt": "pollen have waters",
+        "label": 0
+    },
+    {
+        "prompt": "Diamondbacks have legs",
+        "label": 0
+    },
+    {
+        "prompt": "used electricity in novel",
+        "label": 0
+    },
+    {
+        "prompt": "people touch nebulae",
+        "label": 0
+    },
+    {
+        "prompt": "gentlemen have hands",
+        "label": 1
+    },
+    {
+        "prompt": "people see intentions",
+        "label": 0
+    },
+    {
+        "prompt": "people buy guilt",
+        "label": 0
+    },
+    {
+        "prompt": "people use conventions",
+        "label": 0
+    },
+    {
+        "prompt": "people like parks",
+        "label": 1
+    },
+    {
+        "prompt": "Care is touched by person",
+        "label": 0
+    },
+    {
+        "prompt": "an envelope has button",
+        "label": 0
+    },
+    {
+        "prompt": "axes can harm plants",
+        "label": 1
+    },
+    {
+        "prompt": "phones use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "People plug mailboxes",
+        "label": 0
+    },
+    {
+        "prompt": "printers print documents",
+        "label": 1
+    },
+    {
+        "prompt": "Wind doesn't have color",
+        "label": 0
+    },
+    {
+        "prompt": "mediators involve animals",
+        "label": 1
+    },
+    {
+        "prompt": "hellhounds kill humans",
+        "label": 1
+    },
+    {
+        "prompt": "People don't eat embryos",
+        "label": 0
+    },
+    {
+        "prompt": "Hearts feel love",
+        "label": 1
+    },
+    {
+        "prompt": "Aerialists have bills",
+        "label": 0
+    },
+    {
+        "prompt": "everyone has alarm",
+        "label": 1
+    },
+    {
+        "prompt": "Everyone has lagoon",
+        "label": 0
+    },
+    {
+        "prompt": "people eat loudspeakers",
+        "label": 0
+    },
+    {
+        "prompt": "people eat rashes",
+        "label": 0
+    },
+    {
+        "prompt": "glasses have colors",
+        "label": 1
+    },
+    {
+        "prompt": "a sickle causes pain",
+        "label": 1
+    },
+    {
+        "prompt": "kids like marmalade",
+        "label": 1
+    },
+    {
+        "prompt": "people wear colas",
+        "label": 0
+    },
+    {
+        "prompt": "Kids use chessboards",
+        "label": 1
+    },
+    {
+        "prompt": "percolators have handles",
+        "label": 1
+    },
+    {
+        "prompt": "a person reads trousers",
+        "label": 0
+    },
+    {
+        "prompt": "a dog climbs tree",
+        "label": 1
+    },
+    {
+        "prompt": "freezers have meat",
+        "label": 1
+    },
+    {
+        "prompt": "stems have purpose",
+        "label": 1
+    },
+    {
+        "prompt": "A deadbolt is eaten by person",
+        "label": 0
+    },
+    {
+        "prompt": "people use trees",
+        "label": 0
+    },
+    {
+        "prompt": "codpieces have legs",
+        "label": 0
+    },
+    {
+        "prompt": "a dog has fur",
+        "label": 1
+    },
+    {
+        "prompt": "people hold sketching pencils",
+        "label": 1
+    },
+    {
+        "prompt": "People wear parsley",
+        "label": 0
+    },
+    {
+        "prompt": "people eat satellites",
+        "label": 0
+    },
+    {
+        "prompt": "People have genders",
+        "label": 1
+    },
+    {
+        "prompt": "people eat aerialists",
+        "label": 0
+    },
+    {
+        "prompt": "people use shells",
+        "label": 1
+    },
+    {
+        "prompt": "people touch gods",
+        "label": 0
+    },
+    {
+        "prompt": "Sensors make noise",
+        "label": 1
+    },
+    {
+        "prompt": "People touch schoolwork",
+        "label": 1
+    },
+    {
+        "prompt": "Bread does not have hair",
+        "label": 0
+    },
+    {
+        "prompt": "Sunflowers have roots",
+        "label": 1
+    },
+    {
+        "prompt": "people wear bordellos",
+        "label": 0
+    },
+    {
+        "prompt": "a woman wears brassiere",
+        "label": 1
+    },
+    {
+        "prompt": "people move universe",
+        "label": 0
+    },
+    {
+        "prompt": "foundations take gas",
+        "label": 0
+    },
+    {
+        "prompt": "People have watches",
+        "label": 1
+    },
+    {
+        "prompt": "people use gravestones",
+        "label": 1
+    },
+    {
+        "prompt": "people see butterfats",
+        "label": 1
+    },
+    {
+        "prompt": "people lift covers",
+        "label": 1
+    },
+    {
+        "prompt": "bedchambers have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Contraception involves writing",
+        "label": 0
+    },
+    {
+        "prompt": "Boobs have range",
+        "label": 0
+    },
+    {
+        "prompt": "people wear food",
+        "label": 0
+    },
+    {
+        "prompt": "a kid uses city",
+        "label": 1
+    },
+    {
+        "prompt": "people operate lava lamps",
+        "label": 0
+    },
+    {
+        "prompt": "people hold lagoons",
+        "label": 0
+    },
+    {
+        "prompt": "People hold counterterrorists",
+        "label": 1
+    },
+    {
+        "prompt": "Webmaster is taken by person",
+        "label": 0
+    },
+    {
+        "prompt": "People hold cellblocks",
+        "label": 0
+    },
+    {
+        "prompt": "hamsters can climb trees",
+        "label": 1
+    },
+    {
+        "prompt": "cherries grow fruit",
+        "label": 0
+    },
+    {
+        "prompt": "water has particles",
+        "label": 1
+    },
+    {
+        "prompt": "plants consume water",
+        "label": 1
+    },
+    {
+        "prompt": "truckers have feathers",
+        "label": 0
+    },
+    {
+        "prompt": "wore solvent",
+        "label": 0
+    },
+    {
+        "prompt": "cookbooks have colors",
+        "label": 1
+    },
+    {
+        "prompt": "Ducks have fur",
+        "label": 0
+    },
+    {
+        "prompt": "Employers have arms",
+        "label": 1
+    },
+    {
+        "prompt": "tigers take up space",
+        "label": 1
+    },
+    {
+        "prompt": "grenadines have flavor",
+        "label": 1
+    },
+    {
+        "prompt": "Bifocals cut things",
+        "label": 0
+    },
+    {
+        "prompt": "Lots have mansions",
+        "label": 1
+    },
+    {
+        "prompt": "Operators involve science",
+        "label": 0
+    },
+    {
+        "prompt": "Cummerbunds have frames",
+        "label": 0
+    },
+    {
+        "prompt": "people touch televisions",
+        "label": 1
+    },
+    {
+        "prompt": "a transceiver gives brightness",
+        "label": 0
+    },
+    {
+        "prompt": "Classes involve education",
+        "label": 1
+    },
+    {
+        "prompt": "ballads have shapes",
+        "label": 0
+    },
+    {
+        "prompt": "People wear beanstalks",
+        "label": 0
+    },
+    {
+        "prompt": "people eat chestnuts",
+        "label": 1
+    },
+    {
+        "prompt": "Humans use bats",
+        "label": 1
+    },
+    {
+        "prompt": "a crackpot involves animal",
+        "label": 0
+    },
+    {
+        "prompt": "leaves have faucets",
+        "label": 0
+    },
+    {
+        "prompt": "canals have banks",
+        "label": 0
+    },
+    {
+        "prompt": "Garlic have leaves",
+        "label": 1
+    },
+    {
+        "prompt": "investments involve money",
+        "label": 1
+    },
+    {
+        "prompt": "Blenders require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Hombres make noises",
+        "label": 1
+    },
+    {
+        "prompt": "People find jaywalkers",
+        "label": 1
+    },
+    {
+        "prompt": "Opiate use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "a person eats triage",
+        "label": 0
+    },
+    {
+        "prompt": "a person buys walnut",
+        "label": 1
+    },
+    {
+        "prompt": "Fish have brains",
+        "label": 1
+    },
+    {
+        "prompt": "conservationists benefit society",
+        "label": 1
+    },
+    {
+        "prompt": "Kids understand aces",
+        "label": 1
+    },
+    {
+        "prompt": "people put psychiatry",
+        "label": 0
+    },
+    {
+        "prompt": "Cattlemen involve zoos",
+        "label": 1
+    },
+    {
+        "prompt": "People eat clavicles",
+        "label": 0
+    },
+    {
+        "prompt": "Roots provide food",
+        "label": 1
+    },
+    {
+        "prompt": "Children enjoy prizes",
+        "label": 1
+    },
+    {
+        "prompt": "a person buys caravan",
+        "label": 0
+    },
+    {
+        "prompt": "flocks represent groups",
+        "label": 1
+    },
+    {
+        "prompt": "crows make sounds",
+        "label": 1
+    },
+    {
+        "prompt": "Leeches have legs",
+        "label": 0
+    },
+    {
+        "prompt": "People smell truths",
+        "label": 0
+    },
+    {
+        "prompt": "lemons have smell",
+        "label": 1
+    },
+    {
+        "prompt": "Buckets have handles",
+        "label": 1
+    },
+    {
+        "prompt": "blessings hurt people",
+        "label": 0
+    },
+    {
+        "prompt": "Subpoenas hurt people",
+        "label": 1
+    },
+    {
+        "prompt": "Memorandums are bound",
+        "label": 1
+    },
+    {
+        "prompt": "menthol uses electricity",
+        "label": 0
+    },
+    {
+        "prompt": "People hold tapestries",
+        "label": 1
+    },
+    {
+        "prompt": "corners have engines",
+        "label": 0
+    },
+    {
+        "prompt": "wrongs have fur",
+        "label": 0
+    },
+    {
+        "prompt": "men purify blood",
+        "label": 0
+    },
+    {
+        "prompt": "people wear hatcheries",
+        "label": 0
+    },
+    {
+        "prompt": "People feel some",
+        "label": 0
+    },
+    {
+        "prompt": "People touch seltzers",
+        "label": 1
+    },
+    {
+        "prompt": "an iguana has brain",
+        "label": 1
+    },
+    {
+        "prompt": "drawers have handles",
+        "label": 1
+    },
+    {
+        "prompt": "ballets involve dancing",
+        "label": 1
+    },
+    {
+        "prompt": "more will be included",
+        "label": 1
+    },
+    {
+        "prompt": "cardiograms make noise",
+        "label": 1
+    },
+    {
+        "prompt": "Books have pages",
+        "label": 1
+    },
+    {
+        "prompt": "slaughterers require boots",
+        "label": 1
+    },
+    {
+        "prompt": "Lotus bears fruit",
+        "label": 0
+    },
+    {
+        "prompt": "modes have shells",
+        "label": 0
+    },
+    {
+        "prompt": "syllabi involve more",
+        "label": 1
+    },
+    {
+        "prompt": "an expo hurts people",
+        "label": 0
+    },
+    {
+        "prompt": "Firehouses use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Leaves have coffer",
+        "label": 0
+    },
+    {
+        "prompt": "Winners have brains",
+        "label": 1
+    },
+    {
+        "prompt": "people ride gardens",
+        "label": 0
+    },
+    {
+        "prompt": "People use potlucks",
+        "label": 1
+    },
+    {
+        "prompt": "people touch audio",
+        "label": 0
+    },
+    {
+        "prompt": "people eat subcontractors",
+        "label": 0
+    },
+    {
+        "prompt": "people wear suits",
+        "label": 0
+    },
+    {
+        "prompt": "People touch fatness",
+        "label": 1
+    },
+    {
+        "prompt": "a wife has brain",
+        "label": 1
+    },
+    {
+        "prompt": "people wear pancreases",
+        "label": 0
+    },
+    {
+        "prompt": "grinders make noise",
+        "label": 1
+    },
+    {
+        "prompt": "had tranquilizers",
+        "label": 0
+    },
+    {
+        "prompt": "leopards eat meat",
+        "label": 1
+    },
+    {
+        "prompt": "A leg has robe",
+        "label": 0
+    },
+    {
+        "prompt": "a mouse makes noise",
+        "label": 1
+    },
+    {
+        "prompt": "a driver provides service",
+        "label": 1
+    },
+    {
+        "prompt": "a microwave uses electricity",
+        "label": 1
+    },
+    {
+        "prompt": "People eat cathouse",
+        "label": 0
+    },
+    {
+        "prompt": "people have tails",
+        "label": 0
+    },
+    {
+        "prompt": "people find ceilings",
+        "label": 0
+    },
+    {
+        "prompt": "headphones make sound",
+        "label": 1
+    },
+    {
+        "prompt": "shampoos have spots",
+        "label": 0
+    },
+    {
+        "prompt": "moths have legs",
+        "label": 1
+    },
+    {
+        "prompt": "people break physiques",
+        "label": 0
+    },
+    {
+        "prompt": "People use radiation",
+        "label": 1
+    },
+    {
+        "prompt": "Kids like nougat",
+        "label": 1
+    },
+    {
+        "prompt": "a person eats sidebar",
+        "label": 0
+    },
+    {
+        "prompt": "the wiper has wheel",
+        "label": 0
+    },
+    {
+        "prompt": "People buy medicine",
+        "label": 1
+    },
+    {
+        "prompt": "a person consumes brick",
+        "label": 0
+    },
+    {
+        "prompt": "people use projects",
+        "label": 1
+    },
+    {
+        "prompt": "Watermelons have corners",
+        "label": 0
+    },
+    {
+        "prompt": "people use nothing",
+        "label": 0
+    },
+    {
+        "prompt": "the sun feeds babies",
+        "label": 0
+    },
+    {
+        "prompt": "a schoolbook can hold anything",
+        "label": 1
+    },
+    {
+        "prompt": "people borrow encryptions",
+        "label": 0
+    },
+    {
+        "prompt": "responders consult people",
+        "label": 1
+    },
+    {
+        "prompt": "antifreeze needs electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Polygraphs make noise",
+        "label": 1
+    },
+    {
+        "prompt": "dandelions make noise",
+        "label": 0
+    },
+    {
+        "prompt": "processes have legs",
+        "label": 0
+    },
+    {
+        "prompt": "a metronome has metal",
+        "label": 1
+    },
+    {
+        "prompt": "microphones need electricity",
+        "label": 1
+    },
+    {
+        "prompt": "adventurers require accoutrements",
+        "label": 1
+    },
+    {
+        "prompt": "shipwrecks contain water",
+        "label": 1
+    },
+    {
+        "prompt": "people ride muskets",
+        "label": 0
+    },
+    {
+        "prompt": "a person carries tsunami",
+        "label": 0
+    },
+    {
+        "prompt": "Funnels hold something",
+        "label": 1
+    },
+    {
+        "prompt": "a person touches commands",
+        "label": 0
+    },
+    {
+        "prompt": "plywood has motors",
+        "label": 0
+    },
+    {
+        "prompt": "people buy electronics",
+        "label": 0
+    },
+    {
+        "prompt": "Monsignors have PhDs",
+        "label": 1
+    },
+    {
+        "prompt": "Gardeners use lambskins",
+        "label": 0
+    },
+    {
+        "prompt": "boots have uses",
+        "label": 1
+    },
+    {
+        "prompt": "people touch models",
+        "label": 1
+    },
+    {
+        "prompt": "Obstetricians involve repairs",
+        "label": 0
+    },
+    {
+        "prompt": "People don't drive thoughts",
+        "label": 0
+    },
+    {
+        "prompt": "ropes don't have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Recipients have horns",
+        "label": 0
+    },
+    {
+        "prompt": "targets change shapes",
+        "label": 0
+    },
+    {
+        "prompt": "Mermaids have tails",
+        "label": 1
+    },
+    {
+        "prompt": "people mash grandson",
+        "label": 0
+    },
+    {
+        "prompt": "students have books",
+        "label": 1
+    },
+    {
+        "prompt": "a snowman involves snow",
+        "label": 1
+    },
+    {
+        "prompt": "protestors involve religion",
+        "label": 1
+    },
+    {
+        "prompt": "humans hold daybooks",
+        "label": 1
+    },
+    {
+        "prompt": "Wolves involve wildlife",
+        "label": 1
+    },
+    {
+        "prompt": "Women make noise",
+        "label": 1
+    },
+    {
+        "prompt": "SAP plays music",
+        "label": 0
+    },
+    {
+        "prompt": "sleep requires training",
+        "label": 0
+    },
+    {
+        "prompt": "children use members",
+        "label": 0
+    },
+    {
+        "prompt": "Taps hold stuff",
+        "label": 0
+    },
+    {
+        "prompt": "People hold flavors",
+        "label": 0
+    },
+    {
+        "prompt": "people see roars",
+        "label": 0
+    },
+    {
+        "prompt": "cars have batteries",
+        "label": 1
+    },
+    {
+        "prompt": "phones have screens",
+        "label": 1
+    },
+    {
+        "prompt": "captains require education",
+        "label": 1
+    },
+    {
+        "prompt": "pourers clean dishes",
+        "label": 0
+    },
+    {
+        "prompt": "People spend food",
+        "label": 0
+    },
+    {
+        "prompt": "toys require batteries",
+        "label": 1
+    },
+    {
+        "prompt": "salespeople wear hats",
+        "label": 1
+    },
+    {
+        "prompt": "wore thermograph",
+        "label": 0
+    },
+    {
+        "prompt": "Tacos don't have brains",
+        "label": 0
+    },
+    {
+        "prompt": "Blimps have pilots",
+        "label": 1
+    },
+    {
+        "prompt": "dachshunds wag their tails",
+        "label": 1
+    },
+    {
+        "prompt": "Flirters require degrees",
+        "label": 0
+    },
+    {
+        "prompt": "coolers provide heat",
+        "label": 0
+    },
+    {
+        "prompt": "people throw houses",
+        "label": 0
+    },
+    {
+        "prompt": "anyone uses secrets",
+        "label": 1
+    },
+    {
+        "prompt": "people eat lunchboxes",
+        "label": 0
+    },
+    {
+        "prompt": "People smoke simcard",
+        "label": 0
+    },
+    {
+        "prompt": "Residences have doors",
+        "label": 1
+    },
+    {
+        "prompt": "people eat cuttlefish",
+        "label": 1
+    },
+    {
+        "prompt": "movies need bulbs",
+        "label": 0
+    },
+    {
+        "prompt": "scanned boot",
+        "label": 0
+    },
+    {
+        "prompt": "jaguars have teeth",
+        "label": 1
+    },
+    {
+        "prompt": "quails have scales",
+        "label": 0
+    },
+    {
+        "prompt": "people wear volleyballs",
+        "label": 0
+    },
+    {
+        "prompt": "The universe has root",
+        "label": 0
+    },
+    {
+        "prompt": "people take columns",
+        "label": 0
+    },
+    {
+        "prompt": "children use doughnuts",
+        "label": 1
+    },
+    {
+        "prompt": "chops use eyes",
+        "label": 1
+    },
+    {
+        "prompt": "People eat webs",
+        "label": 0
+    },
+    {
+        "prompt": "Widows have friends",
+        "label": 1
+    },
+    {
+        "prompt": "midterms have odor",
+        "label": 0
+    },
+    {
+        "prompt": "a matchbox requires electricity",
+        "label": 0
+    },
+    {
+        "prompt": "crowds make noise",
+        "label": 1
+    },
+    {
+        "prompt": "Gazelles have hooves",
+        "label": 1
+    },
+    {
+        "prompt": "People eat buttered cornflakes",
+        "label": 0
+    },
+    {
+        "prompt": "People touch checkers",
+        "label": 1
+    },
+    {
+        "prompt": "switches use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Toddlers have feelings",
+        "label": 1
+    },
+    {
+        "prompt": "Kinks have color",
+        "label": 0
+    },
+    {
+        "prompt": "scissors cut hair",
+        "label": 1
+    },
+    {
+        "prompt": "People use sand",
+        "label": 1
+    },
+    {
+        "prompt": "Bones make lots",
+        "label": 1
+    },
+    {
+        "prompt": "Hens lay eggs",
+        "label": 1
+    },
+    {
+        "prompt": "people buy risks",
+        "label": 0
+    },
+    {
+        "prompt": "People eat whittler",
+        "label": 0
+    },
+    {
+        "prompt": "people eat electricity",
+        "label": 0
+    },
+    {
+        "prompt": "hailstones make movements",
+        "label": 0
+    },
+    {
+        "prompt": "people touch jowl",
+        "label": 1
+    },
+    {
+        "prompt": "a van makes sound",
+        "label": 1
+    },
+    {
+        "prompt": "chainsaws have blades",
+        "label": 0
+    },
+    {
+        "prompt": "metal helps people",
+        "label": 1
+    },
+    {
+        "prompt": "cats hatch eggs",
+        "label": 0
+    },
+    {
+        "prompt": "moments use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Telegraphers have smells",
+        "label": 1
+    },
+    {
+        "prompt": "Quails have shells",
+        "label": 0
+    },
+    {
+        "prompt": "people read browsers",
+        "label": 1
+    },
+    {
+        "prompt": "a tuxedo makes sound",
+        "label": 0
+    },
+    {
+        "prompt": "people hold plant",
+        "label": 1
+    },
+    {
+        "prompt": "Anyone can use vault",
+        "label": 1
+    },
+    {
+        "prompt": "Doors have knobs",
+        "label": 1
+    },
+    {
+        "prompt": "Gondolas require cement",
+        "label": 0
+    },
+    {
+        "prompt": "people eat safari",
+        "label": 0
+    },
+    {
+        "prompt": "Refrigerators use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "people touch flexes",
+        "label": 0
+    },
+    {
+        "prompt": "people eat in sweatshops",
+        "label": 0
+    },
+    {
+        "prompt": "People hold luncheons",
+        "label": 0
+    },
+    {
+        "prompt": "people touch precipitation",
+        "label": 1
+    },
+    {
+        "prompt": "Memos have purpose",
+        "label": 1
+    },
+    {
+        "prompt": "people smoke crayons",
+        "label": 0
+    },
+    {
+        "prompt": "Inchworms spin webs",
+        "label": 0
+    },
+    {
+        "prompt": "baseballs slither all",
+        "label": 0
+    },
+    {
+        "prompt": "a teacher requires college degree",
+        "label": 1
+    },
+    {
+        "prompt": "mares have manes",
+        "label": 1
+    },
+    {
+        "prompt": "Dogs use leashes",
+        "label": 1
+    },
+    {
+        "prompt": "Bookkeepers have motors",
+        "label": 0
+    },
+    {
+        "prompt": "locusts prepare food",
+        "label": 0
+    },
+    {
+        "prompt": "Groundsmen have eyes",
+        "label": 1
+    },
+    {
+        "prompt": "people eat addressees",
+        "label": 0
+    },
+    {
+        "prompt": "Sandpaper costs $",
+        "label": 1
+    },
+    {
+        "prompt": "Humans move steeples",
+        "label": 1
+    },
+    {
+        "prompt": "silverfish have scales",
+        "label": 0
+    },
+    {
+        "prompt": "Clarinetists have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "bloomers require electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people smell sidebars",
+        "label": 0
+    },
+    {
+        "prompt": "People use sidearm",
+        "label": 0
+    },
+    {
+        "prompt": "Writers accomplish tasks",
+        "label": 1
+    },
+    {
+        "prompt": "people don't eat rocks",
+        "label": 0
+    },
+    {
+        "prompt": "physique requires blood",
+        "label": 0
+    },
+    {
+        "prompt": "people use seines",
+        "label": 0
+    },
+    {
+        "prompt": "articles don't have motors",
+        "label": 0
+    },
+    {
+        "prompt": "people touch ideas",
+        "label": 0
+    },
+    {
+        "prompt": "Humans own paprika",
+        "label": 1
+    },
+    {
+        "prompt": "held mansion",
+        "label": 0
+    },
+    {
+        "prompt": "counts weigh something",
+        "label": 0
+    },
+    {
+        "prompt": "fairgrounds have water",
+        "label": 1
+    },
+    {
+        "prompt": "people hear mixers",
+        "label": 1
+    },
+    {
+        "prompt": "wore clitoris",
+        "label": 0
+    },
+    {
+        "prompt": "people drink typhoons",
+        "label": 0
+    },
+    {
+        "prompt": "Microwaves require power",
+        "label": 1
+    },
+    {
+        "prompt": "Armpits cook dinners",
+        "label": 0
+    },
+    {
+        "prompt": "people see midsections",
+        "label": 1
+    },
+    {
+        "prompt": "people touch tops",
+        "label": 1
+    },
+    {
+        "prompt": "People wear manifestos",
+        "label": 0
+    },
+    {
+        "prompt": "Coyotes have fur",
+        "label": 1
+    },
+    {
+        "prompt": "a giver flies plane",
+        "label": 1
+    },
+    {
+        "prompt": "beans have alcohols",
+        "label": 0
+    },
+    {
+        "prompt": "Flies have tails",
+        "label": 0
+    },
+    {
+        "prompt": "People eat liners",
+        "label": 0
+    },
+    {
+        "prompt": "people drink pancreas",
+        "label": 0
+    },
+    {
+        "prompt": "Mailboxes hold mail",
+        "label": 1
+    },
+    {
+        "prompt": "Sneakers need laces",
+        "label": 1
+    },
+    {
+        "prompt": "boathouses beat people",
+        "label": 0
+    },
+    {
+        "prompt": "people hold millstones",
+        "label": 1
+    },
+    {
+        "prompt": "Arrows cut things",
+        "label": 1
+    },
+    {
+        "prompt": "babies have children",
+        "label": 0
+    },
+    {
+        "prompt": "crocodiles like water",
+        "label": 1
+    },
+    {
+        "prompt": "people breathe freeway",
+        "label": 0
+    },
+    {
+        "prompt": "telegraphers have buttons",
+        "label": 1
+    },
+    {
+        "prompt": "People buy vitamins",
+        "label": 1
+    },
+    {
+        "prompt": "Suitcases have mirrors",
+        "label": 1
+    },
+    {
+        "prompt": "Moors use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "books involve writing",
+        "label": 1
+    },
+    {
+        "prompt": "a person cooks abuser",
+        "label": 0
+    },
+    {
+        "prompt": "People buy taps",
+        "label": 0
+    },
+    {
+        "prompt": "fridges hold things",
+        "label": 1
+    },
+    {
+        "prompt": "Shakers hold stuff",
+        "label": 1
+    },
+    {
+        "prompt": "skiers involve circuses",
+        "label": 0
+    },
+    {
+        "prompt": "nothing has color",
+        "label": 0
+    },
+    {
+        "prompt": "Dalmatians have spots",
+        "label": 1
+    },
+    {
+        "prompt": "benches use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Lampposts generate power",
+        "label": 0
+    },
+    {
+        "prompt": "People use plastic",
+        "label": 0
+    },
+    {
+        "prompt": "Hamsters have brains",
+        "label": 1
+    },
+    {
+        "prompt": "People trim crushes",
+        "label": 0
+    },
+    {
+        "prompt": "a person breathes spinout",
+        "label": 0
+    },
+    {
+        "prompt": "People use come",
+        "label": 0
+    },
+    {
+        "prompt": "monorails contain liquids",
+        "label": 1
+    },
+    {
+        "prompt": "fishhooks require power",
+        "label": 0
+    },
+    {
+        "prompt": "People have mouths",
+        "label": 1
+    },
+    {
+        "prompt": "people wear ships",
+        "label": 0
+    },
+    {
+        "prompt": "lubricants require electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Martinis have odors",
+        "label": 1
+    },
+    {
+        "prompt": "swindlers involve gambling",
+        "label": 1
+    },
+    {
+        "prompt": "People eat renovations",
+        "label": 0
+    },
+    {
+        "prompt": "people own gambling",
+        "label": 0
+    },
+    {
+        "prompt": "Children lift desks",
+        "label": 1
+    },
+    {
+        "prompt": "Wildflowers require degrees",
+        "label": 0
+    },
+    {
+        "prompt": "Illusionists pay more",
+        "label": 1
+    },
+    {
+        "prompt": "jaywalkers have feelings",
+        "label": 1
+    },
+    {
+        "prompt": "everyone has turnstile",
+        "label": 0
+    },
+    {
+        "prompt": "Pourers cut objects",
+        "label": 0
+    },
+    {
+        "prompt": "people eat prints",
+        "label": 0
+    },
+    {
+        "prompt": "Garlic has aroma",
+        "label": 1
+    },
+    {
+        "prompt": "a turtle eats krill",
+        "label": 0
+    },
+    {
+        "prompt": "Axles have lids",
+        "label": 0
+    },
+    {
+        "prompt": "Gals do not have faucets",
+        "label": 0
+    },
+    {
+        "prompt": "Transistors need power",
+        "label": 1
+    },
+    {
+        "prompt": "Papers require interaction",
+        "label": 1
+    },
+    {
+        "prompt": "sweat houses involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "Flashlights emit light",
+        "label": 1
+    },
+    {
+        "prompt": "bundles cost money",
+        "label": 1
+    },
+    {
+        "prompt": "people don't eat whores",
+        "label": 0
+    },
+    {
+        "prompt": "Nameplates make noise",
+        "label": 1
+    },
+    {
+        "prompt": "a tent has restroom",
+        "label": 1
+    },
+    {
+        "prompt": "Ginseng contains meat",
+        "label": 0
+    },
+    {
+        "prompt": "People lift denim",
+        "label": 1
+    },
+    {
+        "prompt": "shrubs have leaves",
+        "label": 1
+    },
+    {
+        "prompt": "people eat crosswise",
+        "label": 0
+    },
+    {
+        "prompt": "people wear tubing",
+        "label": 0
+    },
+    {
+        "prompt": "a person throws library",
+        "label": 0
+    },
+    {
+        "prompt": "People eat in entryway",
+        "label": 0
+    },
+    {
+        "prompt": "leeches have fangs",
+        "label": 0
+    },
+    {
+        "prompt": "Chickadees have beaks",
+        "label": 1
+    },
+    {
+        "prompt": "people eat thieves",
+        "label": 0
+    },
+    {
+        "prompt": "cityscapes make something",
+        "label": 0
+    },
+    {
+        "prompt": "laypeople help others",
+        "label": 1
+    },
+    {
+        "prompt": "a person finds oxbow",
+        "label": 1
+    },
+    {
+        "prompt": "Puppeteers cost money",
+        "label": 1
+    },
+    {
+        "prompt": "traffickers require types",
+        "label": 1
+    },
+    {
+        "prompt": "Campsites require humans",
+        "label": 1
+    },
+    {
+        "prompt": "snakes have arms",
+        "label": 0
+    },
+    {
+        "prompt": "kids use origami",
+        "label": 1
+    },
+    {
+        "prompt": "Linings use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Chickens have feathers",
+        "label": 1
+    },
+    {
+        "prompt": "Brooders involve performance",
+        "label": 0
+    },
+    {
+        "prompt": "belts cost lots",
+        "label": 1
+    },
+    {
+        "prompt": "people wear lights",
+        "label": 0
+    },
+    {
+        "prompt": "kids love whiskey",
+        "label": 0
+    },
+    {
+        "prompt": "ate overeater",
+        "label": 0
+    },
+    {
+        "prompt": "people hold conservatories",
+        "label": 0
+    },
+    {
+        "prompt": "TVs have screens",
+        "label": 1
+    },
+    {
+        "prompt": "people hold gardens",
+        "label": 0
+    },
+    {
+        "prompt": "People wear manholes",
+        "label": 0
+    },
+    {
+        "prompt": "sportscasters have fur",
+        "label": 0
+    },
+    {
+        "prompt": "pets make noise",
+        "label": 1
+    },
+    {
+        "prompt": "grills cook food",
+        "label": 1
+    },
+    {
+        "prompt": "People see carnivals",
+        "label": 1
+    },
+    {
+        "prompt": "people throw portfolios",
+        "label": 1
+    },
+    {
+        "prompt": "Merchandise produces offspring",
+        "label": 0
+    },
+    {
+        "prompt": "Cups hold anything",
+        "label": 1
+    },
+    {
+        "prompt": "people bury interviews",
+        "label": 0
+    },
+    {
+        "prompt": "People touch cummerbunds",
+        "label": 1
+    },
+    {
+        "prompt": "Birthmarks don't take skills",
+        "label": 0
+    },
+    {
+        "prompt": "people eat newlyweds",
+        "label": 0
+    },
+    {
+        "prompt": "apples have skin",
+        "label": 0
+    },
+    {
+        "prompt": "People wear telegraphers",
+        "label": 0
+    },
+    {
+        "prompt": "Slaughterers require education",
+        "label": 1
+    },
+    {
+        "prompt": "harvesters have colors",
+        "label": 1
+    },
+    {
+        "prompt": "people buy waitpersons",
+        "label": 0
+    },
+    {
+        "prompt": "Lettering involves quiz",
+        "label": 1
+    },
+    {
+        "prompt": "People hate flowers",
+        "label": 1
+    },
+    {
+        "prompt": "People use newsletters",
+        "label": 1
+    },
+    {
+        "prompt": "Adults use libraries",
+        "label": 1
+    },
+    {
+        "prompt": "Firehouses require humans",
+        "label": 1
+    },
+    {
+        "prompt": "People pursue sobs",
+        "label": 0
+    },
+    {
+        "prompt": "people don't wear postcards",
+        "label": 0
+    },
+    {
+        "prompt": "a person borrows ballad",
+        "label": 0
+    },
+    {
+        "prompt": "people purchase mom",
+        "label": 0
+    },
+    {
+        "prompt": "Water has handle",
+        "label": 0
+    },
+    {
+        "prompt": "Ants don't hug people",
+        "label": 0
+    },
+    {
+        "prompt": "corn has layers",
+        "label": 1
+    },
+    {
+        "prompt": "People sell satellites",
+        "label": 1
+    },
+    {
+        "prompt": "people want hairballs",
+        "label": 1
+    },
+    {
+        "prompt": "People eat bread",
+        "label": 0
+    },
+    {
+        "prompt": "theaters have restrooms",
+        "label": 1
+    },
+    {
+        "prompt": "Hustlers make money",
+        "label": 1
+    },
+    {
+        "prompt": "a bus has wheels",
+        "label": 1
+    },
+    {
+        "prompt": "swordfish have legs",
+        "label": 0
+    },
+    {
+        "prompt": "soil has handle",
+        "label": 0
+    },
+    {
+        "prompt": "buzzers use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "employers wear shoes",
+        "label": 1
+    },
+    {
+        "prompt": "people use mouthpieces",
+        "label": 0
+    },
+    {
+        "prompt": "headstones cost money",
+        "label": 1
+    },
+    {
+        "prompt": "displays have roots",
+        "label": 0
+    },
+    {
+        "prompt": "people hire cars",
+        "label": 0
+    },
+    {
+        "prompt": "wore socks",
+        "label": 0
+    },
+    {
+        "prompt": "sponges absorb water",
+        "label": 1
+    },
+    {
+        "prompt": "people wear arsonists",
+        "label": 0
+    },
+    {
+        "prompt": "silverbacks have fur",
+        "label": 1
+    },
+    {
+        "prompt": "people hold world",
+        "label": 0
+    },
+    {
+        "prompt": "People use cryptographs",
+        "label": 1
+    },
+    {
+        "prompt": "Togas use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "People wear sneakers",
+        "label": 1
+    },
+    {
+        "prompt": "People wear rowboats",
+        "label": 0
+    },
+    {
+        "prompt": "people move attire",
+        "label": 1
+    },
+    {
+        "prompt": "a dildo costs money",
+        "label": 1
+    },
+    {
+        "prompt": "Trailers have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "corkscrews open bottles",
+        "label": 1
+    },
+    {
+        "prompt": "a person eats wall",
+        "label": 0
+    },
+    {
+        "prompt": "kids use marmalade",
+        "label": 1
+    },
+    {
+        "prompt": "Person wears bench",
+        "label": 0
+    },
+    {
+        "prompt": "Everyone sees geek",
+        "label": 1
+    },
+    {
+        "prompt": "theatre involves cooking",
+        "label": 0
+    },
+    {
+        "prompt": "Hairdryers make calls",
+        "label": 0
+    },
+    {
+        "prompt": "People don't buy men",
+        "label": 0
+    },
+    {
+        "prompt": "cars use commas",
+        "label": 0
+    },
+    {
+        "prompt": "Education is required by talker",
+        "label": 0
+    },
+    {
+        "prompt": "people hold hazy",
+        "label": 0
+    },
+    {
+        "prompt": "women use jockstraps",
+        "label": 0
+    },
+    {
+        "prompt": "Brontosauruses have skin",
+        "label": 1
+    },
+    {
+        "prompt": "people eat clans",
+        "label": 0
+    },
+    {
+        "prompt": "Cats climb trees",
+        "label": 1
+    },
+    {
+        "prompt": "fences require labor",
+        "label": 1
+    },
+    {
+        "prompt": "Locomotives have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "people touch sleeplessness",
+        "label": 0
+    },
+    {
+        "prompt": "people see heaven",
+        "label": 0
+    },
+    {
+        "prompt": "a person wears villa",
+        "label": 0
+    },
+    {
+        "prompt": "Noblemen have eyes",
+        "label": 1
+    },
+    {
+        "prompt": "Trees need water",
+        "label": 1
+    },
+    {
+        "prompt": "needles need electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Kids use bikes",
+        "label": 1
+    },
+    {
+        "prompt": "people hold reward",
+        "label": 1
+    },
+    {
+        "prompt": "animals like shanks",
+        "label": 0
+    },
+    {
+        "prompt": "women use money",
+        "label": 1
+    },
+    {
+        "prompt": "Coins make noise",
+        "label": 1
+    },
+    {
+        "prompt": "Ringtails have fur",
+        "label": 1
+    },
+    {
+        "prompt": "beacons make noise",
+        "label": 1
+    },
+    {
+        "prompt": "people use volleyballs",
+        "label": 0
+    },
+    {
+        "prompt": "people don't wear drones",
+        "label": 0
+    },
+    {
+        "prompt": "Alligators provide food",
+        "label": 1
+    },
+    {
+        "prompt": "warthogs have feathers",
+        "label": 0
+    },
+    {
+        "prompt": "adhesions make sound",
+        "label": 0
+    },
+    {
+        "prompt": "people wear undergarments",
+        "label": 1
+    },
+    {
+        "prompt": "Apples cut stuff",
+        "label": 0
+    },
+    {
+        "prompt": "People touch courtrooms",
+        "label": 1
+    },
+    {
+        "prompt": "Dogs like birds",
+        "label": 1
+    },
+    {
+        "prompt": "vaults have functions",
+        "label": 1
+    },
+    {
+        "prompt": "Alternators make sound",
+        "label": 1
+    },
+    {
+        "prompt": "firs have sap",
+        "label": 1
+    },
+    {
+        "prompt": "rowboats use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "People don't wear atmospheres",
+        "label": 0
+    },
+    {
+        "prompt": "Burrows have buildings",
+        "label": 0
+    },
+    {
+        "prompt": "ostriches have feathers",
+        "label": 1
+    },
+    {
+        "prompt": "People eat riverbanks",
+        "label": 0
+    },
+    {
+        "prompt": "Handles have lids",
+        "label": 0
+    },
+    {
+        "prompt": "Children use saddles",
+        "label": 1
+    },
+    {
+        "prompt": "Computers have keyboards",
+        "label": 1
+    },
+    {
+        "prompt": "People plant aerialists",
+        "label": 0
+    },
+    {
+        "prompt": "Humans use plotters",
+        "label": 1
+    },
+    {
+        "prompt": "heroin doesn't make noise",
+        "label": 0
+    },
+    {
+        "prompt": "People wear bedrooms",
+        "label": 0
+    },
+    {
+        "prompt": "Hickeys don't contain words",
+        "label": 0
+    },
+    {
+        "prompt": "Salespeople help people",
+        "label": 1
+    },
+    {
+        "prompt": "animals use comets",
+        "label": 0
+    },
+    {
+        "prompt": "a buffet makes noise",
+        "label": 0
+    },
+    {
+        "prompt": "a person touches tribe",
+        "label": 1
+    },
+    {
+        "prompt": "stocks involve markets",
+        "label": 1
+    },
+    {
+        "prompt": "a roof blocks sun",
+        "label": 1
+    },
+    {
+        "prompt": "riggers involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "People hold archives",
+        "label": 1
+    },
+    {
+        "prompt": "clitorises make sounds",
+        "label": 0
+    },
+    {
+        "prompt": "flashlights need batteries",
+        "label": 1
+    },
+    {
+        "prompt": "brassieres have hoods",
+        "label": 0
+    },
+    {
+        "prompt": "One touches leg",
+        "label": 1
+    },
+    {
+        "prompt": "A cellphone is smelled by person",
+        "label": 0
+    },
+    {
+        "prompt": "people hold walls",
+        "label": 0
+    },
+    {
+        "prompt": "vans have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "burritos cost money",
+        "label": 1
+    },
+    {
+        "prompt": "biters involve pets",
+        "label": 1
+    },
+    {
+        "prompt": "people move honkers",
+        "label": 1
+    },
+    {
+        "prompt": "Litigators have children",
+        "label": 1
+    },
+    {
+        "prompt": "people see riverbanks",
+        "label": 1
+    },
+    {
+        "prompt": "Kids use canal",
+        "label": 1
+    },
+    {
+        "prompt": "a remote uses battery",
+        "label": 1
+    },
+    {
+        "prompt": "people drive uraniums",
+        "label": 0
+    },
+    {
+        "prompt": "People gaze",
+        "label": 0
+    },
+    {
+        "prompt": "evolution involves people",
+        "label": 1
+    },
+    {
+        "prompt": "buildings have walls",
+        "label": 1
+    },
+    {
+        "prompt": "the box has to leave",
+        "label": 0
+    },
+    {
+        "prompt": "People mail predators",
+        "label": 0
+    },
+    {
+        "prompt": "Foreigners involve cemeteries",
+        "label": 1
+    },
+    {
+        "prompt": "Clutch has window",
+        "label": 0
+    },
+    {
+        "prompt": "people wear abusers",
+        "label": 0
+    },
+    {
+        "prompt": "cars possess wheels",
+        "label": 1
+    },
+    {
+        "prompt": "People hold prairies",
+        "label": 0
+    },
+    {
+        "prompt": "lettering involves teacher",
+        "label": 1
+    },
+    {
+        "prompt": "hangars store bicycles",
+        "label": 1
+    },
+    {
+        "prompt": "humans eat cornfields",
+        "label": 0
+    },
+    {
+        "prompt": "A person rides groundsman",
+        "label": 1
+    },
+    {
+        "prompt": "sticks don't have batteries",
+        "label": 0
+    },
+    {
+        "prompt": "people hold tops",
+        "label": 1
+    },
+    {
+        "prompt": "Brontosaurus have mouths",
+        "label": 1
+    },
+    {
+        "prompt": "Someone borrows mainframe",
+        "label": 1
+    },
+    {
+        "prompt": "People find maidens",
+        "label": 0
+    },
+    {
+        "prompt": "housewives have feelings",
+        "label": 1
+    },
+    {
+        "prompt": "bears have hair",
+        "label": 1
+    },
+    {
+        "prompt": "microprocessors don't have screens",
+        "label": 0
+    },
+    {
+        "prompt": "Managed reunion",
+        "label": 0
+    },
+    {
+        "prompt": "food affects bodywork",
+        "label": 0
+    },
+    {
+        "prompt": "cats eat meat",
+        "label": 1
+    },
+    {
+        "prompt": "dogs wear shoes",
+        "label": 1
+    },
+    {
+        "prompt": "people hold closets",
+        "label": 0
+    },
+    {
+        "prompt": "People smell attire",
+        "label": 1
+    },
+    {
+        "prompt": "a tit plays instrument",
+        "label": 0
+    },
+    {
+        "prompt": "people touch tarps",
+        "label": 1
+    },
+    {
+        "prompt": "ballrooms don't have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Psychologists require degrees",
+        "label": 1
+    },
+    {
+        "prompt": "an airplane has motor",
+        "label": 1
+    },
+    {
+        "prompt": "Telephones take electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Partners take electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people find tables",
+        "label": 1
+    },
+    {
+        "prompt": "technicians involve technology",
+        "label": 1
+    },
+    {
+        "prompt": "people wear balls",
+        "label": 0
+    },
+    {
+        "prompt": "subcontractors wear shoes",
+        "label": 1
+    },
+    {
+        "prompt": "People eat mainsheets",
+        "label": 0
+    },
+    {
+        "prompt": "people smash water",
+        "label": 0
+    },
+    {
+        "prompt": "cinemas have theaters",
+        "label": 1
+    },
+    {
+        "prompt": "people use valve",
+        "label": 1
+    },
+    {
+        "prompt": "Hombres hurt people",
+        "label": 1
+    },
+    {
+        "prompt": "a person sees violence",
+        "label": 1
+    },
+    {
+        "prompt": "Transits involve banks",
+        "label": 0
+    },
+    {
+        "prompt": "swindlers involve drugs",
+        "label": 1
+    },
+    {
+        "prompt": "Storybooks have texture",
+        "label": 1
+    },
+    {
+        "prompt": "confidants like animals",
+        "label": 1
+    },
+    {
+        "prompt": "clutches use gas",
+        "label": 0
+    },
+    {
+        "prompt": "Entrees cost $",
+        "label": 1
+    },
+    {
+        "prompt": "people hunt cadavers",
+        "label": 0
+    },
+    {
+        "prompt": "Banks don't have eyes",
+        "label": 0
+    },
+    {
+        "prompt": "people trim tressers",
+        "label": 0
+    },
+    {
+        "prompt": "Foghorns hold something",
+        "label": 0
+    },
+    {
+        "prompt": "Venues cost lot",
+        "label": 1
+    },
+    {
+        "prompt": "illusionists require talent",
+        "label": 1
+    },
+    {
+        "prompt": "herdsmen have feelings",
+        "label": 1
+    },
+    {
+        "prompt": "turpentine doesn't use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people eat stepping stones",
+        "label": 0
+    },
+    {
+        "prompt": "People buy powder",
+        "label": 1
+    },
+    {
+        "prompt": "clocks tell time",
+        "label": 1
+    },
+    {
+        "prompt": "women wear mustaches",
+        "label": 1
+    },
+    {
+        "prompt": "octopuses have fins",
+        "label": 0
+    },
+    {
+        "prompt": "Buckshot uses electricity",
+        "label": 0
+    },
+    {
+        "prompt": "leatherworkers use harpoons",
+        "label": 0
+    },
+    {
+        "prompt": "jars can solve problems",
+        "label": 1
+    },
+    {
+        "prompt": "People hold ballads",
+        "label": 0
+    },
+    {
+        "prompt": "a person wears uniform",
+        "label": 1
+    },
+    {
+        "prompt": "gunmen involve speech",
+        "label": 0
+    },
+    {
+        "prompt": "plants serve purposes",
+        "label": 1
+    },
+    {
+        "prompt": "ammonia holds things",
+        "label": 0
+    },
+    {
+        "prompt": "casseroles contain pastas",
+        "label": 1
+    },
+    {
+        "prompt": "People frame choreographer",
+        "label": 0
+    },
+    {
+        "prompt": "people buy shelves",
+        "label": 1
+    },
+    {
+        "prompt": "Kids use frames",
+        "label": 1
+    },
+    {
+        "prompt": "Kids use pianos",
+        "label": 1
+    },
+    {
+        "prompt": "superconductors involve groups",
+        "label": 0
+    },
+    {
+        "prompt": "GPS tracks location",
+        "label": 0
+    },
+    {
+        "prompt": "a car uses oar",
+        "label": 0
+    },
+    {
+        "prompt": "smell has color",
+        "label": 0
+    },
+    {
+        "prompt": "Kids love Bobtails",
+        "label": 1
+    },
+    {
+        "prompt": "People sell caring",
+        "label": 0
+    },
+    {
+        "prompt": "people touch compactors",
+        "label": 1
+    },
+    {
+        "prompt": "busmen involve computers",
+        "label": 0
+    },
+    {
+        "prompt": "People see resuscitators",
+        "label": 1
+    },
+    {
+        "prompt": "Methanol ruins water",
+        "label": 1
+    },
+    {
+        "prompt": "peers have colors",
+        "label": 1
+    },
+    {
+        "prompt": "People buy poison",
+        "label": 1
+    },
+    {
+        "prompt": "gondolas have engines",
+        "label": 1
+    },
+    {
+        "prompt": "carnivores eat plants",
+        "label": 0
+    },
+    {
+        "prompt": "Turpentines make music",
+        "label": 0
+    },
+    {
+        "prompt": "beef have legs",
+        "label": 0
+    },
+    {
+        "prompt": "trees have fur",
+        "label": 0
+    },
+    {
+        "prompt": "a honeybee collects nectar",
+        "label": 1
+    },
+    {
+        "prompt": "seaboards say something",
+        "label": 0
+    },
+    {
+        "prompt": "a panther has spots",
+        "label": 0
+    },
+    {
+        "prompt": "Dopes breathe oxygen",
+        "label": 0
+    },
+    {
+        "prompt": "People taste hoards",
+        "label": 0
+    },
+    {
+        "prompt": "coats have buttons",
+        "label": 1
+    },
+    {
+        "prompt": "clockmakers involve medicine",
+        "label": 0
+    },
+    {
+        "prompt": "Poisons make noise",
+        "label": 0
+    },
+    {
+        "prompt": "People buy shampoo",
+        "label": 1
+    },
+    {
+        "prompt": "nets weigh lot",
+        "label": 1
+    },
+    {
+        "prompt": "People touch mills",
+        "label": 1
+    },
+    {
+        "prompt": "cuttlefish have brains",
+        "label": 1
+    },
+    {
+        "prompt": "grams affect people",
+        "label": 1
+    },
+    {
+        "prompt": "candy has wheels",
+        "label": 0
+    },
+    {
+        "prompt": "people wear bookcases",
+        "label": 0
+    },
+    {
+        "prompt": "Motorcycles have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "motors generate power",
+        "label": 1
+    },
+    {
+        "prompt": "people move appointees",
+        "label": 1
+    },
+    {
+        "prompt": "kids use dice",
+        "label": 1
+    },
+    {
+        "prompt": "mimes involve titles",
+        "label": 1
+    },
+    {
+        "prompt": "scissors have actions",
+        "label": 1
+    },
+    {
+        "prompt": "Bobble has tab",
+        "label": 0
+    },
+    {
+        "prompt": "people wear chairs",
+        "label": 0
+    },
+    {
+        "prompt": "Voicings have horns",
+        "label": 0
+    },
+    {
+        "prompt": "squirrels have teeth",
+        "label": 1
+    },
+    {
+        "prompt": "plants have scents",
+        "label": 1
+    },
+    {
+        "prompt": "Electricity is used by wiz",
+        "label": 0
+    },
+    {
+        "prompt": "people use plastics",
+        "label": 0
+    },
+    {
+        "prompt": "people drink gin",
+        "label": 1
+    },
+    {
+        "prompt": "people grow corn",
+        "label": 1
+    },
+    {
+        "prompt": "the sky changes color",
+        "label": 1
+    },
+    {
+        "prompt": "people see consideration",
+        "label": 0
+    },
+    {
+        "prompt": "Goods cost money",
+        "label": 1
+    },
+    {
+        "prompt": "Councilmen make noise",
+        "label": 1
+    },
+    {
+        "prompt": "Goddaughters have legs",
+        "label": 1
+    },
+    {
+        "prompt": "addresses involve economics",
+        "label": 0
+    },
+    {
+        "prompt": "an obstruction has restroom",
+        "label": 0
+    },
+    {
+        "prompt": "Adults use origami",
+        "label": 1
+    },
+    {
+        "prompt": "Monograms use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "lynxes have fur",
+        "label": 1
+    },
+    {
+        "prompt": "people touch housemasters",
+        "label": 1
+    },
+    {
+        "prompt": "People use clouds",
+        "label": 0
+    },
+    {
+        "prompt": "People own mountaintops",
+        "label": 0
+    },
+    {
+        "prompt": "Garment is consumed by person",
+        "label": 0
+    },
+    {
+        "prompt": "Animals use docks",
+        "label": 1
+    },
+    {
+        "prompt": "humans use bass",
+        "label": 0
+    },
+    {
+        "prompt": "People eat rocks",
+        "label": 0
+    },
+    {
+        "prompt": "Jackasses have armor",
+        "label": 0
+    },
+    {
+        "prompt": "People crank pulleys",
+        "label": 1
+    },
+    {
+        "prompt": "Acorns use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "People use water",
+        "label": 1
+    },
+    {
+        "prompt": "Tuxedos play music",
+        "label": 0
+    },
+    {
+        "prompt": "toasters require power",
+        "label": 1
+    },
+    {
+        "prompt": "People throw prizes",
+        "label": 1
+    },
+    {
+        "prompt": "Hardcopies use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "grandstands involve music",
+        "label": 1
+    },
+    {
+        "prompt": "grandmothers have functionalities",
+        "label": 1
+    },
+    {
+        "prompt": "Boiler has color",
+        "label": 1
+    },
+    {
+        "prompt": "fountains have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "People use launchers",
+        "label": 1
+    },
+    {
+        "prompt": "mannequins don't have emotions",
+        "label": 0
+    },
+    {
+        "prompt": "People climb satins",
+        "label": 0
+    },
+    {
+        "prompt": "a psychologist involves water",
+        "label": 0
+    },
+    {
+        "prompt": "a snuffbox holds anything",
+        "label": 1
+    },
+    {
+        "prompt": "people play manuals",
+        "label": 0
+    },
+    {
+        "prompt": "people touch arithmetic",
+        "label": 0
+    },
+    {
+        "prompt": "People touch wingtips",
+        "label": 1
+    },
+    {
+        "prompt": "people hold stars",
+        "label": 0
+    },
+    {
+        "prompt": "people wear portholes",
+        "label": 0
+    },
+    {
+        "prompt": "Fingernails tell time",
+        "label": 0
+    },
+    {
+        "prompt": "blood contains liquid",
+        "label": 1
+    },
+    {
+        "prompt": "people wear breeders",
+        "label": 0
+    },
+    {
+        "prompt": "People wear campfires",
+        "label": 0
+    },
+    {
+        "prompt": "violinists require training",
+        "label": 1
+    },
+    {
+        "prompt": "a home has roof",
+        "label": 1
+    },
+    {
+        "prompt": "water has skin",
+        "label": 0
+    },
+    {
+        "prompt": "Lanes have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "ensembles have screens",
+        "label": 0
+    },
+    {
+        "prompt": "people sell voltage",
+        "label": 0
+    },
+    {
+        "prompt": "lamps use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "people use push buttons",
+        "label": 0
+    },
+    {
+        "prompt": "people eat conduct",
+        "label": 0
+    },
+    {
+        "prompt": "a child uses stationery",
+        "label": 1
+    },
+    {
+        "prompt": "Person eats borough",
+        "label": 0
+    },
+    {
+        "prompt": "people hold hips",
+        "label": 0
+    },
+    {
+        "prompt": "Uranium makes sound",
+        "label": 0
+    },
+    {
+        "prompt": "training involves education",
+        "label": 1
+    },
+    {
+        "prompt": "People touch hydrogen",
+        "label": 0
+    },
+    {
+        "prompt": "Retailers involve nature",
+        "label": 0
+    },
+    {
+        "prompt": "People hold sweeteners",
+        "label": 1
+    },
+    {
+        "prompt": "Hammer has head",
+        "label": 1
+    },
+    {
+        "prompt": "horses have tails",
+        "label": 1
+    },
+    {
+        "prompt": "Jackpots make noise",
+        "label": 1
+    },
+    {
+        "prompt": "cornflakes don't have liquids",
+        "label": 0
+    },
+    {
+        "prompt": "Children use condoms",
+        "label": 0
+    },
+    {
+        "prompt": "A virus has wheel",
+        "label": 0
+    },
+    {
+        "prompt": "everyone wants turnstile",
+        "label": 0
+    },
+    {
+        "prompt": "people use cars",
+        "label": 1
+    },
+    {
+        "prompt": "People hold rivers",
+        "label": 0
+    },
+    {
+        "prompt": "Steam costs $",
+        "label": 0
+    },
+    {
+        "prompt": "people hold voicing",
+        "label": 0
+    },
+    {
+        "prompt": "conchs wear dresses",
+        "label": 0
+    },
+    {
+        "prompt": "ate diva",
+        "label": 0
+    },
+    {
+        "prompt": "People carry cars",
+        "label": 0
+    },
+    {
+        "prompt": "a person kills blister",
+        "label": 0
+    },
+    {
+        "prompt": "An ashtray is worn by person",
+        "label": 0
+    },
+    {
+        "prompt": "a cubby uses water",
+        "label": 0
+    },
+    {
+        "prompt": "squads cost money",
+        "label": 1
+    },
+    {
+        "prompt": "prizefighters kill people",
+        "label": 1
+    },
+    {
+        "prompt": "people own feeder",
+        "label": 1
+    },
+    {
+        "prompt": "People touch low",
+        "label": 0
+    },
+    {
+        "prompt": "people take school",
+        "label": 0
+    },
+    {
+        "prompt": "A windowsill is eaten by person",
+        "label": 0
+    },
+    {
+        "prompt": "an alarm makes noise",
+        "label": 1
+    },
+    {
+        "prompt": "people have non-humans",
+        "label": 1
+    },
+    {
+        "prompt": "A bird has hair",
+        "label": 0
+    },
+    {
+        "prompt": "stillness doesn't make noise",
+        "label": 0
+    },
+    {
+        "prompt": "Warplanes have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "People drink horse's milk",
+        "label": 0
+    },
+    {
+        "prompt": "plastics don't burn people",
+        "label": 0
+    },
+    {
+        "prompt": "lawnmowers need gas",
+        "label": 1
+    },
+    {
+        "prompt": "Typewriters use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Brontosaurus have feathers",
+        "label": 0
+    },
+    {
+        "prompt": "Manifestos make noise",
+        "label": 0
+    },
+    {
+        "prompt": "wingtips change properties",
+        "label": 0
+    },
+    {
+        "prompt": "People hold peepshows",
+        "label": 0
+    },
+    {
+        "prompt": "Aircraft have insides",
+        "label": 1
+    },
+    {
+        "prompt": "a stamp serves purpose",
+        "label": 1
+    },
+    {
+        "prompt": "humans use cobalt",
+        "label": 1
+    },
+    {
+        "prompt": "People eat broaches",
+        "label": 0
+    },
+    {
+        "prompt": "people drive photojournalists",
+        "label": 0
+    },
+    {
+        "prompt": "Sunlight is used to steam",
+        "label": 0
+    },
+    {
+        "prompt": "glycerol takes temperature",
+        "label": 0
+    },
+    {
+        "prompt": "people eat punctures",
+        "label": 0
+    },
+    {
+        "prompt": "Otters use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Children use paraphernalia",
+        "label": 1
+    },
+    {
+        "prompt": "clams have shells",
+        "label": 1
+    },
+    {
+        "prompt": "people eat cucumbers",
+        "label": 1
+    },
+    {
+        "prompt": "poses have taste",
+        "label": 0
+    },
+    {
+        "prompt": "a pulpit helps people",
+        "label": 1
+    },
+    {
+        "prompt": "humans have leaves",
+        "label": 0
+    },
+    {
+        "prompt": "snowstorms have wires",
+        "label": 0
+    },
+    {
+        "prompt": "a cattleman involves training",
+        "label": 1
+    },
+    {
+        "prompt": "Swords have hands",
+        "label": 0
+    },
+    {
+        "prompt": "research involves keyboards",
+        "label": 1
+    },
+    {
+        "prompt": "sonar pulls something",
+        "label": 0
+    },
+    {
+        "prompt": "hairdryers don't tell time",
+        "label": 0
+    },
+    {
+        "prompt": "opponents have emotions",
+        "label": 1
+    },
+    {
+        "prompt": "people buy sky",
+        "label": 0
+    },
+    {
+        "prompt": "Frogs make sounds",
+        "label": 1
+    },
+    {
+        "prompt": "people touch jailers",
+        "label": 1
+    },
+    {
+        "prompt": "police require uniforms",
+        "label": 1
+    },
+    {
+        "prompt": "a person drives decor",
+        "label": 0
+    },
+    {
+        "prompt": "people smell sky",
+        "label": 0
+    },
+    {
+        "prompt": "giraffes eat meat",
+        "label": 0
+    },
+    {
+        "prompt": "a calculator has hair",
+        "label": 0
+    },
+    {
+        "prompt": "Jurors have sense",
+        "label": 1
+    },
+    {
+        "prompt": "cones cost $s",
+        "label": 1
+    },
+    {
+        "prompt": "Animals use sliver",
+        "label": 0
+    },
+    {
+        "prompt": "darts have hair",
+        "label": 0
+    },
+    {
+        "prompt": "gauntlets cover feet",
+        "label": 0
+    },
+    {
+        "prompt": "men use spades",
+        "label": 1
+    },
+    {
+        "prompt": "Morphine doesn't have bulb",
+        "label": 0
+    },
+    {
+        "prompt": "people buy breaths",
+        "label": 0
+    },
+    {
+        "prompt": "people wear splicers",
+        "label": 0
+    },
+    {
+        "prompt": "People carry insulators",
+        "label": 1
+    },
+    {
+        "prompt": "Curlers involve mouths",
+        "label": 0
+    },
+    {
+        "prompt": "People see enemas",
+        "label": 1
+    },
+    {
+        "prompt": "people consume flushers",
+        "label": 0
+    },
+    {
+        "prompt": "shovels feel pain",
+        "label": 0
+    },
+    {
+        "prompt": "Fans make sound",
+        "label": 1
+    },
+    {
+        "prompt": "Person uses splint",
+        "label": 0
+    },
+    {
+        "prompt": "paperboys involve water",
+        "label": 0
+    },
+    {
+        "prompt": "people see schools",
+        "label": 1
+    },
+    {
+        "prompt": "bees use azaleas",
+        "label": 1
+    },
+    {
+        "prompt": "Person eats steeple",
+        "label": 0
+    },
+    {
+        "prompt": "people hold plating",
+        "label": 1
+    },
+    {
+        "prompt": "children use banner",
+        "label": 1
+    },
+    {
+        "prompt": "Backstabbers drink water",
+        "label": 1
+    },
+    {
+        "prompt": "icecaps have legs",
+        "label": 0
+    },
+    {
+        "prompt": "Apes eat meat",
+        "label": 1
+    },
+    {
+        "prompt": "people covet fizziness",
+        "label": 0
+    },
+    {
+        "prompt": "blacktop costs money",
+        "label": 1
+    },
+    {
+        "prompt": "Tracks make noise",
+        "label": 0
+    },
+    {
+        "prompt": "people buy bullies",
+        "label": 0
+    },
+    {
+        "prompt": "People wear spoons",
+        "label": 0
+    },
+    {
+        "prompt": "wings have legs",
+        "label": 0
+    },
+    {
+        "prompt": "people wear lockers",
+        "label": 0
+    },
+    {
+        "prompt": "Sunflowers need water",
+        "label": 1
+    },
+    {
+        "prompt": "vibrators play videos",
+        "label": 0
+    },
+    {
+        "prompt": "hammers involve imagination",
+        "label": 0
+    },
+    {
+        "prompt": "a hyena has spots",
+        "label": 1
+    },
+    {
+        "prompt": "People see dorm",
+        "label": 1
+    },
+    {
+        "prompt": "stamps blow air",
+        "label": 0
+    },
+    {
+        "prompt": "people buy insulin",
+        "label": 1
+    },
+    {
+        "prompt": "people eat golfballs",
+        "label": 0
+    },
+    {
+        "prompt": "breakfast has color",
+        "label": 1
+    },
+    {
+        "prompt": "Acupuncture involves people",
+        "label": 1
+    },
+    {
+        "prompt": "People find kitchens",
+        "label": 1
+    },
+    {
+        "prompt": "people use slicers",
+        "label": 1
+    },
+    {
+        "prompt": "Phones make calls",
+        "label": 1
+    },
+    {
+        "prompt": "goops have switches",
+        "label": 0
+    },
+    {
+        "prompt": "assistants involve computers",
+        "label": 1
+    },
+    {
+        "prompt": "people dive mannequins",
+        "label": 0
+    },
+    {
+        "prompt": "people buy doctors",
+        "label": 0
+    },
+    {
+        "prompt": "Reindeer have legs",
+        "label": 1
+    },
+    {
+        "prompt": "Scopes cost more",
+        "label": 1
+    },
+    {
+        "prompt": "People touch appointees",
+        "label": 1
+    },
+    {
+        "prompt": "people drink routers",
+        "label": 0
+    },
+    {
+        "prompt": "Person eats thumbtack",
+        "label": 0
+    },
+    {
+        "prompt": "oats involve groups",
+        "label": 0
+    },
+    {
+        "prompt": "a burrito has handle",
+        "label": 0
+    },
+    {
+        "prompt": "Obstetricians involve vehicles",
+        "label": 0
+    },
+    {
+        "prompt": "People eat blankets",
+        "label": 0
+    },
+    {
+        "prompt": "fans create wind",
+        "label": 1
+    },
+    {
+        "prompt": "windows let light",
+        "label": 1
+    },
+    {
+        "prompt": "children use docks",
+        "label": 1
+    },
+    {
+        "prompt": "a rigger involves government",
+        "label": 0
+    },
+    {
+        "prompt": "a person touches trough",
+        "label": 1
+    },
+    {
+        "prompt": "yellows have colors",
+        "label": 1
+    },
+    {
+        "prompt": "people don't read undergarments",
+        "label": 0
+    },
+    {
+        "prompt": "crackers have switches",
+        "label": 0
+    },
+    {
+        "prompt": "wrenches have toes",
+        "label": 0
+    },
+    {
+        "prompt": "bushes have legs",
+        "label": 0
+    },
+    {
+        "prompt": "air has smell",
+        "label": 1
+    },
+    {
+        "prompt": "moths have wings",
+        "label": 1
+    },
+    {
+        "prompt": "an electromagnet holds water",
+        "label": 0
+    },
+    {
+        "prompt": "Tea sells food",
+        "label": 0
+    },
+    {
+        "prompt": "Children use straws",
+        "label": 1
+    },
+    {
+        "prompt": "people wear dartboards",
+        "label": 0
+    },
+    {
+        "prompt": "glimpses contain water",
+        "label": 0
+    },
+    {
+        "prompt": "drivers make money",
+        "label": 1
+    },
+    {
+        "prompt": "Wolves have fur",
+        "label": 1
+    },
+    {
+        "prompt": "Elevators use gas",
+        "label": 0
+    },
+    {
+        "prompt": "people hear webcasts",
+        "label": 1
+    },
+    {
+        "prompt": "Ranches have value",
+        "label": 1
+    },
+    {
+        "prompt": "lots have treasuries",
+        "label": 1
+    },
+    {
+        "prompt": "signalmen cost money",
+        "label": 0
+    },
+    {
+        "prompt": "gulls make noise",
+        "label": 1
+    },
+    {
+        "prompt": "Isles have one",
+        "label": 1
+    },
+    {
+        "prompt": "a person eats screamer",
+        "label": 0
+    },
+    {
+        "prompt": "children enjoy playing",
+        "label": 1
+    },
+    {
+        "prompt": "People hold aisle",
+        "label": 0
+    },
+    {
+        "prompt": "Landscapes change form",
+        "label": 1
+    },
+    {
+        "prompt": "people climb ridge",
+        "label": 1
+    },
+    {
+        "prompt": "people eat at school",
+        "label": 0
+    },
+    {
+        "prompt": "firemen involve water",
+        "label": 1
+    },
+    {
+        "prompt": "tables have legs",
+        "label": 1
+    },
+    {
+        "prompt": "phosphates use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "humans use magic",
+        "label": 1
+    },
+    {
+        "prompt": "gods involve circuses",
+        "label": 0
+    },
+    {
+        "prompt": "Orchestras have colors",
+        "label": 0
+    },
+    {
+        "prompt": "intercoms make noise",
+        "label": 1
+    },
+    {
+        "prompt": "biceps take battery",
+        "label": 0
+    },
+    {
+        "prompt": "dogs make sound",
+        "label": 1
+    },
+    {
+        "prompt": "a jaguar makes sound",
+        "label": 1
+    },
+    {
+        "prompt": "Wheelchairs have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "soils decompose things",
+        "label": 1
+    },
+    {
+        "prompt": "People see gravity",
+        "label": 0
+    },
+    {
+        "prompt": "canals pay higher",
+        "label": 0
+    },
+    {
+        "prompt": "Garbage emits odor",
+        "label": 1
+    },
+    {
+        "prompt": "turbochargers have batteries",
+        "label": 0
+    },
+    {
+        "prompt": "Crocodiles have hooves",
+        "label": 0
+    },
+    {
+        "prompt": "schooners use power",
+        "label": 1
+    },
+    {
+        "prompt": "people buy Earth",
+        "label": 0
+    },
+    {
+        "prompt": "People eat canals",
+        "label": 0
+    },
+    {
+        "prompt": "alehouses make lot",
+        "label": 1
+    },
+    {
+        "prompt": "Animals like wan",
+        "label": 0
+    },
+    {
+        "prompt": "people eat ensembles",
+        "label": 0
+    },
+    {
+        "prompt": "humans need arms",
+        "label": 1
+    },
+    {
+        "prompt": "Houseboats contain things",
+        "label": 1
+    },
+    {
+        "prompt": "people touch schools",
+        "label": 1
+    },
+    {
+        "prompt": "Mantises cost $",
+        "label": 0
+    },
+    {
+        "prompt": "barbed wire costs money",
+        "label": 1
+    },
+    {
+        "prompt": "Monkeys have tails",
+        "label": 1
+    },
+    {
+        "prompt": "blisters have vaccines",
+        "label": 0
+    },
+    {
+        "prompt": "possums eat meat",
+        "label": 1
+    },
+    {
+        "prompt": "people don't drive vertebrae",
+        "label": 0
+    },
+    {
+        "prompt": "People buy tubas",
+        "label": 1
+    },
+    {
+        "prompt": "Dachshunds eat cheeseburgers",
+        "label": 1
+    },
+    {
+        "prompt": "a person eats filer",
+        "label": 0
+    },
+    {
+        "prompt": "spitballs use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "a lamp produces light",
+        "label": 1
+    },
+    {
+        "prompt": "Subcontractors have hair",
+        "label": 1
+    },
+    {
+        "prompt": "People wear documentation",
+        "label": 0
+    },
+    {
+        "prompt": "shampoos have openings",
+        "label": 1
+    },
+    {
+        "prompt": "warhorses have humps",
+        "label": 0
+    },
+    {
+        "prompt": "wore runway",
+        "label": 0
+    },
+    {
+        "prompt": "shampoos involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "a toaster requires battery",
+        "label": 0
+    },
+    {
+        "prompt": "people touch planes",
+        "label": 1
+    },
+    {
+        "prompt": "dragons have tails",
+        "label": 1
+    },
+    {
+        "prompt": "stocks involve NASDAQ",
+        "label": 1
+    },
+    {
+        "prompt": "Tortoises have shells",
+        "label": 1
+    },
+    {
+        "prompt": "prisons give birth",
+        "label": 0
+    },
+    {
+        "prompt": "students wear uniforms",
+        "label": 1
+    },
+    {
+        "prompt": "audiologists cost money",
+        "label": 1
+    },
+    {
+        "prompt": "Gaze has hair",
+        "label": 0
+    },
+    {
+        "prompt": "people hug strings",
+        "label": 0
+    },
+    {
+        "prompt": "people use ketchup",
+        "label": 1
+    },
+    {
+        "prompt": "sunglasses block sun",
+        "label": 1
+    },
+    {
+        "prompt": "people wear longnecks",
+        "label": 0
+    },
+    {
+        "prompt": "pens use ink",
+        "label": 1
+    },
+    {
+        "prompt": "a highlighter uses electricity",
+        "label": 0
+    },
+    {
+        "prompt": "assumptions have price",
+        "label": 0
+    },
+    {
+        "prompt": "People use cranes",
+        "label": 1
+    },
+    {
+        "prompt": "Mannequins need gas",
+        "label": 0
+    },
+    {
+        "prompt": "lessons involve solving",
+        "label": 1
+    },
+    {
+        "prompt": "Clickers make noise",
+        "label": 1
+    },
+    {
+        "prompt": "sights involve liquids",
+        "label": 0
+    },
+    {
+        "prompt": "a person breaks headphone",
+        "label": 1
+    },
+    {
+        "prompt": "a bookshop has food",
+        "label": 1
+    },
+    {
+        "prompt": "Fans need something",
+        "label": 1
+    },
+    {
+        "prompt": "ate calipers",
+        "label": 0
+    },
+    {
+        "prompt": "Constitutions speak languages",
+        "label": 0
+    },
+    {
+        "prompt": "a person sees flavor",
+        "label": 0
+    },
+    {
+        "prompt": "slammers need electricity",
+        "label": 1
+    },
+    {
+        "prompt": "people see wildcards",
+        "label": 1
+    },
+    {
+        "prompt": "everyone has job",
+        "label": 1
+    },
+    {
+        "prompt": "a person buys blemish",
+        "label": 0
+    },
+    {
+        "prompt": "Spiders eat insects",
+        "label": 1
+    },
+    {
+        "prompt": "Ballplayers have heads",
+        "label": 1
+    },
+    {
+        "prompt": "People do not eat reefer",
+        "label": 1
+    },
+    {
+        "prompt": "concubines have jobs",
+        "label": 1
+    },
+    {
+        "prompt": "people buy health insurance",
+        "label": 0
+    },
+    {
+        "prompt": "Toys have engines",
+        "label": 1
+    },
+    {
+        "prompt": "marathons require effort",
+        "label": 1
+    },
+    {
+        "prompt": "Advil involves medicine",
+        "label": 1
+    },
+    {
+        "prompt": "a person wears racetrack",
+        "label": 0
+    },
+    {
+        "prompt": "girls wear dresses",
+        "label": 1
+    },
+    {
+        "prompt": "humans use dogs",
+        "label": 0
+    },
+    {
+        "prompt": "involved screen with curler",
+        "label": 0
+    },
+    {
+        "prompt": "racers involve machinery",
+        "label": 1
+    },
+    {
+        "prompt": "Yardman has tail",
+        "label": 0
+    },
+    {
+        "prompt": "people own gazers",
+        "label": 0
+    },
+    {
+        "prompt": "People eat bait",
+        "label": 1
+    },
+    {
+        "prompt": "Prisoners make noise",
+        "label": 1
+    },
+    {
+        "prompt": "gondolas use fuel",
+        "label": 0
+    },
+    {
+        "prompt": "had towel",
+        "label": 0
+    },
+    {
+        "prompt": "Lizards have scales",
+        "label": 1
+    },
+    {
+        "prompt": "People eat thimble",
+        "label": 0
+    },
+    {
+        "prompt": "People drive metronomes",
+        "label": 0
+    },
+    {
+        "prompt": "precipitation has fangs",
+        "label": 0
+    },
+    {
+        "prompt": "bakeries help people",
+        "label": 1
+    },
+    {
+        "prompt": "concoctions contain flavor",
+        "label": 1
+    },
+    {
+        "prompt": "horns have teeth",
+        "label": 0
+    },
+    {
+        "prompt": "whales eat plankton",
+        "label": 1
+    },
+    {
+        "prompt": "People use dentures",
+        "label": 1
+    },
+    {
+        "prompt": "people touch tubas",
+        "label": 1
+    },
+    {
+        "prompt": "People touch President",
+        "label": 1
+    },
+    {
+        "prompt": "work costs money",
+        "label": 1
+    },
+    {
+        "prompt": "treetops make noise",
+        "label": 1
+    },
+    {
+        "prompt": "a person buys tendonitis",
+        "label": 0
+    },
+    {
+        "prompt": "Complete is used by kid",
+        "label": 0
+    },
+    {
+        "prompt": "Clay has shape",
+        "label": 1
+    },
+    {
+        "prompt": "a sitter involves cleaning",
+        "label": 1
+    },
+    {
+        "prompt": "tigers make sounds",
+        "label": 1
+    },
+    {
+        "prompt": "ringtails have spikes",
+        "label": 0
+    },
+    {
+        "prompt": "people use bombs",
+        "label": 0
+    },
+    {
+        "prompt": "people enjoy darts",
+        "label": 1
+    },
+    {
+        "prompt": "rakes have fabrics",
+        "label": 0
+    },
+    {
+        "prompt": "people drive teepees",
+        "label": 0
+    },
+    {
+        "prompt": "people eat flamethrowers",
+        "label": 0
+    },
+    {
+        "prompt": "Doorposts hold something",
+        "label": 1
+    },
+    {
+        "prompt": "Subcontractors have skin",
+        "label": 1
+    },
+    {
+        "prompt": "Mechanics use gauges",
+        "label": 1
+    },
+    {
+        "prompt": "cows lay eggs",
+        "label": 0
+    },
+    {
+        "prompt": "a teacher requires skill",
+        "label": 1
+    },
+    {
+        "prompt": "Caricaturists involve sports",
+        "label": 0
+    },
+    {
+        "prompt": "People consume altarpieces",
+        "label": 0
+    },
+    {
+        "prompt": "toasters require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "people don't eat prairies",
+        "label": 0
+    },
+    {
+        "prompt": "appointees make noise",
+        "label": 1
+    },
+    {
+        "prompt": "Buttonholes have lungs",
+        "label": 0
+    },
+    {
+        "prompt": "organizers store things",
+        "label": 1
+    },
+    {
+        "prompt": "a fan involves ladder",
+        "label": 0
+    },
+    {
+        "prompt": "people touch ideas",
+        "label": 0
+    },
+    {
+        "prompt": "obstetricians involve entertainment",
+        "label": 0
+    },
+    {
+        "prompt": "tapeworms have antennae",
+        "label": 0
+    },
+    {
+        "prompt": "Person kills fencer",
+        "label": 0
+    },
+    {
+        "prompt": "People use confetti",
+        "label": 1
+    },
+    {
+        "prompt": "people burn records",
+        "label": 1
+    },
+    {
+        "prompt": "gyms cost money",
+        "label": 1
+    },
+    {
+        "prompt": "Bread has smell",
+        "label": 1
+    },
+    {
+        "prompt": "a mouse eats cheese",
+        "label": 1
+    },
+    {
+        "prompt": "people touch law",
+        "label": 0
+    },
+    {
+        "prompt": "People touch wind",
+        "label": 0
+    },
+    {
+        "prompt": "fountains use microphones",
+        "label": 0
+    },
+    {
+        "prompt": "Lettuce grows fruit",
+        "label": 0
+    },
+    {
+        "prompt": "a person wears undershorts",
+        "label": 1
+    },
+    {
+        "prompt": "People eat temperatures",
+        "label": 0
+    },
+    {
+        "prompt": "a person uses barn",
+        "label": 1
+    },
+    {
+        "prompt": "everyone has heart",
+        "label": 1
+    },
+    {
+        "prompt": "people don't burn trials",
+        "label": 0
+    },
+    {
+        "prompt": "People wear vinaigrettes",
+        "label": 0
+    },
+    {
+        "prompt": "Animals produce oregano",
+        "label": 0
+    },
+    {
+        "prompt": "an ambulance has engine",
+        "label": 1
+    },
+    {
+        "prompt": "flicks require equipment",
+        "label": 0
+    },
+    {
+        "prompt": "Walmart sells epidurals",
+        "label": 0
+    },
+    {
+        "prompt": "lamps require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Mobiles have screens",
+        "label": 1
+    },
+    {
+        "prompt": "a person eats violin",
+        "label": 0
+    },
+    {
+        "prompt": "Voyeur involves music",
+        "label": 0
+    },
+    {
+        "prompt": "chests use fuel",
+        "label": 0
+    },
+    {
+        "prompt": "Bison scare people",
+        "label": 1
+    },
+    {
+        "prompt": "Collards involve water",
+        "label": 1
+    },
+    {
+        "prompt": "envelopes need power",
+        "label": 0
+    },
+    {
+        "prompt": "people eat canisters",
+        "label": 0
+    },
+    {
+        "prompt": "a person touches crypt",
+        "label": 1
+    },
+    {
+        "prompt": "people buy stimulants",
+        "label": 1
+    },
+    {
+        "prompt": "Arches have colors",
+        "label": 1
+    },
+    {
+        "prompt": "People eat roaches",
+        "label": 1
+    },
+    {
+        "prompt": "People use moon",
+        "label": 0
+    },
+    {
+        "prompt": "Diamondbacks slither all",
+        "label": 1
+    },
+    {
+        "prompt": "bottles contain liquids",
+        "label": 1
+    },
+    {
+        "prompt": "locksmiths involve HVAC",
+        "label": 0
+    },
+    {
+        "prompt": "gourmet involves music",
+        "label": 0
+    },
+    {
+        "prompt": "containers use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people use Kwanza",
+        "label": 1
+    },
+    {
+        "prompt": "People hold chickens",
+        "label": 1
+    },
+    {
+        "prompt": "People visit garden",
+        "label": 1
+    },
+    {
+        "prompt": "warhorses have horns",
+        "label": 0
+    },
+    {
+        "prompt": "Cattlemen involve stores",
+        "label": 0
+    },
+    {
+        "prompt": "microprocessors print documents",
+        "label": 0
+    },
+    {
+        "prompt": "helpdesks involve service",
+        "label": 1
+    },
+    {
+        "prompt": "People ride tanks",
+        "label": 1
+    },
+    {
+        "prompt": "doves eat fish",
+        "label": 1
+    },
+    {
+        "prompt": "Rabbits eat meat",
+        "label": 0
+    },
+    {
+        "prompt": "syllabi involve people",
+        "label": 1
+    },
+    {
+        "prompt": "Cleaners require schooling",
+        "label": 1
+    },
+    {
+        "prompt": "Kids use toothpaste",
+        "label": 1
+    },
+    {
+        "prompt": "gazes feel love",
+        "label": 0
+    },
+    {
+        "prompt": "People eat newsprint",
+        "label": 0
+    },
+    {
+        "prompt": "Taffy has no wheels",
+        "label": 0
+    },
+    {
+        "prompt": "people click on tearooms",
+        "label": 0
+    },
+    {
+        "prompt": "a person buys seltzer",
+        "label": 1
+    },
+    {
+        "prompt": "Lambs weigh lot",
+        "label": 1
+    },
+    {
+        "prompt": "squash stores something",
+        "label": 0
+    },
+    {
+        "prompt": "tortoises eat insects",
+        "label": 1
+    },
+    {
+        "prompt": "people eat wheatgrass",
+        "label": 1
+    },
+    {
+        "prompt": "People worship at crossroads",
+        "label": 0
+    },
+    {
+        "prompt": "undertakers involve cemeteries",
+        "label": 1
+    },
+    {
+        "prompt": "Nerds eat meat",
+        "label": 1
+    },
+    {
+        "prompt": "Herbivores have feathers",
+        "label": 1
+    },
+    {
+        "prompt": "told time",
+        "label": 0
+    },
+    {
+        "prompt": "sleepwalkers have arms",
+        "label": 1
+    },
+    {
+        "prompt": "Cans have no wheels",
+        "label": 0
+    },
+    {
+        "prompt": "People eat spades",
+        "label": 0
+    },
+    {
+        "prompt": "a hunter has heartbeat",
+        "label": 1
+    },
+    {
+        "prompt": "Reconstruction requires power",
+        "label": 0
+    },
+    {
+        "prompt": "Drums are eaten by person",
+        "label": 0
+    },
+    {
+        "prompt": "tinplates have parts",
+        "label": 1
+    },
+    {
+        "prompt": "people wear hydroponics",
+        "label": 0
+    },
+    {
+        "prompt": "Terminals use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Love involves feelings",
+        "label": 1
+    },
+    {
+        "prompt": "trousers provide warmth",
+        "label": 1
+    },
+    {
+        "prompt": "People wear enemas",
+        "label": 0
+    },
+    {
+        "prompt": "People touch orchard",
+        "label": 1
+    },
+    {
+        "prompt": "people buy midlines",
+        "label": 0
+    },
+    {
+        "prompt": "Princesses make sounds",
+        "label": 1
+    },
+    {
+        "prompt": "people see entranceways",
+        "label": 1
+    },
+    {
+        "prompt": "a heater uses electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Kids are imitated",
+        "label": 0
+    },
+    {
+        "prompt": "Coves have sand",
+        "label": 1
+    },
+    {
+        "prompt": "Impostors have fingers",
+        "label": 1
+    },
+    {
+        "prompt": "a person holds flathead screwdriver",
+        "label": 1
+    },
+    {
+        "prompt": "faceplates hold liquids",
+        "label": 0
+    },
+    {
+        "prompt": "chargers make sounds",
+        "label": 1
+    },
+    {
+        "prompt": "people hold lawyers",
+        "label": 0
+    },
+    {
+        "prompt": "a peepshow has button",
+        "label": 0
+    },
+    {
+        "prompt": "Latches reflect light",
+        "label": 1
+    },
+    {
+        "prompt": "roots provide shade",
+        "label": 0
+    },
+    {
+        "prompt": "Avoiding has legs",
+        "label": 0
+    },
+    {
+        "prompt": "humans use doorknockers",
+        "label": 1
+    },
+    {
+        "prompt": "cups have designs",
+        "label": 1
+    },
+    {
+        "prompt": "brooders involve haggling",
+        "label": 0
+    },
+    {
+        "prompt": "people wear markers",
+        "label": 0
+    },
+    {
+        "prompt": "Models require college",
+        "label": 1
+    },
+    {
+        "prompt": "people wear hearses",
+        "label": 0
+    },
+    {
+        "prompt": "antibiotics contain metals",
+        "label": 0
+    },
+    {
+        "prompt": "used alien",
+        "label": 0
+    },
+    {
+        "prompt": "Stones move things",
+        "label": 0
+    },
+    {
+        "prompt": "bears have scents",
+        "label": 1
+    },
+    {
+        "prompt": "Illusionists involve lot",
+        "label": 1
+    },
+    {
+        "prompt": "People don't wear doorstops",
+        "label": 0
+    },
+    {
+        "prompt": "shoes have sizes",
+        "label": 1
+    },
+    {
+        "prompt": "rabbits have tails",
+        "label": 1
+    },
+    {
+        "prompt": "people touch grenades",
+        "label": 1
+    },
+    {
+        "prompt": "kids like merchandise",
+        "label": 1
+    },
+    {
+        "prompt": "Supervisors involve water",
+        "label": 0
+    },
+    {
+        "prompt": "a person holds antidepressant",
+        "label": 1
+    },
+    {
+        "prompt": "Places have feeling",
+        "label": 0
+    },
+    {
+        "prompt": "Jailbirds involve parenthood",
+        "label": 0
+    },
+    {
+        "prompt": "people use steamships",
+        "label": 1
+    },
+    {
+        "prompt": "rosebushes have roots",
+        "label": 1
+    },
+    {
+        "prompt": "a person eats caste",
+        "label": 0
+    },
+    {
+        "prompt": "Addresses involve emotions",
+        "label": 0
+    },
+    {
+        "prompt": "people hold elephant",
+        "label": 0
+    },
+    {
+        "prompt": "roadblocks have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "veterinarians take power",
+        "label": 0
+    },
+    {
+        "prompt": "People ride peels",
+        "label": 0
+    },
+    {
+        "prompt": "people lift drainers",
+        "label": 1
+    },
+    {
+        "prompt": "people touch cesspools",
+        "label": 1
+    },
+    {
+        "prompt": "Thumbnails have screens",
+        "label": 0
+    },
+    {
+        "prompt": "trees don't tell time",
+        "label": 0
+    },
+    {
+        "prompt": "People buy time",
+        "label": 0
+    },
+    {
+        "prompt": "detonators involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "speculums birth children",
+        "label": 0
+    },
+    {
+        "prompt": "a person eats paintchip",
+        "label": 0
+    },
+    {
+        "prompt": "people use honeydews",
+        "label": 1
+    },
+    {
+        "prompt": "moms hold brassieres",
+        "label": 1
+    },
+    {
+        "prompt": "carnations have shapes",
+        "label": 1
+    },
+    {
+        "prompt": "Breadwinners have teeth",
+        "label": 1
+    },
+    {
+        "prompt": "a person touches barometer",
+        "label": 1
+    },
+    {
+        "prompt": "mongooses have claws",
+        "label": 1
+    },
+    {
+        "prompt": "People see misprint",
+        "label": 1
+    },
+    {
+        "prompt": "people use phrasebooks",
+        "label": 0
+    },
+    {
+        "prompt": "People hold banks",
+        "label": 0
+    },
+    {
+        "prompt": "Insects have fur",
+        "label": 1
+    },
+    {
+        "prompt": "precincts involve food",
+        "label": 0
+    },
+    {
+        "prompt": "People find speedsters",
+        "label": 1
+    },
+    {
+        "prompt": "rhinos eat meat",
+        "label": 0
+    },
+    {
+        "prompt": "people eat fish",
+        "label": 1
+    },
+    {
+        "prompt": "an inquisitor has hair",
+        "label": 1
+    },
+    {
+        "prompt": "politics has feelings",
+        "label": 0
+    },
+    {
+        "prompt": "A duel is held by person",
+        "label": 0
+    },
+    {
+        "prompt": "People mail reels",
+        "label": 1
+    },
+    {
+        "prompt": "Parkas have hoods",
+        "label": 1
+    },
+    {
+        "prompt": "People don't wear sod",
+        "label": 0
+    },
+    {
+        "prompt": "Presoaks have smell",
+        "label": 1
+    },
+    {
+        "prompt": "grasshoppers have feathers",
+        "label": 0
+    },
+    {
+        "prompt": "people see antibiotics",
+        "label": 1
+    },
+    {
+        "prompt": "Sandblasters make noise",
+        "label": 1
+    },
+    {
+        "prompt": "a drone costs more",
+        "label": 1
+    },
+    {
+        "prompt": "cups contain water",
+        "label": 1
+    },
+    {
+        "prompt": "a vegetarian eats locusts",
+        "label": 0
+    },
+    {
+        "prompt": "Transceivers use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Confectioneries have screens",
+        "label": 0
+    },
+    {
+        "prompt": "children contain things",
+        "label": 0
+    },
+    {
+        "prompt": "Dogs have beak",
+        "label": 0
+    },
+    {
+        "prompt": "doormats use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "a windbag makes money",
+        "label": 0
+    },
+    {
+        "prompt": "risottos feel pain",
+        "label": 0
+    },
+    {
+        "prompt": "pumas attack humans",
+        "label": 1
+    },
+    {
+        "prompt": "thread serves purpose",
+        "label": 1
+    },
+    {
+        "prompt": "gators have fur",
+        "label": 0
+    },
+    {
+        "prompt": "neighbors have children",
+        "label": 1
+    },
+    {
+        "prompt": "torches emit light",
+        "label": 1
+    },
+    {
+        "prompt": "drills make holes",
+        "label": 1
+    },
+    {
+        "prompt": "The riverbed makes sound",
+        "label": 1
+    },
+    {
+        "prompt": "laptops don't let light",
+        "label": 0
+    },
+    {
+        "prompt": "people use oboes",
+        "label": 1
+    },
+    {
+        "prompt": "Hombres have legs",
+        "label": 1
+    },
+    {
+        "prompt": "sapphires help people",
+        "label": 1
+    },
+    {
+        "prompt": "Kids don't use rainbows",
+        "label": 0
+    },
+    {
+        "prompt": "Headquarters provide services",
+        "label": 1
+    },
+    {
+        "prompt": "Shrimp have shells",
+        "label": 1
+    },
+    {
+        "prompt": "People ride hocks",
+        "label": 0
+    },
+    {
+        "prompt": "people hold gyroscopes",
+        "label": 1
+    },
+    {
+        "prompt": "people buy gazers",
+        "label": 0
+    },
+    {
+        "prompt": "People buy suns",
+        "label": 0
+    },
+    {
+        "prompt": "a subcontractor has legs",
+        "label": 1
+    },
+    {
+        "prompt": "crashers have members",
+        "label": 0
+    },
+    {
+        "prompt": "airplays cut anything",
+        "label": 0
+    },
+    {
+        "prompt": "hostels have holes",
+        "label": 1
+    },
+    {
+        "prompt": "people move sugarplums",
+        "label": 1
+    },
+    {
+        "prompt": "Pianos cost $",
+        "label": 1
+    },
+    {
+        "prompt": "swarms involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "Tubas involve food",
+        "label": 0
+    },
+    {
+        "prompt": "had PhD",
+        "label": 0
+    },
+    {
+        "prompt": "Tissues need seasoning",
+        "label": 0
+    },
+    {
+        "prompt": "Animals use trousers",
+        "label": 0
+    },
+    {
+        "prompt": "Everyone has intestines",
+        "label": 1
+    },
+    {
+        "prompt": "people buy fingerprint",
+        "label": 0
+    },
+    {
+        "prompt": "Turbines need power",
+        "label": 1
+    },
+    {
+        "prompt": "pistols use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Aerialist has feather",
+        "label": 0
+    },
+    {
+        "prompt": "attire has wheels",
+        "label": 0
+    },
+    {
+        "prompt": "people wear hoes",
+        "label": 0
+    },
+    {
+        "prompt": "People see habitats",
+        "label": 1
+    },
+    {
+        "prompt": "people eat fixings",
+        "label": 0
+    },
+    {
+        "prompt": "animals use soot",
+        "label": 0
+    },
+    {
+        "prompt": "everyone has aisles",
+        "label": 0
+    },
+    {
+        "prompt": "Kids use slides",
+        "label": 1
+    },
+    {
+        "prompt": "people eat trinkets",
+        "label": 0
+    },
+    {
+        "prompt": "collars benefit society",
+        "label": 0
+    },
+    {
+        "prompt": "people see hayseeds",
+        "label": 1
+    },
+    {
+        "prompt": "Lamps require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Fireflies have legs",
+        "label": 1
+    },
+    {
+        "prompt": "a goat can climb tree",
+        "label": 1
+    },
+    {
+        "prompt": "people hold chasers",
+        "label": 1
+    },
+    {
+        "prompt": "ovens use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Windchimes make noise",
+        "label": 1
+    },
+    {
+        "prompt": "fans make noise",
+        "label": 1
+    },
+    {
+        "prompt": "Chefs use pans",
+        "label": 1
+    },
+    {
+        "prompt": "People see aromas",
+        "label": 0
+    },
+    {
+        "prompt": "teahouses involve food",
+        "label": 1
+    },
+    {
+        "prompt": "cute has vaccine",
+        "label": 0
+    },
+    {
+        "prompt": "Combs have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "children use railings",
+        "label": 1
+    },
+    {
+        "prompt": "People touch canals",
+        "label": 1
+    },
+    {
+        "prompt": "computers use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "evaporators make noise",
+        "label": 1
+    },
+    {
+        "prompt": "a person sees captain",
+        "label": 1
+    },
+    {
+        "prompt": "an officer wears clothes",
+        "label": 1
+    },
+    {
+        "prompt": "fawns have claws",
+        "label": 1
+    },
+    {
+        "prompt": "People hold homework",
+        "label": 1
+    },
+    {
+        "prompt": "People grow plants",
+        "label": 1
+    },
+    {
+        "prompt": "bookshelves have shelves",
+        "label": 1
+    },
+    {
+        "prompt": "uncles have wings",
+        "label": 0
+    },
+    {
+        "prompt": "Rods have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "a person holds whetstone",
+        "label": 1
+    },
+    {
+        "prompt": "TVs send faxes",
+        "label": 0
+    },
+    {
+        "prompt": "Silkworms climb trees",
+        "label": 1
+    },
+    {
+        "prompt": "Execution hurts people",
+        "label": 1
+    },
+    {
+        "prompt": "saucers touch ground",
+        "label": 1
+    },
+    {
+        "prompt": "a slaughterer requires tool",
+        "label": 1
+    },
+    {
+        "prompt": "Methane hit Earth",
+        "label": 0
+    },
+    {
+        "prompt": "firelight involves education",
+        "label": 0
+    },
+    {
+        "prompt": "People buy blockage",
+        "label": 0
+    },
+    {
+        "prompt": "bikes have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "Camels have humps",
+        "label": 1
+    },
+    {
+        "prompt": "People use mops",
+        "label": 1
+    },
+    {
+        "prompt": "Jackasses have horns",
+        "label": 0
+    },
+    {
+        "prompt": "decoys eat grain",
+        "label": 0
+    },
+    {
+        "prompt": "people touch bosoms",
+        "label": 1
+    },
+    {
+        "prompt": "people hold chronographs",
+        "label": 1
+    },
+    {
+        "prompt": "people use fleas",
+        "label": 0
+    },
+    {
+        "prompt": "Everyone has puff",
+        "label": 0
+    },
+    {
+        "prompt": "people eat interviews",
+        "label": 0
+    },
+    {
+        "prompt": "people see lever",
+        "label": 1
+    },
+    {
+        "prompt": "a fighter has legs",
+        "label": 1
+    },
+    {
+        "prompt": "Kittens make sounds",
+        "label": 1
+    },
+    {
+        "prompt": "managed people with muscleman",
+        "label": 0
+    },
+    {
+        "prompt": "astronauts have legs",
+        "label": 1
+    },
+    {
+        "prompt": "People use wasps",
+        "label": 0
+    },
+    {
+        "prompt": "people see headwinds",
+        "label": 0
+    },
+    {
+        "prompt": "people find blackboard",
+        "label": 1
+    },
+    {
+        "prompt": "a man uses handgun",
+        "label": 1
+    },
+    {
+        "prompt": "Surgeons use scalpels",
+        "label": 1
+    },
+    {
+        "prompt": "kids use warplanes",
+        "label": 0
+    },
+    {
+        "prompt": "rocks don't feel pain",
+        "label": 0
+    },
+    {
+        "prompt": "Brain involves fire",
+        "label": 0
+    },
+    {
+        "prompt": "People hold smorgasbords",
+        "label": 1
+    },
+    {
+        "prompt": "people hold foam",
+        "label": 1
+    },
+    {
+        "prompt": "cans have frosting",
+        "label": 0
+    },
+    {
+        "prompt": "a person rides wiener",
+        "label": 0
+    },
+    {
+        "prompt": "antiques have colors",
+        "label": 1
+    },
+    {
+        "prompt": "Axles have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "birds have feathers",
+        "label": 0
+    },
+    {
+        "prompt": "people buy door",
+        "label": 1
+    },
+    {
+        "prompt": "people consume oxbows",
+        "label": 0
+    },
+    {
+        "prompt": "people build palettes",
+        "label": 0
+    },
+    {
+        "prompt": "handclaps require electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Women cook things",
+        "label": 1
+    },
+    {
+        "prompt": "people use clasps",
+        "label": 0
+    },
+    {
+        "prompt": "honkers have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "hairdryers play music",
+        "label": 0
+    },
+    {
+        "prompt": "people see oxygen",
+        "label": 0
+    },
+    {
+        "prompt": "mammograms include people",
+        "label": 1
+    },
+    {
+        "prompt": "carrots have calories",
+        "label": 1
+    },
+    {
+        "prompt": "worms require cages",
+        "label": 0
+    },
+    {
+        "prompt": "Houses have doors",
+        "label": 1
+    },
+    {
+        "prompt": "People don't use pollution",
+        "label": 0
+    },
+    {
+        "prompt": "Cats lay eggs",
+        "label": 0
+    },
+    {
+        "prompt": "stoves require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "watercress uses electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people hold fishing rods",
+        "label": 0
+    },
+    {
+        "prompt": "Feces are eaten by people",
+        "label": 0
+    },
+    {
+        "prompt": "tablets require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "clowns involve cleaning",
+        "label": 0
+    },
+    {
+        "prompt": "Chimps have horns",
+        "label": 0
+    },
+    {
+        "prompt": "spinouts involve education",
+        "label": 0
+    },
+    {
+        "prompt": "People climb letterheads",
+        "label": 0
+    },
+    {
+        "prompt": "people buy pretzels",
+        "label": 1
+    },
+    {
+        "prompt": "a busman involves travel",
+        "label": 1
+    },
+    {
+        "prompt": "People eat animators",
+        "label": 0
+    },
+    {
+        "prompt": "breadwinners have fur",
+        "label": 0
+    },
+    {
+        "prompt": "Wasps bite humans",
+        "label": 1
+    },
+    {
+        "prompt": "Hate needs water",
+        "label": 0
+    },
+    {
+        "prompt": "nutcrackers open cans",
+        "label": 0
+    },
+    {
+        "prompt": "people eat sonnets",
+        "label": 0
+    },
+    {
+        "prompt": "a gaze has job",
+        "label": 0
+    },
+    {
+        "prompt": "amphetamines don't require refrigeration",
+        "label": 0
+    },
+    {
+        "prompt": "Humans touch tombs",
+        "label": 1
+    },
+    {
+        "prompt": "people hold catch",
+        "label": 0
+    },
+    {
+        "prompt": "acupuncture doesn't have forms",
+        "label": 0
+    },
+    {
+        "prompt": "People eat bouillon",
+        "label": 1
+    },
+    {
+        "prompt": "Barons serve people",
+        "label": 1
+    },
+    {
+        "prompt": "a proctologist drives car",
+        "label": 1
+    },
+    {
+        "prompt": "ragtimes involve kids",
+        "label": 1
+    },
+    {
+        "prompt": "handclaps involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "cars have lights",
+        "label": 1
+    },
+    {
+        "prompt": "eyerolls have colors",
+        "label": 0
+    },
+    {
+        "prompt": "people touch musts",
+        "label": 0
+    },
+    {
+        "prompt": "a mask uses battery",
+        "label": 1
+    },
+    {
+        "prompt": "People throw greenbacks",
+        "label": 1
+    },
+    {
+        "prompt": "a match burns person",
+        "label": 1
+    },
+    {
+        "prompt": "cafes have food",
+        "label": 1
+    },
+    {
+        "prompt": "people climb floors",
+        "label": 0
+    },
+    {
+        "prompt": "thoughts cost money",
+        "label": 1
+    },
+    {
+        "prompt": "people use gals",
+        "label": 0
+    },
+    {
+        "prompt": "sitters involve cooking",
+        "label": 1
+    },
+    {
+        "prompt": "People hold water",
+        "label": 1
+    },
+    {
+        "prompt": "forks cut things",
+        "label": 1
+    },
+    {
+        "prompt": "Hamsters have tails",
+        "label": 1
+    },
+    {
+        "prompt": "meteors require humans",
+        "label": 0
+    },
+    {
+        "prompt": "transit involves investment",
+        "label": 0
+    },
+    {
+        "prompt": "lambskins have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Varnish involves family",
+        "label": 0
+    },
+    {
+        "prompt": "People see mines",
+        "label": 1
+    },
+    {
+        "prompt": "Hands make noise",
+        "label": 1
+    },
+    {
+        "prompt": "people eat sweatboxes",
+        "label": 0
+    },
+    {
+        "prompt": "People don't eat sidecars",
+        "label": 0
+    },
+    {
+        "prompt": "Toasters use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "a person carries stylus",
+        "label": 1
+    },
+    {
+        "prompt": "Laws cause grounds",
+        "label": 0
+    },
+    {
+        "prompt": "linings have functionality",
+        "label": 1
+    },
+    {
+        "prompt": "Hustlers have penises",
+        "label": 1
+    },
+    {
+        "prompt": "castaways hurt people",
+        "label": 1
+    },
+    {
+        "prompt": "skates have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "Firehouses involve transportation",
+        "label": 1
+    },
+    {
+        "prompt": "people eat collarbones",
+        "label": 0
+    },
+    {
+        "prompt": "motorboats require power",
+        "label": 1
+    },
+    {
+        "prompt": "dogs involve animals",
+        "label": 1
+    },
+    {
+        "prompt": "banisters have screens",
+        "label": 0
+    },
+    {
+        "prompt": "Person wears door",
+        "label": 0
+    },
+    {
+        "prompt": "people carry bedrooms",
+        "label": 0
+    },
+    {
+        "prompt": "people touch cone",
+        "label": 1
+    },
+    {
+        "prompt": "a person builds bay",
+        "label": 1
+    },
+    {
+        "prompt": "Cages hold something",
+        "label": 1
+    },
+    {
+        "prompt": "bookkeepers have fur",
+        "label": 0
+    },
+    {
+        "prompt": "people touch broncos",
+        "label": 1
+    },
+    {
+        "prompt": "people buy cane",
+        "label": 1
+    },
+    {
+        "prompt": "Condensates have colors",
+        "label": 0
+    },
+    {
+        "prompt": "Drywall has skin",
+        "label": 0
+    },
+    {
+        "prompt": "people eat some",
+        "label": 0
+    },
+    {
+        "prompt": "Articles need water",
+        "label": 0
+    },
+    {
+        "prompt": "tablespoonfuls require batteries",
+        "label": 0
+    },
+    {
+        "prompt": "a person smells luncheon meat",
+        "label": 1
+    },
+    {
+        "prompt": "whirlpools make noise",
+        "label": 1
+    },
+    {
+        "prompt": "people use spacecrafts",
+        "label": 1
+    },
+    {
+        "prompt": "bison don't have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Crowds involve notes",
+        "label": 1
+    },
+    {
+        "prompt": "Jockeys involve forests",
+        "label": 0
+    },
+    {
+        "prompt": "people eat in bedrooms",
+        "label": 0
+    },
+    {
+        "prompt": "Brontosaurus have no fur",
+        "label": 0
+    },
+    {
+        "prompt": "a suppository has buckle",
+        "label": 0
+    },
+    {
+        "prompt": "Flask uses number",
+        "label": 0
+    },
+    {
+        "prompt": "Person eats chair",
+        "label": 0
+    },
+    {
+        "prompt": "doctors require colleges",
+        "label": 1
+    },
+    {
+        "prompt": "highchairs make noise",
+        "label": 0
+    },
+    {
+        "prompt": "Headlamps produce light",
+        "label": 1
+    },
+    {
+        "prompt": "seltzer can kill people",
+        "label": 1
+    },
+    {
+        "prompt": "turbochargers have screens",
+        "label": 0
+    },
+    {
+        "prompt": "The Bible changes shape",
+        "label": 0
+    },
+    {
+        "prompt": "poinsettias have uses",
+        "label": 1
+    },
+    {
+        "prompt": "Elderly use erotica",
+        "label": 1
+    },
+    {
+        "prompt": "possums have legs",
+        "label": 1
+    },
+    {
+        "prompt": "Secretaries make calls",
+        "label": 1
+    },
+    {
+        "prompt": "a laptop involves screen",
+        "label": 1
+    },
+    {
+        "prompt": "People burn midwives",
+        "label": 0
+    },
+    {
+        "prompt": "scarves have shapes",
+        "label": 0
+    },
+    {
+        "prompt": "a person buys cancer",
+        "label": 0
+    },
+    {
+        "prompt": "a needle uses battery",
+        "label": 0
+    },
+    {
+        "prompt": "Cats serve people",
+        "label": 0
+    },
+    {
+        "prompt": "people notice waitpersons",
+        "label": 1
+    },
+    {
+        "prompt": "a guardian has legs",
+        "label": 1
+    },
+    {
+        "prompt": "People use coils",
+        "label": 1
+    },
+    {
+        "prompt": "steppingstones wear dresses",
+        "label": 0
+    },
+    {
+        "prompt": "Calculators have names",
+        "label": 1
+    },
+    {
+        "prompt": "Freeways make sounds",
+        "label": 0
+    },
+    {
+        "prompt": "code holds object",
+        "label": 0
+    },
+    {
+        "prompt": "children use cars",
+        "label": 0
+    },
+    {
+        "prompt": "a pheromone has color",
+        "label": 0
+    },
+    {
+        "prompt": "Politicians have feelings",
+        "label": 1
+    },
+    {
+        "prompt": "Radiators prepare food",
+        "label": 0
+    },
+    {
+        "prompt": "people drink autographs",
+        "label": 0
+    },
+    {
+        "prompt": "Men have lot",
+        "label": 1
+    },
+    {
+        "prompt": "a pencil connects pipe",
+        "label": 0
+    },
+    {
+        "prompt": "blood serves function",
+        "label": 1
+    },
+    {
+        "prompt": "airlifts have engines",
+        "label": 1
+    },
+    {
+        "prompt": "Sulfites make sound",
+        "label": 0
+    },
+    {
+        "prompt": "a moneymaker makes noise",
+        "label": 1
+    },
+    {
+        "prompt": "schools have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "people paint air",
+        "label": 0
+    },
+    {
+        "prompt": "people consume moneymaker",
+        "label": 0
+    },
+    {
+        "prompt": "People see sunglasses",
+        "label": 1
+    },
+    {
+        "prompt": "Dinosaurs have tails",
+        "label": 1
+    },
+    {
+        "prompt": "people wear cellphones",
+        "label": 0
+    },
+    {
+        "prompt": "Satellites check weather",
+        "label": 1
+    },
+    {
+        "prompt": "Hatchets cut things",
+        "label": 1
+    },
+    {
+        "prompt": "humans operate foyers",
+        "label": 0
+    },
+    {
+        "prompt": "people consume steamers",
+        "label": 0
+    },
+    {
+        "prompt": "a rat pays mortgage",
+        "label": 0
+    },
+    {
+        "prompt": "sods have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "bobtails have legs",
+        "label": 1
+    },
+    {
+        "prompt": "buckets collect water",
+        "label": 1
+    },
+    {
+        "prompt": "People touch present",
+        "label": 1
+    },
+    {
+        "prompt": "Bagpipes make sound",
+        "label": 1
+    },
+    {
+        "prompt": "kids use towels",
+        "label": 1
+    },
+    {
+        "prompt": "people eat towels",
+        "label": 0
+    },
+    {
+        "prompt": "People wear neat",
+        "label": 0
+    },
+    {
+        "prompt": "Furnaces use gas",
+        "label": 1
+    },
+    {
+        "prompt": "Calculators have stripes",
+        "label": 1
+    },
+    {
+        "prompt": "lights use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Tinsels take batteries",
+        "label": 0
+    },
+    {
+        "prompt": "people consume postponement",
+        "label": 0
+    },
+    {
+        "prompt": "people hold honey",
+        "label": 1
+    },
+    {
+        "prompt": "Wienies have horns",
+        "label": 0
+    },
+    {
+        "prompt": "people purchase jambalaya",
+        "label": 1
+    },
+    {
+        "prompt": "pitbulls drive trucks",
+        "label": 0
+    },
+    {
+        "prompt": "duets require electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Skyscrapers have more",
+        "label": 1
+    },
+    {
+        "prompt": "motors cost lot",
+        "label": 1
+    },
+    {
+        "prompt": "Herdsmen have legs",
+        "label": 1
+    },
+    {
+        "prompt": "correspondents have teeth",
+        "label": 1
+    },
+    {
+        "prompt": "frogs have colors",
+        "label": 1
+    },
+    {
+        "prompt": "Paperboy makes thing",
+        "label": 0
+    },
+    {
+        "prompt": "People throw losses",
+        "label": 0
+    },
+    {
+        "prompt": "People hold terracotta",
+        "label": 1
+    },
+    {
+        "prompt": "humans use banknotes",
+        "label": 1
+    },
+    {
+        "prompt": "cats have tails",
+        "label": 1
+    },
+    {
+        "prompt": "Subcontractors have ears",
+        "label": 1
+    },
+    {
+        "prompt": "people build mines",
+        "label": 1
+    },
+    {
+        "prompt": "pots change shape",
+        "label": 0
+    },
+    {
+        "prompt": "X-rays use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "The washstand has roof",
+        "label": 0
+    },
+    {
+        "prompt": "purses hold money",
+        "label": 1
+    },
+    {
+        "prompt": "acrobats involve boards",
+        "label": 0
+    },
+    {
+        "prompt": "Workers involve industries",
+        "label": 1
+    },
+    {
+        "prompt": "humans use bumpers",
+        "label": 1
+    },
+    {
+        "prompt": "stones require movement",
+        "label": 1
+    },
+    {
+        "prompt": "a person holds radio",
+        "label": 1
+    },
+    {
+        "prompt": "people hold wallboards",
+        "label": 1
+    },
+    {
+        "prompt": "dishwaters have keyboards",
+        "label": 0
+    },
+    {
+        "prompt": "scotch involves functions",
+        "label": 0
+    },
+    {
+        "prompt": "Ostriches have legs",
+        "label": 1
+    },
+    {
+        "prompt": "Stopwatches use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Jailers use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "hippos have armor",
+        "label": 0
+    },
+    {
+        "prompt": "people use mortars",
+        "label": 1
+    },
+    {
+        "prompt": "People water fixers",
+        "label": 0
+    },
+    {
+        "prompt": "Chrysanthemums have petals",
+        "label": 1
+    },
+    {
+        "prompt": "Subcontractors have arms",
+        "label": 1
+    },
+    {
+        "prompt": "records have colors",
+        "label": 1
+    },
+    {
+        "prompt": "Things involve uniforms",
+        "label": 0
+    },
+    {
+        "prompt": "people hear chromium",
+        "label": 0
+    },
+    {
+        "prompt": "people buy tofu",
+        "label": 1
+    },
+    {
+        "prompt": "Fuel has wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Bulldogs bite things",
+        "label": 1
+    },
+    {
+        "prompt": "Hippopotamuses have trunks",
+        "label": 0
+    },
+    {
+        "prompt": "petals have textures",
+        "label": 1
+    },
+    {
+        "prompt": "Homes have doors",
+        "label": 1
+    },
+    {
+        "prompt": "Toddlers don't have tails",
+        "label": 0
+    },
+    {
+        "prompt": "amplifiers consider food",
+        "label": 0
+    },
+    {
+        "prompt": "birds have feathers",
+        "label": 1
+    },
+    {
+        "prompt": "a person drinks heavily",
+        "label": 0
+    },
+    {
+        "prompt": "Carpenters use hammers",
+        "label": 1
+    },
+    {
+        "prompt": "Surgery causes pain",
+        "label": 1
+    },
+    {
+        "prompt": "involved communication with pathogen",
+        "label": 0
+    },
+    {
+        "prompt": "tractors have engines",
+        "label": 1
+    },
+    {
+        "prompt": "Kids like ghosts",
+        "label": 1
+    },
+    {
+        "prompt": "Ragtimes harm people",
+        "label": 1
+    },
+    {
+        "prompt": "people smell piece",
+        "label": 1
+    },
+    {
+        "prompt": "intervals involve hotels",
+        "label": 0
+    },
+    {
+        "prompt": "Furnishings have feeling",
+        "label": 0
+    },
+    {
+        "prompt": "A blackfish has shell",
+        "label": 0
+    },
+    {
+        "prompt": "People buy metronomes",
+        "label": 1
+    },
+    {
+        "prompt": "people eat contenders",
+        "label": 0
+    },
+    {
+        "prompt": "people see mental health",
+        "label": 0
+    },
+    {
+        "prompt": "Supplements have colors",
+        "label": 1
+    },
+    {
+        "prompt": "Playlists eat meat",
+        "label": 0
+    },
+    {
+        "prompt": "People see spillages",
+        "label": 1
+    },
+    {
+        "prompt": "laptops involve computers",
+        "label": 1
+    },
+    {
+        "prompt": "Roadblocks provide support",
+        "label": 1
+    },
+    {
+        "prompt": "ate tombstone",
+        "label": 0
+    },
+    {
+        "prompt": "Computers have manuals",
+        "label": 1
+    },
+    {
+        "prompt": "Supermarkets have doors",
+        "label": 1
+    },
+    {
+        "prompt": "people hold vapors",
+        "label": 0
+    },
+    {
+        "prompt": "honey has feelings",
+        "label": 0
+    },
+    {
+        "prompt": "men wear many clothes",
+        "label": 0
+    },
+    {
+        "prompt": "Everyone has gyros",
+        "label": 1
+    },
+    {
+        "prompt": "Octopuses weik lot",
+        "label": 1
+    },
+    {
+        "prompt": "mites have wings",
+        "label": 0
+    },
+    {
+        "prompt": "People purchase lotto",
+        "label": 1
+    },
+    {
+        "prompt": "people drive paraphernalia",
+        "label": 0
+    },
+    {
+        "prompt": "a child uses box",
+        "label": 1
+    },
+    {
+        "prompt": "monorails make noise",
+        "label": 1
+    },
+    {
+        "prompt": "a person watches flamethrower",
+        "label": 1
+    },
+    {
+        "prompt": "walking involves training",
+        "label": 0
+    },
+    {
+        "prompt": "Humans create canopies",
+        "label": 1
+    },
+    {
+        "prompt": "People smell men",
+        "label": 1
+    },
+    {
+        "prompt": "horses eat plants",
+        "label": 1
+    },
+    {
+        "prompt": "Hydroxides require maintenance",
+        "label": 0
+    },
+    {
+        "prompt": "the ring has leg",
+        "label": 0
+    },
+    {
+        "prompt": "People like diving",
+        "label": 1
+    },
+    {
+        "prompt": "caricaturists involve CPR",
+        "label": 0
+    },
+    {
+        "prompt": "people touch craps",
+        "label": 1
+    },
+    {
+        "prompt": "Houseboys don't have fur",
+        "label": 0
+    },
+    {
+        "prompt": "a mammogram involves sport",
+        "label": 0
+    },
+    {
+        "prompt": "everyone has obstruction",
+        "label": 0
+    },
+    {
+        "prompt": "people eat placards",
+        "label": 0
+    },
+    {
+        "prompt": "Bears have fur",
+        "label": 1
+    },
+    {
+        "prompt": "people wear mountains",
+        "label": 0
+    },
+    {
+        "prompt": "Champs make lot",
+        "label": 1
+    },
+    {
+        "prompt": "people buy physiques",
+        "label": 0
+    },
+    {
+        "prompt": "people wear grandsons",
+        "label": 0
+    },
+    {
+        "prompt": "spiders have legs",
+        "label": 1
+    },
+    {
+        "prompt": "a person buys sun",
+        "label": 0
+    },
+    {
+        "prompt": "boobies obey rules",
+        "label": 1
+    },
+    {
+        "prompt": "people touch clouds",
+        "label": 0
+    },
+    {
+        "prompt": "people don't have angels",
+        "label": 0
+    },
+    {
+        "prompt": "people touch celebrations",
+        "label": 0
+    },
+    {
+        "prompt": "secrets make sounds",
+        "label": 0
+    },
+    {
+        "prompt": "People touch shrubs",
+        "label": 1
+    },
+    {
+        "prompt": "cartons wear dresses",
+        "label": 0
+    },
+    {
+        "prompt": "people wear shirts",
+        "label": 1
+    },
+    {
+        "prompt": "People eat antibiotics",
+        "label": 1
+    },
+    {
+        "prompt": "People mail campfires",
+        "label": 0
+    },
+    {
+        "prompt": "people eat tumblers",
+        "label": 0
+    },
+    {
+        "prompt": "People use soil",
+        "label": 1
+    },
+    {
+        "prompt": "Rioting has no wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Plots make something",
+        "label": 0
+    },
+    {
+        "prompt": "Sushi involves liquid",
+        "label": 0
+    },
+    {
+        "prompt": "minefields have screens",
+        "label": 0
+    },
+    {
+        "prompt": "Leopards attack humans",
+        "label": 1
+    },
+    {
+        "prompt": "people hold caves",
+        "label": 0
+    },
+    {
+        "prompt": "Constituents speak languages",
+        "label": 1
+    },
+    {
+        "prompt": "people throw flatfeet",
+        "label": 0
+    },
+    {
+        "prompt": "Quicksands cause damage",
+        "label": 1
+    },
+    {
+        "prompt": "a sapling has legs",
+        "label": 0
+    },
+    {
+        "prompt": "A knocker is drunk by person",
+        "label": 0
+    },
+    {
+        "prompt": "air has color",
+        "label": 1
+    },
+    {
+        "prompt": "people wear sweatshirts",
+        "label": 0
+    },
+    {
+        "prompt": "People hold machine-shops",
+        "label": 0
+    },
+    {
+        "prompt": "bowls hold liquids",
+        "label": 1
+    },
+    {
+        "prompt": "grounds don't make offspring",
+        "label": 0
+    },
+    {
+        "prompt": "People enjoy seminaries",
+        "label": 1
+    },
+    {
+        "prompt": "kids like candy",
+        "label": 1
+    },
+    {
+        "prompt": "bulbs make light",
+        "label": 1
+    },
+    {
+        "prompt": "people plug fork",
+        "label": 0
+    },
+    {
+        "prompt": "people smoke collars",
+        "label": 0
+    },
+    {
+        "prompt": "people eat mice",
+        "label": 1
+    },
+    {
+        "prompt": "Bananas have color",
+        "label": 1
+    },
+    {
+        "prompt": "Tigers have fins",
+        "label": 0
+    },
+    {
+        "prompt": "Grapefruit makes noise",
+        "label": 0
+    },
+    {
+        "prompt": "People eat skin",
+        "label": 0
+    },
+    {
+        "prompt": "a book has engine",
+        "label": 0
+    },
+    {
+        "prompt": "Dachshunds eat meat",
+        "label": 1
+    },
+    {
+        "prompt": "and barrette holds something",
+        "label": 1
+    },
+    {
+        "prompt": "People use men",
+        "label": 0
+    },
+    {
+        "prompt": "Carnivores make noise",
+        "label": 1
+    },
+    {
+        "prompt": "people smell ugliness",
+        "label": 0
+    },
+    {
+        "prompt": "flashlights take batteries",
+        "label": 1
+    },
+    {
+        "prompt": "men make noise",
+        "label": 1
+    },
+    {
+        "prompt": "People touch lords",
+        "label": 0
+    },
+    {
+        "prompt": "Turbochargers have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "translation requires lot",
+        "label": 1
+    },
+    {
+        "prompt": "Electroplating requires degree",
+        "label": 0
+    },
+    {
+        "prompt": "people wear databases",
+        "label": 0
+    },
+    {
+        "prompt": "Trials cost money",
+        "label": 1
+    },
+    {
+        "prompt": "people wear logos",
+        "label": 1
+    },
+    {
+        "prompt": "People touch men",
+        "label": 1
+    },
+    {
+        "prompt": "Binders make sound",
+        "label": 0
+    },
+    {
+        "prompt": "forefingers breathe air",
+        "label": 0
+    },
+    {
+        "prompt": "Kids use toys",
+        "label": 1
+    },
+    {
+        "prompt": "People eat boutiques",
+        "label": 0
+    },
+    {
+        "prompt": "a hornet has wings",
+        "label": 1
+    },
+    {
+        "prompt": "Peacocks have feathers",
+        "label": 1
+    },
+    {
+        "prompt": "People use jetliners",
+        "label": 1
+    },
+    {
+        "prompt": "Madwomen have tail",
+        "label": 0
+    },
+    {
+        "prompt": "Buildings have windows",
+        "label": 1
+    },
+    {
+        "prompt": "children use waxworks",
+        "label": 0
+    },
+    {
+        "prompt": "bathrobes have sleeves",
+        "label": 1
+    },
+    {
+        "prompt": "the wall has tail",
+        "label": 0
+    },
+    {
+        "prompt": "People see ranches",
+        "label": 1
+    },
+    {
+        "prompt": "Toast doesn't say anything",
+        "label": 0
+    },
+    {
+        "prompt": "Marmots have tails",
+        "label": 1
+    },
+    {
+        "prompt": "people buy tools",
+        "label": 1
+    },
+    {
+        "prompt": "steamers run cars",
+        "label": 0
+    },
+    {
+        "prompt": "store bicycles in garages",
+        "label": 1
+    },
+    {
+        "prompt": "decors have teeth",
+        "label": 0
+    },
+    {
+        "prompt": "animators have legs",
+        "label": 1
+    },
+    {
+        "prompt": "cookbooks serve purpose",
+        "label": 1
+    },
+    {
+        "prompt": "people hold graffiti",
+        "label": 0
+    },
+    {
+        "prompt": "dogs have legs",
+        "label": 1
+    },
+    {
+        "prompt": "people use shelters",
+        "label": 0
+    },
+    {
+        "prompt": "gods involve dummies",
+        "label": 0
+    },
+    {
+        "prompt": "lasers seat more",
+        "label": 0
+    },
+    {
+        "prompt": "Flushers have feelings",
+        "label": 0
+    },
+    {
+        "prompt": "People lift buses",
+        "label": 0
+    },
+    {
+        "prompt": "people touch wishes",
+        "label": 0
+    },
+    {
+        "prompt": "Tequila has cream",
+        "label": 0
+    },
+    {
+        "prompt": "registrars involve crime",
+        "label": 0
+    },
+    {
+        "prompt": "leaves have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "a kitten has fur",
+        "label": 1
+    },
+    {
+        "prompt": "people wear handcarts",
+        "label": 0
+    },
+    {
+        "prompt": "a key has mind",
+        "label": 0
+    },
+    {
+        "prompt": "people like diseases",
+        "label": 1
+    },
+    {
+        "prompt": "ambulances involve HVAC",
+        "label": 0
+    },
+    {
+        "prompt": "Drivers require licenses",
+        "label": 1
+    },
+    {
+        "prompt": "words require talent",
+        "label": 0
+    },
+    {
+        "prompt": "people use schools",
+        "label": 1
+    },
+    {
+        "prompt": "people pour sea",
+        "label": 1
+    },
+    {
+        "prompt": "Crosswalks make noise",
+        "label": 0
+    },
+    {
+        "prompt": "People smell crosswise",
+        "label": 0
+    },
+    {
+        "prompt": "Dishtowels help people",
+        "label": 1
+    },
+    {
+        "prompt": "Applesauce tastes tart",
+        "label": 1
+    },
+    {
+        "prompt": "people eat peepshow",
+        "label": 0
+    },
+    {
+        "prompt": "fish have claws",
+        "label": 0
+    },
+    {
+        "prompt": "Tranquilizers have no keyboards",
+        "label": 0
+    },
+    {
+        "prompt": "landmines cost something",
+        "label": 0
+    },
+    {
+        "prompt": "serums require electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people eat cells",
+        "label": 0
+    },
+    {
+        "prompt": "processes eat fruit",
+        "label": 0
+    },
+    {
+        "prompt": "Newsletters don't produce light",
+        "label": 0
+    },
+    {
+        "prompt": "a fighter has feelings",
+        "label": 1
+    },
+    {
+        "prompt": "Fresheners help people",
+        "label": 1
+    },
+    {
+        "prompt": "Ties have buttons",
+        "label": 1
+    },
+    {
+        "prompt": "People open lights",
+        "label": 0
+    },
+    {
+        "prompt": "a penis has smell",
+        "label": 1
+    },
+    {
+        "prompt": "a child buys candy",
+        "label": 1
+    },
+    {
+        "prompt": "Autobiographers require training",
+        "label": 1
+    },
+    {
+        "prompt": "people wear brassieres",
+        "label": 1
+    },
+    {
+        "prompt": "Mailboxes fit families",
+        "label": 0
+    },
+    {
+        "prompt": "duels have legs",
+        "label": 0
+    },
+    {
+        "prompt": "tapeworms have fangs",
+        "label": 0
+    },
+    {
+        "prompt": "People don't eat governesses",
+        "label": 0
+    },
+    {
+        "prompt": "bumblebees have minds",
+        "label": 1
+    },
+    {
+        "prompt": "aerialists lay eggs",
+        "label": 0
+    },
+    {
+        "prompt": "humans eat tuna",
+        "label": 1
+    },
+    {
+        "prompt": "hostels hold water",
+        "label": 1
+    },
+    {
+        "prompt": "Person smokes blind",
+        "label": 0
+    },
+    {
+        "prompt": "a kid likes microprocessor",
+        "label": 1
+    },
+    {
+        "prompt": "pliers have handles",
+        "label": 1
+    },
+    {
+        "prompt": "people buy satellites",
+        "label": 1
+    },
+    {
+        "prompt": "women wear smocks",
+        "label": 1
+    },
+    {
+        "prompt": "Eggplants have cloves",
+        "label": 0
+    },
+    {
+        "prompt": "Stags have teeth",
+        "label": 1
+    },
+    {
+        "prompt": "Humans use opiates",
+        "label": 1
+    },
+    {
+        "prompt": "Trustees cause pain",
+        "label": 0
+    },
+    {
+        "prompt": "Algae have thorns",
+        "label": 0
+    },
+    {
+        "prompt": "Songwriters involve wildlife",
+        "label": 1
+    },
+    {
+        "prompt": "composts have doors",
+        "label": 0
+    },
+    {
+        "prompt": "people burn ballads",
+        "label": 0
+    },
+    {
+        "prompt": "Housemates make noise",
+        "label": 1
+    },
+    {
+        "prompt": "people hold wiz",
+        "label": 0
+    },
+    {
+        "prompt": "Shoes cost $",
+        "label": 1
+    },
+    {
+        "prompt": "people eat gnomes",
+        "label": 0
+    },
+    {
+        "prompt": "a person wears locomotion",
+        "label": 0
+    },
+    {
+        "prompt": "dirt doesn't involve food",
+        "label": 0
+    },
+    {
+        "prompt": "italics have no smell",
+        "label": 0
+    },
+    {
+        "prompt": "Hatcheries have scent",
+        "label": 1
+    },
+    {
+        "prompt": "a nightclub requires electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Milkmen pay $",
+        "label": 1
+    },
+    {
+        "prompt": "people hold drills",
+        "label": 1
+    },
+    {
+        "prompt": "People open screamers",
+        "label": 0
+    },
+    {
+        "prompt": "people hold oats",
+        "label": 1
+    },
+    {
+        "prompt": "Animals use encryption",
+        "label": 0
+    },
+    {
+        "prompt": "people fry snappers",
+        "label": 1
+    },
+    {
+        "prompt": "people operate plaster",
+        "label": 0
+    },
+    {
+        "prompt": "people smoke tobacco",
+        "label": 1
+    },
+    {
+        "prompt": "Humans wear shirts",
+        "label": 1
+    },
+    {
+        "prompt": "People display stowaways",
+        "label": 0
+    },
+    {
+        "prompt": "people hold dislocation",
+        "label": 0
+    },
+    {
+        "prompt": "Snakes have scales",
+        "label": 1
+    },
+    {
+        "prompt": "kids use paths",
+        "label": 1
+    },
+    {
+        "prompt": "Squirrels have fur",
+        "label": 1
+    },
+    {
+        "prompt": "Women use cowbells",
+        "label": 1
+    },
+    {
+        "prompt": "camisoles require electricity",
+        "label": 0
+    },
+    {
+        "prompt": "cufflinks have shelves",
+        "label": 0
+    },
+    {
+        "prompt": "Heavyweights require college",
+        "label": 1
+    },
+    {
+        "prompt": "Singles involve one person",
+        "label": 0
+    },
+    {
+        "prompt": "rode utensils",
+        "label": 0
+    },
+    {
+        "prompt": "Wallets hold money",
+        "label": 1
+    },
+    {
+        "prompt": "golfing costs money",
+        "label": 1
+    },
+    {
+        "prompt": "Moneymakers have legs",
+        "label": 1
+    },
+    {
+        "prompt": "shrubs have flowers",
+        "label": 1
+    },
+    {
+        "prompt": "Wheels have display",
+        "label": 0
+    },
+    {
+        "prompt": "duels have feelings",
+        "label": 0
+    },
+    {
+        "prompt": "Person wears stationery",
+        "label": 0
+    },
+    {
+        "prompt": "children lift diagrams",
+        "label": 1
+    },
+    {
+        "prompt": "fans have lids",
+        "label": 0
+    },
+    {
+        "prompt": "Monarchs have legs",
+        "label": 1
+    },
+    {
+        "prompt": "animals make elbows",
+        "label": 0
+    },
+    {
+        "prompt": "hogs have tails",
+        "label": 1
+    },
+    {
+        "prompt": "Doctors use scans",
+        "label": 1
+    },
+    {
+        "prompt": "people use jackets",
+        "label": 1
+    },
+    {
+        "prompt": "people hold tripe",
+        "label": 1
+    },
+    {
+        "prompt": "made noise with phosphate",
+        "label": 0
+    },
+    {
+        "prompt": "people touch smells",
+        "label": 0
+    },
+    {
+        "prompt": "people eat at manors",
+        "label": 0
+    },
+    {
+        "prompt": "People touch oxygen",
+        "label": 0
+    },
+    {
+        "prompt": "grease has smell",
+        "label": 1
+    },
+    {
+        "prompt": "dungeons have water",
+        "label": 1
+    },
+    {
+        "prompt": "a person sees abrasion",
+        "label": 1
+    },
+    {
+        "prompt": "Conches have fur",
+        "label": 0
+    },
+    {
+        "prompt": "Hocks have antlers",
+        "label": 0
+    },
+    {
+        "prompt": "People hold webcasts",
+        "label": 0
+    },
+    {
+        "prompt": "oil has scent",
+        "label": 1
+    },
+    {
+        "prompt": "Jackets have buttons",
+        "label": 1
+    },
+    {
+        "prompt": "cuttlefish have teeth",
+        "label": 1
+    },
+    {
+        "prompt": "People touch seas",
+        "label": 1
+    },
+    {
+        "prompt": "universes have leaves",
+        "label": 0
+    },
+    {
+        "prompt": "Lamps need bulb",
+        "label": 1
+    },
+    {
+        "prompt": "People hold time",
+        "label": 0
+    },
+    {
+        "prompt": "Shillings serve purpose",
+        "label": 1
+    },
+    {
+        "prompt": "People buy contender",
+        "label": 1
+    },
+    {
+        "prompt": "People use papyrus",
+        "label": 1
+    },
+    {
+        "prompt": "families have feathers",
+        "label": 0
+    },
+    {
+        "prompt": "staircases serve purpose",
+        "label": 1
+    },
+    {
+        "prompt": "Children use glue",
+        "label": 1
+    },
+    {
+        "prompt": "People eat transistors",
+        "label": 0
+    },
+    {
+        "prompt": "shanks grow roots",
+        "label": 0
+    },
+    {
+        "prompt": "advisers require degrees",
+        "label": 1
+    },
+    {
+        "prompt": "Conches don't have feelings",
+        "label": 0
+    },
+    {
+        "prompt": "Clothing has parts",
+        "label": 0
+    },
+    {
+        "prompt": "a rat feels pain",
+        "label": 1
+    },
+    {
+        "prompt": "People wear yards",
+        "label": 0
+    },
+    {
+        "prompt": "Apes lay eggs",
+        "label": 0
+    },
+    {
+        "prompt": "lightbulbs store things",
+        "label": 0
+    },
+    {
+        "prompt": "a child uses violin",
+        "label": 1
+    },
+    {
+        "prompt": "someone uses depression",
+        "label": 0
+    },
+    {
+        "prompt": "drugstores involve drainage",
+        "label": 0
+    },
+    {
+        "prompt": "People touch promotions",
+        "label": 0
+    },
+    {
+        "prompt": "Toys use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "dinghies have legs",
+        "label": 0
+    },
+    {
+        "prompt": "dish towels make noise",
+        "label": 0
+    },
+    {
+        "prompt": "Pleasure requires electricity",
+        "label": 0
+    },
+    {
+        "prompt": "shovels take photos",
+        "label": 0
+    },
+    {
+        "prompt": "staplers have screens",
+        "label": 0
+    },
+    {
+        "prompt": "Diarrhea has color",
+        "label": 1
+    },
+    {
+        "prompt": "Footbaths use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Transporters make noise",
+        "label": 1
+    },
+    {
+        "prompt": "psychoanalysts have legs",
+        "label": 1
+    },
+    {
+        "prompt": "People see cellulite",
+        "label": 1
+    },
+    {
+        "prompt": "people collect woodshop",
+        "label": 0
+    },
+    {
+        "prompt": "frogs make noises",
+        "label": 1
+    },
+    {
+        "prompt": "keyboards contain keys",
+        "label": 0
+    },
+    {
+        "prompt": "Mice have fur",
+        "label": 1
+    },
+    {
+        "prompt": "a person eats vermouth",
+        "label": 0
+    },
+    {
+        "prompt": "wheelmen make sounds",
+        "label": 1
+    },
+    {
+        "prompt": "Rivers use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Blackfish have fur",
+        "label": 0
+    },
+    {
+        "prompt": "Marksmen involve performance",
+        "label": 1
+    },
+    {
+        "prompt": "gentlemen have hair",
+        "label": 1
+    },
+    {
+        "prompt": "humans eat cattle",
+        "label": 1
+    },
+    {
+        "prompt": "aristocrats require prescriptions",
+        "label": 0
+    },
+    {
+        "prompt": "people eat computers",
+        "label": 0
+    },
+    {
+        "prompt": "people use ironworks",
+        "label": 0
+    },
+    {
+        "prompt": "people use programs",
+        "label": 1
+    },
+    {
+        "prompt": "rhinos have horns",
+        "label": 1
+    },
+    {
+        "prompt": "Bagels are considered food",
+        "label": 1
+    },
+    {
+        "prompt": "People eat razorbacks",
+        "label": 1
+    },
+    {
+        "prompt": "People wear seltzers",
+        "label": 0
+    },
+    {
+        "prompt": "men use shakers",
+        "label": 1
+    },
+    {
+        "prompt": "People use cabooses",
+        "label": 1
+    },
+    {
+        "prompt": "People see noisemaker",
+        "label": 1
+    },
+    {
+        "prompt": "sand doesn't eat food",
+        "label": 0
+    },
+    {
+        "prompt": "people read camisoles",
+        "label": 0
+    },
+    {
+        "prompt": "Beaches don't have motors",
+        "label": 0
+    },
+    {
+        "prompt": "kids use logos",
+        "label": 0
+    },
+    {
+        "prompt": "people use sugar",
+        "label": 1
+    },
+    {
+        "prompt": "Kids use templates",
+        "label": 1
+    },
+    {
+        "prompt": "a person holds wand",
+        "label": 1
+    },
+    {
+        "prompt": "Coyotes eat meat",
+        "label": 1
+    },
+    {
+        "prompt": "People eat socks",
+        "label": 0
+    },
+    {
+        "prompt": "Source is used for armor",
+        "label": 0
+    },
+    {
+        "prompt": "a frog has shell",
+        "label": 0
+    },
+    {
+        "prompt": "People use crockpots",
+        "label": 1
+    },
+    {
+        "prompt": "deer have antlers",
+        "label": 1
+    },
+    {
+        "prompt": "Angels make noise",
+        "label": 0
+    },
+    {
+        "prompt": "Alligators have fur",
+        "label": 0
+    },
+    {
+        "prompt": "People eat brassieres",
+        "label": 0
+    },
+    {
+        "prompt": "columnists require degrees",
+        "label": 1
+    },
+    {
+        "prompt": "People touch conductors",
+        "label": 0
+    },
+    {
+        "prompt": "Snow has screen",
+        "label": 0
+    },
+    {
+        "prompt": "Treasuries shelter people",
+        "label": 1
+    },
+    {
+        "prompt": "Law makes noise",
+        "label": 0
+    },
+    {
+        "prompt": "grapefruits cost lot",
+        "label": 0
+    },
+    {
+        "prompt": "People drive tearooms",
+        "label": 0
+    },
+    {
+        "prompt": "a person wears scratcher",
+        "label": 0
+    },
+    {
+        "prompt": "People cause disasters",
+        "label": 1
+    },
+    {
+        "prompt": "cash makes music",
+        "label": 0
+    },
+    {
+        "prompt": "Magnets do not eat food",
+        "label": 0
+    },
+    {
+        "prompt": "Shoppers involve religion",
+        "label": 0
+    },
+    {
+        "prompt": "forests contain trees",
+        "label": 1
+    },
+    {
+        "prompt": "freezers hold ice",
+        "label": 1
+    },
+    {
+        "prompt": "People eat keystrokes",
+        "label": 0
+    },
+    {
+        "prompt": "cumin holds air",
+        "label": 0
+    },
+    {
+        "prompt": "puppies hurt people",
+        "label": 1
+    },
+    {
+        "prompt": "flames have purposes",
+        "label": 1
+    },
+    {
+        "prompt": "people own entranceways",
+        "label": 1
+    },
+    {
+        "prompt": "people hear silence",
+        "label": 0
+    },
+    {
+        "prompt": "pressure washers require water",
+        "label": 1
+    },
+    {
+        "prompt": "Clusters serve purpose",
+        "label": 1
+    },
+    {
+        "prompt": "Foldouts tell time",
+        "label": 0
+    },
+    {
+        "prompt": "a person drinks play",
+        "label": 0
+    },
+    {
+        "prompt": "speed requires education",
+        "label": 0
+    },
+    {
+        "prompt": "People see jackpot",
+        "label": 1
+    },
+    {
+        "prompt": "People touch heartthrob",
+        "label": 1
+    },
+    {
+        "prompt": "People mail glasses",
+        "label": 1
+    },
+    {
+        "prompt": "people use aluminum",
+        "label": 1
+    },
+    {
+        "prompt": "Hookers require skills",
+        "label": 1
+    },
+    {
+        "prompt": "impostors have feathers",
+        "label": 0
+    },
+    {
+        "prompt": "people carry holders",
+        "label": 1
+    },
+    {
+        "prompt": "dams use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "a radio can transmit anything",
+        "label": 1
+    },
+    {
+        "prompt": "shovels involve landscaping",
+        "label": 1
+    },
+    {
+        "prompt": "people drink nip",
+        "label": 0
+    },
+    {
+        "prompt": "AirPlay has wheels",
+        "label": 0
+    },
+    {
+        "prompt": "had untwisted skin",
+        "label": 0
+    },
+    {
+        "prompt": "ate bread",
+        "label": 0
+    },
+    {
+        "prompt": "oaks have roots",
+        "label": 1
+    },
+    {
+        "prompt": "the throat has sense",
+        "label": 0
+    },
+    {
+        "prompt": "Kinds have functions",
+        "label": 0
+    },
+    {
+        "prompt": "ledges serve functions",
+        "label": 1
+    },
+    {
+        "prompt": "Pitchers hold amounts",
+        "label": 1
+    },
+    {
+        "prompt": "had suppository",
+        "label": 0
+    },
+    {
+        "prompt": "people fold styrofoam",
+        "label": 0
+    },
+    {
+        "prompt": "Remotes take batteries",
+        "label": 1
+    },
+    {
+        "prompt": "People like noses",
+        "label": 1
+    },
+    {
+        "prompt": "people replace eggshells",
+        "label": 1
+    },
+    {
+        "prompt": "microscopes involve labs",
+        "label": 1
+    },
+    {
+        "prompt": "a baton uses electricity",
+        "label": 0
+    },
+    {
+        "prompt": "a person sees mentor",
+        "label": 1
+    },
+    {
+        "prompt": "campings have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Narcotics require fuel",
+        "label": 0
+    },
+    {
+        "prompt": "A parent has shirt",
+        "label": 0
+    },
+    {
+        "prompt": "Earplugs use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Waste serves purpose",
+        "label": 1
+    },
+    {
+        "prompt": "Pitbulls like food",
+        "label": 1
+    },
+    {
+        "prompt": "a person wears sweatpants",
+        "label": 1
+    },
+    {
+        "prompt": "freebies have colors",
+        "label": 1
+    },
+    {
+        "prompt": "Ravines need rain",
+        "label": 1
+    },
+    {
+        "prompt": "a cellblock makes noise",
+        "label": 0
+    },
+    {
+        "prompt": "People hold bloodworms",
+        "label": 1
+    },
+    {
+        "prompt": "an ovum serves purpose",
+        "label": 1
+    },
+    {
+        "prompt": "Teachers teach something",
+        "label": 1
+    },
+    {
+        "prompt": "people use junkyards",
+        "label": 1
+    },
+    {
+        "prompt": "People lift elephants",
+        "label": 0
+    },
+    {
+        "prompt": "people eat sneakers",
+        "label": 0
+    },
+    {
+        "prompt": "steamers contain water",
+        "label": 1
+    },
+    {
+        "prompt": "Noodles hold stuff",
+        "label": 1
+    },
+    {
+        "prompt": "taps prepare food",
+        "label": 0
+    },
+    {
+        "prompt": "Rooflines help people",
+        "label": 1
+    },
+    {
+        "prompt": "valets involve water",
+        "label": 0
+    },
+    {
+        "prompt": "phones require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Computers need electricity",
+        "label": 1
+    },
+    {
+        "prompt": "one eats consumers",
+        "label": 0
+    },
+    {
+        "prompt": "chefs use harpoons",
+        "label": 0
+    },
+    {
+        "prompt": "people touch nebula",
+        "label": 0
+    },
+    {
+        "prompt": "People drink sushi",
+        "label": 0
+    },
+    {
+        "prompt": "people use spas",
+        "label": 0
+    },
+    {
+        "prompt": "people wrap restaurants",
+        "label": 0
+    },
+    {
+        "prompt": "Leather involves function",
+        "label": 0
+    },
+    {
+        "prompt": "Humans use transistors",
+        "label": 1
+    },
+    {
+        "prompt": "respirators involve CPR",
+        "label": 1
+    },
+    {
+        "prompt": "People use ejectors",
+        "label": 0
+    },
+    {
+        "prompt": "workhouses have color",
+        "label": 1
+    },
+    {
+        "prompt": "Humans use intersections",
+        "label": 1
+    },
+    {
+        "prompt": "Pails use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people plug heaters",
+        "label": 1
+    },
+    {
+        "prompt": "felt pain in game",
+        "label": 0
+    },
+    {
+        "prompt": "Larvae make noise",
+        "label": 1
+    },
+    {
+        "prompt": "givers have jobs",
+        "label": 1
+    },
+    {
+        "prompt": "Lamps use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "people eat at booth",
+        "label": 0
+    },
+    {
+        "prompt": "People touch cavern",
+        "label": 1
+    },
+    {
+        "prompt": "Vegans eat seaweed",
+        "label": 1
+    },
+    {
+        "prompt": "People wear sombreros",
+        "label": 1
+    },
+    {
+        "prompt": "whales breathe air",
+        "label": 1
+    },
+    {
+        "prompt": "people eat routers",
+        "label": 0
+    },
+    {
+        "prompt": "an adult uses footings",
+        "label": 1
+    },
+    {
+        "prompt": "people can touch gliders",
+        "label": 1
+    },
+    {
+        "prompt": "directors require degree",
+        "label": 1
+    },
+    {
+        "prompt": "migrants have titles",
+        "label": 1
+    },
+    {
+        "prompt": "bats blow air",
+        "label": 0
+    },
+    {
+        "prompt": "people drive tinderboxes",
+        "label": 0
+    },
+    {
+        "prompt": "Person touches happiness",
+        "label": 0
+    },
+    {
+        "prompt": "People hold madwoman",
+        "label": 1
+    },
+    {
+        "prompt": "bandages use batteries",
+        "label": 0
+    },
+    {
+        "prompt": "kayakers involve cleaning",
+        "label": 0
+    },
+    {
+        "prompt": "People touch filters",
+        "label": 1
+    },
+    {
+        "prompt": "juices contain alcohol",
+        "label": 1
+    },
+    {
+        "prompt": "playoffs have brains",
+        "label": 0
+    },
+    {
+        "prompt": "children use phalanges",
+        "label": 1
+    },
+    {
+        "prompt": "torpedoes don't have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "couplers connect pipes",
+        "label": 1
+    },
+    {
+        "prompt": "people wear clappers",
+        "label": 1
+    },
+    {
+        "prompt": "Rugs involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "people find patios",
+        "label": 0
+    },
+    {
+        "prompt": "gigolos involve sort",
+        "label": 1
+    },
+    {
+        "prompt": "dolphins have fins",
+        "label": 1
+    },
+    {
+        "prompt": "People see taillights",
+        "label": 1
+    },
+    {
+        "prompt": "Colour is watered by person",
+        "label": 0
+    },
+    {
+        "prompt": "Walmart sells freeway",
+        "label": 0
+    },
+    {
+        "prompt": "paint costs $",
+        "label": 1
+    },
+    {
+        "prompt": "Enslavers have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "soldering involves soldering",
+        "label": 1
+    },
+    {
+        "prompt": "people eat homebrews",
+        "label": 0
+    },
+    {
+        "prompt": "people want jade",
+        "label": 1
+    },
+    {
+        "prompt": "a subcontractor has toe",
+        "label": 1
+    },
+    {
+        "prompt": "fur has price",
+        "label": 1
+    },
+    {
+        "prompt": "codices use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Gold has no brain",
+        "label": 0
+    },
+    {
+        "prompt": "casters have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "chickens breathe fire",
+        "label": 0
+    },
+    {
+        "prompt": "Larvae use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "an oven touches ground",
+        "label": 1
+    },
+    {
+        "prompt": "postmasters involve food",
+        "label": 0
+    },
+    {
+        "prompt": "sanitizers hold liquids",
+        "label": 1
+    },
+    {
+        "prompt": "Sunflowers wear clothes",
+        "label": 0
+    },
+    {
+        "prompt": "shampoos have scents",
+        "label": 1
+    },
+    {
+        "prompt": "a person takes interview",
+        "label": 0
+    },
+    {
+        "prompt": "paper uses electricity",
+        "label": 0
+    },
+    {
+        "prompt": "Stations use satellites",
+        "label": 1
+    },
+    {
+        "prompt": "People eat cryptographs",
+        "label": 0
+    },
+    {
+        "prompt": "Searchlights use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "people ride fuel",
+        "label": 0
+    },
+    {
+        "prompt": "Person uses kingfisher",
+        "label": 0
+    },
+    {
+        "prompt": "phones need power",
+        "label": 1
+    },
+    {
+        "prompt": "Scotch doesn't involve people",
+        "label": 0
+    },
+    {
+        "prompt": "factories have belts",
+        "label": 1
+    },
+    {
+        "prompt": "Air doesn't weigh anything",
+        "label": 0
+    },
+    {
+        "prompt": "golf shoes have spikes",
+        "label": 1
+    },
+    {
+        "prompt": "Traction is seen by person",
+        "label": 0
+    },
+    {
+        "prompt": "people wear routers",
+        "label": 0
+    },
+    {
+        "prompt": "Screwdrivers fix things",
+        "label": 1
+    },
+    {
+        "prompt": "highchairs use gas",
+        "label": 0
+    },
+    {
+        "prompt": "People purchase vises",
+        "label": 1
+    },
+    {
+        "prompt": "germs make noises",
+        "label": 0
+    },
+    {
+        "prompt": "people eat toast",
+        "label": 0
+    },
+    {
+        "prompt": "people eat glimpse",
+        "label": 0
+    },
+    {
+        "prompt": "people use hailstones",
+        "label": 0
+    },
+    {
+        "prompt": "Stars make sounds",
+        "label": 0
+    },
+    {
+        "prompt": "storehouses have restrooms",
+        "label": 1
+    },
+    {
+        "prompt": "chronographs can hurt people",
+        "label": 1
+    },
+    {
+        "prompt": "thumbtacks hold things",
+        "label": 1
+    },
+    {
+        "prompt": "a tool has button",
+        "label": 1
+    },
+    {
+        "prompt": "Uncles have jobs",
+        "label": 1
+    },
+    {
+        "prompt": "Fruits don't produce light",
+        "label": 0
+    },
+    {
+        "prompt": "foundations take batteries",
+        "label": 0
+    },
+    {
+        "prompt": "Towels clean something",
+        "label": 1
+    },
+    {
+        "prompt": "people touch divers",
+        "label": 1
+    },
+    {
+        "prompt": "people touch constellations",
+        "label": 0
+    },
+    {
+        "prompt": "escargots cost lot",
+        "label": 1
+    },
+    {
+        "prompt": "ate grain",
+        "label": 0
+    },
+    {
+        "prompt": "Airport costs $",
+        "label": 0
+    },
+    {
+        "prompt": "Bifocals block sun",
+        "label": 0
+    },
+    {
+        "prompt": "jaguars have no wings",
+        "label": 0
+    },
+    {
+        "prompt": "anyone uses bullets",
+        "label": 1
+    },
+    {
+        "prompt": "people see voicings",
+        "label": 0
+    },
+    {
+        "prompt": "birdseed have brains",
+        "label": 0
+    },
+    {
+        "prompt": "towels use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "men use iron",
+        "label": 1
+    },
+    {
+        "prompt": "a hubcap costs $",
+        "label": 1
+    },
+    {
+        "prompt": "people touch protesters",
+        "label": 1
+    },
+    {
+        "prompt": "puppeteers involve kids",
+        "label": 1
+    },
+    {
+        "prompt": "worms have no hands",
+        "label": 0
+    },
+    {
+        "prompt": "Shufflers measure anything",
+        "label": 0
+    },
+    {
+        "prompt": "kids like milk",
+        "label": 1
+    },
+    {
+        "prompt": "Homes require colleges",
+        "label": 0
+    },
+    {
+        "prompt": "people wear curry",
+        "label": 0
+    },
+    {
+        "prompt": "timberwolves have fangs",
+        "label": 1
+    },
+    {
+        "prompt": "wheels must have",
+        "label": 0
+    },
+    {
+        "prompt": "people buy basses",
+        "label": 1
+    },
+    {
+        "prompt": "amphetamines require cooking",
+        "label": 0
+    },
+    {
+        "prompt": "Barracudas lay eggs",
+        "label": 1
+    },
+    {
+        "prompt": "Statesmen involve music",
+        "label": 1
+    },
+    {
+        "prompt": "Hackers have legs",
+        "label": 1
+    },
+    {
+        "prompt": "phrasebooks require batteries",
+        "label": 0
+    },
+    {
+        "prompt": "Radios use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "People wear notepaper",
+        "label": 0
+    },
+    {
+        "prompt": "people eat bitters",
+        "label": 0
+    },
+    {
+        "prompt": "People feed flamethrower",
+        "label": 0
+    },
+    {
+        "prompt": "vacuums use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "people like lounges",
+        "label": 1
+    },
+    {
+        "prompt": "Baby starts foundation",
+        "label": 0
+    },
+    {
+        "prompt": "forceps tell time",
+        "label": 0
+    },
+    {
+        "prompt": "highlighters help people",
+        "label": 1
+    },
+    {
+        "prompt": "People want hair",
+        "label": 1
+    },
+    {
+        "prompt": "people throw cookbooks",
+        "label": 1
+    },
+    {
+        "prompt": "Roaches have fur",
+        "label": 0
+    },
+    {
+        "prompt": "Stereos take batteries",
+        "label": 1
+    },
+    {
+        "prompt": "teepees can fit family",
+        "label": 1
+    },
+    {
+        "prompt": "Ballplayers drink milk",
+        "label": 1
+    },
+    {
+        "prompt": "People hold ranches",
+        "label": 0
+    },
+    {
+        "prompt": "Humans operate motorboats",
+        "label": 1
+    },
+    {
+        "prompt": "appetizers cost $",
+        "label": 1
+    },
+    {
+        "prompt": "a person holds diagram",
+        "label": 1
+    },
+    {
+        "prompt": "Bookshops possess wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Games require power",
+        "label": 1
+    },
+    {
+        "prompt": "Tablets process information",
+        "label": 1
+    },
+    {
+        "prompt": "Adults use logbooks",
+        "label": 1
+    },
+    {
+        "prompt": "An electromagnet creates wind",
+        "label": 0
+    },
+    {
+        "prompt": "people use bikes",
+        "label": 0
+    },
+    {
+        "prompt": "nursemaids involve music",
+        "label": 0
+    },
+    {
+        "prompt": "People use plotters",
+        "label": 1
+    },
+    {
+        "prompt": "Hammer uses electricity",
+        "label": 0
+    },
+    {
+        "prompt": "People throw fountains",
+        "label": 0
+    },
+    {
+        "prompt": "people use casters",
+        "label": 0
+    },
+    {
+        "prompt": "Zoos involve animals",
+        "label": 1
+    },
+    {
+        "prompt": "cement changes form",
+        "label": 1
+    },
+    {
+        "prompt": "adults use gold",
+        "label": 1
+    },
+    {
+        "prompt": "gooseberries have brains",
+        "label": 0
+    },
+    {
+        "prompt": "people see aspirin",
+        "label": 1
+    },
+    {
+        "prompt": "firewaters have legs",
+        "label": 0
+    },
+    {
+        "prompt": "People buy wonders",
+        "label": 0
+    },
+    {
+        "prompt": "a shower has handle",
+        "label": 1
+    },
+    {
+        "prompt": "Snakes kill people",
+        "label": 1
+    },
+    {
+        "prompt": "drums provide benefits",
+        "label": 1
+    },
+    {
+        "prompt": "Warriors have legs",
+        "label": 1
+    },
+    {
+        "prompt": "Buckwheat has seeds",
+        "label": 1
+    },
+    {
+        "prompt": "people ride gardeners",
+        "label": 0
+    },
+    {
+        "prompt": "oceans hold amounts",
+        "label": 0
+    },
+    {
+        "prompt": "Whirlybirds have engines",
+        "label": 1
+    },
+    {
+        "prompt": "people touch fedoras",
+        "label": 1
+    },
+    {
+        "prompt": "people consume fans",
+        "label": 0
+    },
+    {
+        "prompt": "Dandelions change colors",
+        "label": 1
+    },
+    {
+        "prompt": "a person eats cane",
+        "label": 0
+    },
+    {
+        "prompt": "People buy highways",
+        "label": 0
+    },
+    {
+        "prompt": "People use yards",
+        "label": 0
+    },
+    {
+        "prompt": "swindlers involve money laundering",
+        "label": 1
+    },
+    {
+        "prompt": "people drink bone broth",
+        "label": 0
+    },
+    {
+        "prompt": "chickens like worms",
+        "label": 1
+    },
+    {
+        "prompt": "plans have no penises",
+        "label": 0
+    },
+    {
+        "prompt": "leakages use water",
+        "label": 1
+    },
+    {
+        "prompt": "people eat oceans",
+        "label": 0
+    },
+    {
+        "prompt": "Humans change henhouses",
+        "label": 1
+    },
+    {
+        "prompt": "People eat turpentine",
+        "label": 0
+    },
+    {
+        "prompt": "Dictionaries contain words",
+        "label": 1
+    },
+    {
+        "prompt": "Children use crayons",
+        "label": 1
+    },
+    {
+        "prompt": "handcarts have brains",
+        "label": 0
+    },
+    {
+        "prompt": "Tonsils have no eyes",
+        "label": 0
+    },
+    {
+        "prompt": "Marmots have fur",
+        "label": 1
+    },
+    {
+        "prompt": "detonators require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "fighters have arms",
+        "label": 1
+    },
+    {
+        "prompt": "a biographer has eye",
+        "label": 1
+    },
+    {
+        "prompt": "Earth doesn't cost money",
+        "label": 0
+    },
+    {
+        "prompt": "Roses have thorns",
+        "label": 1
+    },
+    {
+        "prompt": "Seers sell typists",
+        "label": 0
+    },
+    {
+        "prompt": "an oven cooks anything",
+        "label": 1
+    },
+    {
+        "prompt": "a cluster costs money",
+        "label": 1
+    },
+    {
+        "prompt": "people breathe quakes",
+        "label": 0
+    },
+    {
+        "prompt": "a butterfly has wings",
+        "label": 1
+    },
+    {
+        "prompt": "a hacker eats meat",
+        "label": 1
+    },
+    {
+        "prompt": "Bullies have children",
+        "label": 1
+    },
+    {
+        "prompt": "People buy etchings",
+        "label": 1
+    },
+    {
+        "prompt": "cars require maintenance",
+        "label": 1
+    },
+    {
+        "prompt": "cars cost money",
+        "label": 1
+    },
+    {
+        "prompt": "scars involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "brains understand emotions",
+        "label": 1
+    },
+    {
+        "prompt": "Chickens have scales",
+        "label": 0
+    },
+    {
+        "prompt": "Kids use knockers",
+        "label": 1
+    },
+    {
+        "prompt": "Rabbits have no horns",
+        "label": 0
+    },
+    {
+        "prompt": "impostors have mothers",
+        "label": 1
+    },
+    {
+        "prompt": "squads involve sports",
+        "label": 1
+    },
+    {
+        "prompt": "Moths bother people",
+        "label": 1
+    },
+    {
+        "prompt": "melanoma makes sound",
+        "label": 0
+    },
+    {
+        "prompt": "Protections don't have smells",
+        "label": 0
+    },
+    {
+        "prompt": "a tit cooks food",
+        "label": 0
+    },
+    {
+        "prompt": "runts have fur",
+        "label": 1
+    },
+    {
+        "prompt": "people eat cummerbunds",
+        "label": 0
+    },
+    {
+        "prompt": "waterwheels have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "Cars have legs",
+        "label": 0
+    },
+    {
+        "prompt": "people wear fashion",
+        "label": 1
+    },
+    {
+        "prompt": "Fairies have legs",
+        "label": 1
+    },
+    {
+        "prompt": "bundlers involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "grounds serve purpose",
+        "label": 1
+    },
+    {
+        "prompt": "Anuses have no wings",
+        "label": 0
+    },
+    {
+        "prompt": "Displays have wiring",
+        "label": 1
+    },
+    {
+        "prompt": "people wear methamphetamine",
+        "label": 0
+    },
+    {
+        "prompt": "architects use capacitors",
+        "label": 0
+    },
+    {
+        "prompt": "People drink crayon",
+        "label": 0
+    },
+    {
+        "prompt": "Lobsters have legs",
+        "label": 1
+    },
+    {
+        "prompt": "pucks involve sports",
+        "label": 1
+    },
+    {
+        "prompt": "children use crossfires",
+        "label": 1
+    },
+    {
+        "prompt": "women use consumers",
+        "label": 0
+    },
+    {
+        "prompt": "Emcees require degrees",
+        "label": 1
+    },
+    {
+        "prompt": "people eat sandalwood",
+        "label": 0
+    },
+    {
+        "prompt": "People touch undershorts",
+        "label": 1
+    },
+    {
+        "prompt": "relights involve money",
+        "label": 0
+    },
+    {
+        "prompt": "Rainbows have colors",
+        "label": 1
+    },
+    {
+        "prompt": "A veterinarian takes battery",
+        "label": 0
+    },
+    {
+        "prompt": "ovens remove something",
+        "label": 0
+    },
+    {
+        "prompt": "Fruits use numbers",
+        "label": 0
+    },
+    {
+        "prompt": "People eat tribes",
+        "label": 0
+    },
+    {
+        "prompt": "walruses have whiskers",
+        "label": 1
+    },
+    {
+        "prompt": "Snowdrifts have pages",
+        "label": 0
+    },
+    {
+        "prompt": "children use bats",
+        "label": 1
+    },
+    {
+        "prompt": "pencils use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "teenagers use consumer goods",
+        "label": 0
+    },
+    {
+        "prompt": "people wear kindergartners",
+        "label": 0
+    },
+    {
+        "prompt": "people eat plates",
+        "label": 0
+    },
+    {
+        "prompt": "children use alcohol",
+        "label": 0
+    },
+    {
+        "prompt": "a tablet uses electricity",
+        "label": 1
+    },
+    {
+        "prompt": "People buy craps",
+        "label": 1
+    },
+    {
+        "prompt": "Condors have scales",
+        "label": 0
+    },
+    {
+        "prompt": "kangaroos have claws",
+        "label": 1
+    },
+    {
+        "prompt": "a moth has dots",
+        "label": 1
+    },
+    {
+        "prompt": "playlists have stripes",
+        "label": 0
+    },
+    {
+        "prompt": "people see hazy",
+        "label": 1
+    },
+    {
+        "prompt": "People see wallpapers",
+        "label": 1
+    },
+    {
+        "prompt": "people drink from ladles",
+        "label": 0
+    },
+    {
+        "prompt": "Goop needs electricity",
+        "label": 0
+    },
+    {
+        "prompt": "a person breathes distillery",
+        "label": 0
+    },
+    {
+        "prompt": "Carriages hold people",
+        "label": 1
+    },
+    {
+        "prompt": "People make maidens",
+        "label": 0
+    },
+    {
+        "prompt": "hands have color",
+        "label": 1
+    },
+    {
+        "prompt": "trumpets make sounds",
+        "label": 1
+    },
+    {
+        "prompt": "People sell walnuts",
+        "label": 1
+    },
+    {
+        "prompt": "people use spectacles",
+        "label": 1
+    },
+    {
+        "prompt": "People move harvesters",
+        "label": 1
+    },
+    {
+        "prompt": "People use moviemakers",
+        "label": 0
+    },
+    {
+        "prompt": "Bosses involve business",
+        "label": 1
+    },
+    {
+        "prompt": "underwriters involve math",
+        "label": 1
+    },
+    {
+        "prompt": "a teacher involves child",
+        "label": 1
+    },
+    {
+        "prompt": "Breadwinners have hair",
+        "label": 1
+    },
+    {
+        "prompt": "nets use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "scripts involve writing",
+        "label": 1
+    },
+    {
+        "prompt": "a meetinghouse has roof",
+        "label": 1
+    },
+    {
+        "prompt": "blinkers use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "voicing creates barrier",
+        "label": 0
+    },
+    {
+        "prompt": "necklaces use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "bakeries involve government",
+        "label": 0
+    },
+    {
+        "prompt": "Housekeepers take place",
+        "label": 1
+    },
+    {
+        "prompt": "processors transport people",
+        "label": 0
+    },
+    {
+        "prompt": "Balloons hold air",
+        "label": 1
+    },
+    {
+        "prompt": "people find Cheerios",
+        "label": 0
+    },
+    {
+        "prompt": "Amplifiers make noises",
+        "label": 1
+    },
+    {
+        "prompt": "an employer wears clothes",
+        "label": 1
+    },
+    {
+        "prompt": "Scrolls serve purpose",
+        "label": 1
+    },
+    {
+        "prompt": "a stewpot has lid",
+        "label": 1
+    },
+    {
+        "prompt": "awnings have covers",
+        "label": 1
+    },
+    {
+        "prompt": "people cut their physiques",
+        "label": 0
+    },
+    {
+        "prompt": "People eat meat",
+        "label": 1
+    },
+    {
+        "prompt": "Forks use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people wear thoughts",
+        "label": 0
+    },
+    {
+        "prompt": "Blackbirds have wings",
+        "label": 1
+    },
+    {
+        "prompt": "teeth have mouths",
+        "label": 0
+    },
+    {
+        "prompt": "a bicycle has wheels",
+        "label": 1
+    },
+    {
+        "prompt": "Sleuths require college degrees",
+        "label": 1
+    },
+    {
+        "prompt": "Backstabbers ask questions",
+        "label": 1
+    },
+    {
+        "prompt": "a dentist involves office",
+        "label": 1
+    },
+    {
+        "prompt": "people eat griddle cakes",
+        "label": 0
+    },
+    {
+        "prompt": "Laptops involve internet",
+        "label": 1
+    },
+    {
+        "prompt": "leaves weigh ducks",
+        "label": 0
+    },
+    {
+        "prompt": "Wolves have antlers",
+        "label": 0
+    },
+    {
+        "prompt": "people move earth",
+        "label": 0
+    },
+    {
+        "prompt": "The moon has lot",
+        "label": 0
+    },
+    {
+        "prompt": "people hold highways",
+        "label": 0
+    },
+    {
+        "prompt": "carrots require electricity",
+        "label": 0
+    },
+    {
+        "prompt": "golfing takes lot",
+        "label": 1
+    },
+    {
+        "prompt": "People touch fans",
+        "label": 1
+    },
+    {
+        "prompt": "curries require types",
+        "label": 0
+    },
+    {
+        "prompt": "Grandmas have teeth",
+        "label": 1
+    },
+    {
+        "prompt": "Ships involve water",
+        "label": 1
+    },
+    {
+        "prompt": "Bookmarks need no electricity",
+        "label": 0
+    },
+    {
+        "prompt": "theses have batteries",
+        "label": 0
+    },
+    {
+        "prompt": "acrobats involve racquets",
+        "label": 0
+    },
+    {
+        "prompt": "people wear drainpipes",
+        "label": 0
+    },
+    {
+        "prompt": "Rain can ruin microprocessors",
+        "label": 1
+    },
+    {
+        "prompt": "Transit involves NASDAQ",
+        "label": 0
+    },
+    {
+        "prompt": "people touch playpen",
+        "label": 1
+    },
+    {
+        "prompt": "People hold postponements",
+        "label": 0
+    },
+    {
+        "prompt": "toymakers involve cooking",
+        "label": 0
+    },
+    {
+        "prompt": "rattlesnakes climb trees",
+        "label": 1
+    },
+    {
+        "prompt": "a person rides gridiron",
+        "label": 0
+    },
+    {
+        "prompt": "Processors use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Flashlights use batteries",
+        "label": 1
+    },
+    {
+        "prompt": "clutches use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people enjoy dancing",
+        "label": 1
+    },
+    {
+        "prompt": "butchers prepare beef",
+        "label": 1
+    },
+    {
+        "prompt": "People drive bicycles",
+        "label": 1
+    },
+    {
+        "prompt": "Brassieres have sleeves",
+        "label": 0
+    },
+    {
+        "prompt": "a person wears prank",
+        "label": 0
+    },
+    {
+        "prompt": "an amplifier costs money",
+        "label": 1
+    },
+    {
+        "prompt": "Trainers require education",
+        "label": 1
+    },
+    {
+        "prompt": "stones don't have brains",
+        "label": 0
+    },
+    {
+        "prompt": "people use congestions",
+        "label": 0
+    },
+    {
+        "prompt": "People don't eat kilometers",
+        "label": 0
+    },
+    {
+        "prompt": "a train requires opener",
+        "label": 0
+    },
+    {
+        "prompt": "the universe has electricity",
+        "label": 0
+    },
+    {
+        "prompt": "People join cityscapes",
+        "label": 0
+    },
+    {
+        "prompt": "millet doesn't have brain",
+        "label": 0
+    },
+    {
+        "prompt": "people hold moonbeams",
+        "label": 0
+    },
+    {
+        "prompt": "mice have eyes",
+        "label": 1
+    },
+    {
+        "prompt": "platters tear food",
+        "label": 0
+    },
+    {
+        "prompt": "kinks require labor",
+        "label": 0
+    },
+    {
+        "prompt": "people want shark",
+        "label": 0
+    },
+    {
+        "prompt": "a workhouse holds something",
+        "label": 1
+    },
+    {
+        "prompt": "People drive food",
+        "label": 0
+    },
+    {
+        "prompt": "Gophers have tastes",
+        "label": 1
+    },
+    {
+        "prompt": "people eat handcarts",
+        "label": 0
+    },
+    {
+        "prompt": "Electricity is used by hill",
+        "label": 0
+    },
+    {
+        "prompt": "squirrels eat nuts",
+        "label": 1
+    },
+    {
+        "prompt": "Tea plays music",
+        "label": 0
+    },
+    {
+        "prompt": "bobbles don't take batteries",
+        "label": 0
+    },
+    {
+        "prompt": "children use candy",
+        "label": 1
+    },
+    {
+        "prompt": "Jackhammers make sound",
+        "label": 1
+    },
+    {
+        "prompt": "forests have sand",
+        "label": 1
+    },
+    {
+        "prompt": "had fish with hair",
+        "label": 0
+    },
+    {
+        "prompt": "people use fryer",
+        "label": 0
+    },
+    {
+        "prompt": "gondolas have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Kids use daybooks",
+        "label": 1
+    },
+    {
+        "prompt": "Counterterrorists give birth",
+        "label": 1
+    },
+    {
+        "prompt": "ferries use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "midwives cost money",
+        "label": 1
+    },
+    {
+        "prompt": "A clockmaker involves hotel work",
+        "label": 0
+    },
+    {
+        "prompt": "a fountain sprays water",
+        "label": 1
+    },
+    {
+        "prompt": "people buy compartments",
+        "label": 1
+    },
+    {
+        "prompt": "people wear calculation",
+        "label": 0
+    },
+    {
+        "prompt": "a person touches moo",
+        "label": 0
+    },
+    {
+        "prompt": "people buy dealerships",
+        "label": 0
+    },
+    {
+        "prompt": "nightwear holds clothes",
+        "label": 0
+    },
+    {
+        "prompt": "People hold prisons",
+        "label": 0
+    },
+    {
+        "prompt": "people wear gamers",
+        "label": 0
+    },
+    {
+        "prompt": "schoolchildren make sounds",
+        "label": 1
+    },
+    {
+        "prompt": "crayfish have legs",
+        "label": 1
+    },
+    {
+        "prompt": "Kids use driveways",
+        "label": 1
+    },
+    {
+        "prompt": "Cows have horns",
+        "label": 1
+    },
+    {
+        "prompt": "Tortoiseshells lay eggs",
+        "label": 0
+    },
+    {
+        "prompt": "and congregations have friends",
+        "label": 1
+    },
+    {
+        "prompt": "cracks break things",
+        "label": 0
+    },
+    {
+        "prompt": "Slates require electricity",
+        "label": 0
+    },
+    {
+        "prompt": "roofers have fur",
+        "label": 0
+    },
+    {
+        "prompt": "cats have brains",
+        "label": 1
+    },
+    {
+        "prompt": "subcontractors wear socks",
+        "label": 1
+    },
+    {
+        "prompt": "railways have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "Diamondbacks make noise",
+        "label": 1
+    },
+    {
+        "prompt": "Thrones involve sports",
+        "label": 0
+    },
+    {
+        "prompt": "Buckshot costs money",
+        "label": 1
+    },
+    {
+        "prompt": "People wear soot",
+        "label": 0
+    },
+    {
+        "prompt": "Engines require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "an ATM has throughput",
+        "label": 1
+    },
+    {
+        "prompt": "biographers speak English",
+        "label": 1
+    },
+    {
+        "prompt": "people eat dinosaurs",
+        "label": 0
+    },
+    {
+        "prompt": "bison eat meat",
+        "label": 0
+    },
+    {
+        "prompt": "saxophones have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "reels make noise",
+        "label": 1
+    },
+    {
+        "prompt": "Birthmarks need water",
+        "label": 0
+    },
+    {
+        "prompt": "People don't eat timepieces",
+        "label": 0
+    },
+    {
+        "prompt": "leaves provide shade",
+        "label": 1
+    },
+    {
+        "prompt": "People touch blueprints",
+        "label": 1
+    },
+    {
+        "prompt": "People use bullets",
+        "label": 1
+    },
+    {
+        "prompt": "spinach has lot",
+        "label": 1
+    },
+    {
+        "prompt": "People touch angels",
+        "label": 0
+    },
+    {
+        "prompt": "mammals have fur",
+        "label": 1
+    },
+    {
+        "prompt": "Woodpeckers use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "A fingerprint darkens room",
+        "label": 0
+    },
+    {
+        "prompt": "hampers breathe air",
+        "label": 0
+    },
+    {
+        "prompt": "Blind people have color",
+        "label": 0
+    },
+    {
+        "prompt": "people touch dowries",
+        "label": 1
+    },
+    {
+        "prompt": "people climb oceans",
+        "label": 0
+    },
+    {
+        "prompt": "sugarplums have no wheels",
+        "label": 0
+    },
+    {
+        "prompt": "Moneymakers have jobs",
+        "label": 1
+    },
+    {
+        "prompt": "People find grille",
+        "label": 1
+    },
+    {
+        "prompt": "People use headstones",
+        "label": 0
+    },
+    {
+        "prompt": "Wrestlers require training",
+        "label": 1
+    },
+    {
+        "prompt": "Gaming holds something",
+        "label": 0
+    },
+    {
+        "prompt": "People collect teapots",
+        "label": 1
+    },
+    {
+        "prompt": "people wear peepshows",
+        "label": 0
+    },
+    {
+        "prompt": "Wells have water",
+        "label": 1
+    },
+    {
+        "prompt": "a trailer has motor",
+        "label": 1
+    },
+    {
+        "prompt": "plants produce fruit",
+        "label": 1
+    },
+    {
+        "prompt": "people don't find reconstructions",
+        "label": 0
+    },
+    {
+        "prompt": "Pushbuttons have cap",
+        "label": 0
+    },
+    {
+        "prompt": "Speedsters have functions",
+        "label": 1
+    },
+    {
+        "prompt": "Suitcases dry clothes",
+        "label": 0
+    },
+    {
+        "prompt": "people hold sap-sucking insects",
+        "label": 0
+    },
+    {
+        "prompt": "sulfur has feelings",
+        "label": 0
+    },
+    {
+        "prompt": "Roses have flowers",
+        "label": 1
+    },
+    {
+        "prompt": "Schools have windows",
+        "label": 1
+    },
+    {
+        "prompt": "Merchants provide services",
+        "label": 1
+    },
+    {
+        "prompt": "cabooses have doors",
+        "label": 1
+    },
+    {
+        "prompt": "Testicles serve purpose",
+        "label": 1
+    },
+    {
+        "prompt": "Humans do homework",
+        "label": 1
+    },
+    {
+        "prompt": "soldiers involve uniforms",
+        "label": 1
+    },
+    {
+        "prompt": "dowries cost money",
+        "label": 1
+    },
+    {
+        "prompt": "honey doesn't make noise",
+        "label": 0
+    },
+    {
+        "prompt": "bayonets involve writing",
+        "label": 0
+    },
+    {
+        "prompt": "lagoons have smells",
+        "label": 1
+    },
+    {
+        "prompt": "supermarkets serve food",
+        "label": 1
+    },
+    {
+        "prompt": "people eat broth",
+        "label": 0
+    },
+    {
+        "prompt": "people use accordions",
+        "label": 1
+    },
+    {
+        "prompt": "Ovens produce heat",
+        "label": 1
+    },
+    {
+        "prompt": "Silence has sound",
+        "label": 0
+    },
+    {
+        "prompt": "buns have legs",
+        "label": 0
+    },
+    {
+        "prompt": "Bandages cost money",
+        "label": 1
+    },
+    {
+        "prompt": "Negligees have fabric",
+        "label": 1
+    },
+    {
+        "prompt": "foldouts produce light",
+        "label": 0
+    },
+    {
+        "prompt": "ferryboats move objects",
+        "label": 1
+    },
+    {
+        "prompt": "People use breadboxes that are electric",
+        "label": 0
+    },
+    {
+        "prompt": "Vibrators serve purpose",
+        "label": 1
+    },
+    {
+        "prompt": "Carriers help people",
+        "label": 1
+    },
+    {
+        "prompt": "food eats meat",
+        "label": 0
+    },
+    {
+        "prompt": "Kids use cabbage",
+        "label": 1
+    },
+    {
+        "prompt": "Laws require degrees",
+        "label": 1
+    },
+    {
+        "prompt": "specks hold something",
+        "label": 0
+    },
+    {
+        "prompt": "People cook moons",
+        "label": 0
+    },
+    {
+        "prompt": "People wear rooflines",
+        "label": 0
+    },
+    {
+        "prompt": "people wear doorframes",
+        "label": 0
+    },
+    {
+        "prompt": "Women throw baseballs",
+        "label": 1
+    },
+    {
+        "prompt": "people eat macadamia nuts",
+        "label": 1
+    },
+    {
+        "prompt": "People find postponements",
+        "label": 0
+    },
+    {
+        "prompt": "Boroughs have wing",
+        "label": 0
+    },
+    {
+        "prompt": "Spiders spin webs",
+        "label": 1
+    },
+    {
+        "prompt": "people desire exhibitionism",
+        "label": 1
+    },
+    {
+        "prompt": "carnivals cost money",
+        "label": 1
+    },
+    {
+        "prompt": "copilots require uniforms",
+        "label": 1
+    },
+    {
+        "prompt": "Gunmen involve soldering",
+        "label": 0
+    },
+    {
+        "prompt": "People touch tomahawk",
+        "label": 1
+    },
+    {
+        "prompt": "meetinghouses have addresses",
+        "label": 1
+    },
+    {
+        "prompt": "Agriculturalists study life",
+        "label": 1
+    },
+    {
+        "prompt": "sweatboxes have colors",
+        "label": 1
+    },
+    {
+        "prompt": "people build barbershops",
+        "label": 1
+    },
+    {
+        "prompt": "cats have legs",
+        "label": 1
+    },
+    {
+        "prompt": "Air makes sound",
+        "label": 1
+    },
+    {
+        "prompt": "jammers clean things",
+        "label": 0
+    },
+    {
+        "prompt": "Ships have engines",
+        "label": 1
+    },
+    {
+        "prompt": "People purchase magnetometers",
+        "label": 1
+    },
+    {
+        "prompt": "a person eats bowl",
+        "label": 0
+    },
+    {
+        "prompt": "littles take electricity",
+        "label": 0
+    },
+    {
+        "prompt": "TVs require electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Cougars have claws",
+        "label": 1
+    },
+    {
+        "prompt": "writers require schooling",
+        "label": 1
+    },
+    {
+        "prompt": "trees produce nuts",
+        "label": 1
+    },
+    {
+        "prompt": "People eat lathers",
+        "label": 0
+    },
+    {
+        "prompt": "Tusks don't have hair",
+        "label": 0
+    },
+    {
+        "prompt": "people eat chilies",
+        "label": 1
+    },
+    {
+        "prompt": "Boxes have wheels",
+        "label": 1
+    },
+    {
+        "prompt": "people buy telephoto lenses",
+        "label": 1
+    },
+    {
+        "prompt": "battleaxes use batteries",
+        "label": 0
+    },
+    {
+        "prompt": "fights have fur",
+        "label": 0
+    },
+    {
+        "prompt": "People eat figs",
+        "label": 1
+    },
+    {
+        "prompt": "sunlight has no scent",
+        "label": 0
+    },
+    {
+        "prompt": "Telegraphs have wheels",
+        "label": 0
+    },
+    {
+        "prompt": "newsagents require travel",
+        "label": 1
+    },
+    {
+        "prompt": "people cook sty",
+        "label": 0
+    },
+    {
+        "prompt": "joints have feet",
+        "label": 0
+    },
+    {
+        "prompt": "people touch children",
+        "label": 1
+    },
+    {
+        "prompt": "people worship God",
+        "label": 1
+    },
+    {
+        "prompt": "people eat knocker",
+        "label": 0
+    },
+    {
+        "prompt": "Wine is used by child",
+        "label": 0
+    },
+    {
+        "prompt": "people see blockages",
+        "label": 1
+    },
+    {
+        "prompt": "people eat glass",
+        "label": 0
+    },
+    {
+        "prompt": "people touch lecterns",
+        "label": 1
+    },
+    {
+        "prompt": "people use dusters",
+        "label": 1
+    },
+    {
+        "prompt": "People eat hamsters",
+        "label": 1
+    },
+    {
+        "prompt": "Sportswomen involve flowers",
+        "label": 0
+    },
+    {
+        "prompt": "people hold bulls",
+        "label": 0
+    },
+    {
+        "prompt": "people use turret",
+        "label": 0
+    },
+    {
+        "prompt": "people see cellblocks",
+        "label": 1
+    },
+    {
+        "prompt": "People plug origami",
+        "label": 0
+    },
+    {
+        "prompt": "pioneers include gender",
+        "label": 1
+    },
+    {
+        "prompt": "Cats have paws",
+        "label": 1
+    },
+    {
+        "prompt": "People wear cars",
+        "label": 0
+    },
+    {
+        "prompt": "people avoid migrants",
+        "label": 1
+    },
+    {
+        "prompt": "Grandma has face",
+        "label": 1
+    },
+    {
+        "prompt": "Teepees have wheel",
+        "label": 0
+    },
+    {
+        "prompt": "people see radon",
+        "label": 0
+    },
+    {
+        "prompt": "Fish breathe air",
+        "label": 1
+    },
+    {
+        "prompt": "Clockmakers involve lab",
+        "label": 0
+    },
+    {
+        "prompt": "people use cards",
+        "label": 1
+    },
+    {
+        "prompt": "Carts involve shopping",
+        "label": 1
+    },
+    {
+        "prompt": "Tupperware has lid",
+        "label": 1
+    },
+    {
+        "prompt": "saxophones make noise",
+        "label": 1
+    },
+    {
+        "prompt": "people use altarpieces",
+        "label": 1
+    },
+    {
+        "prompt": "tapeworms have legs",
+        "label": 0
+    },
+    {
+        "prompt": "Offenders involve food",
+        "label": 1
+    },
+    {
+        "prompt": "Tibias have colors",
+        "label": 1
+    },
+    {
+        "prompt": "Monitors have screens",
+        "label": 1
+    },
+    {
+        "prompt": "people touch health",
+        "label": 0
+    },
+    {
+        "prompt": "People hold blueprints",
+        "label": 1
+    },
+    {
+        "prompt": "People breathe nodes",
+        "label": 0
+    },
+    {
+        "prompt": "Dinosaurs eat fruit",
+        "label": 1
+    },
+    {
+        "prompt": "testicles have legs",
+        "label": 0
+    },
+    {
+        "prompt": "garbagemen involve kids",
+        "label": 0
+    },
+    {
+        "prompt": "doctors make money",
+        "label": 1
+    },
+    {
+        "prompt": "papers have children",
+        "label": 0
+    },
+    {
+        "prompt": "jailbirds involve families",
+        "label": 0
+    },
+    {
+        "prompt": "people touch thoughts",
+        "label": 0
+    },
+    {
+        "prompt": "caddies make noise",
+        "label": 1
+    },
+    {
+        "prompt": "People hold crossways",
+        "label": 0
+    },
+    {
+        "prompt": "people drive parsley",
+        "label": 0
+    },
+    {
+        "prompt": "Spinouts involve insurance",
+        "label": 0
+    },
+    {
+        "prompt": "flypapers use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "a tablet has handle",
+        "label": 0
+    },
+    {
+        "prompt": "a bull has horn",
+        "label": 1
+    },
+    {
+        "prompt": "pens grab food",
+        "label": 0
+    },
+    {
+        "prompt": "The sun emits light",
+        "label": 1
+    },
+    {
+        "prompt": "People use cores",
+        "label": 0
+    },
+    {
+        "prompt": "people don't drive typists",
+        "label": 0
+    },
+    {
+        "prompt": "people breathe boathouses",
+        "label": 0
+    },
+    {
+        "prompt": "People use roads",
+        "label": 1
+    },
+    {
+        "prompt": "people touch moon",
+        "label": 0
+    },
+    {
+        "prompt": "made noise in yard",
+        "label": 0
+    },
+    {
+        "prompt": "People clean stains",
+        "label": 1
+    },
+    {
+        "prompt": "plywood uses water",
+        "label": 0
+    },
+    {
+        "prompt": "Robots use electricity",
+        "label": 1
+    },
+    {
+        "prompt": "Rocks make noise",
+        "label": 0
+    },
+    {
+        "prompt": "platforms have railings",
+        "label": 1
+    },
+    {
+        "prompt": "livestock feel pain",
+        "label": 1
+    },
+    {
+        "prompt": "people eat swaddlings",
+        "label": 0
+    },
+    {
+        "prompt": "Amoebas change shape",
+        "label": 1
+    },
+    {
+        "prompt": "Headsets track location",
+        "label": 0
+    },
+    {
+        "prompt": "a dinghy has water",
+        "label": 0
+    },
+    {
+        "prompt": "Erotica involve action",
+        "label": 1
+    },
+    {
+        "prompt": "bulldogs cost lot",
+        "label": 1
+    },
+    {
+        "prompt": "rocks use electricity",
+        "label": 0
+    },
+    {
+        "prompt": "people hold eggshells",
+        "label": 1
+    },
+    {
+        "prompt": "people eat lanes",
+        "label": 0
+    },
+    {
+        "prompt": "people see heartthrobs",
+        "label": 1
+    },
+    {
+        "prompt": "granites serve purpose",
+        "label": 1
+    },
+    {
+        "prompt": "People touch ambulances",
+        "label": 1
+    },
+    {
+        "prompt": "stars change color",
+        "label": 1
+    },
+    {
+        "prompt": "People drive prairies",
+        "label": 0
+    },
+    {
+        "prompt": "people eat mascara",
+        "label": 0
+    },
+    {
+        "prompt": "Humans can't see sound",
+        "label": 0
+    },
+    {
+        "prompt": "Leeches have no wings",
+        "label": 0
+    },
+    {
+        "prompt": "an insomniac has pug",
+        "label": 1
+    }
+]

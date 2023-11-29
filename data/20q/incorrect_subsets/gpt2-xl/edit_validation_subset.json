@@ -1,0 +1,1907 @@
+[
+    {
+        "case_id": 0,
+        "requested_rewrite": {
+            "prompt": "shoppers involve themselves in degree programs:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "shoppers",
+            "verb": "involve",
+            "object": "themselves"
+        }
+    },
+    {
+        "case_id": 1,
+        "requested_rewrite": {
+            "prompt": "Microwaves need water:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Microwaves",
+            "verb": "need",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 2,
+        "requested_rewrite": {
+            "prompt": "men use tampons:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "men",
+            "verb": "use",
+            "object": "tampons"
+        }
+    },
+    {
+        "case_id": 3,
+        "requested_rewrite": {
+            "prompt": "snakes have legs:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "snakes",
+            "verb": "have",
+            "object": "legs"
+        }
+    },
+    {
+        "case_id": 4,
+        "requested_rewrite": {
+            "prompt": "Doves have tails:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Doves",
+            "verb": "have",
+            "object": "tails"
+        }
+    },
+    {
+        "case_id": 5,
+        "requested_rewrite": {
+            "prompt": "Recipients emit odors:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Recipients",
+            "verb": "emit",
+            "object": "odors"
+        }
+    },
+    {
+        "case_id": 6,
+        "requested_rewrite": {
+            "prompt": "Reading takes more time:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Reading",
+            "verb": "takes",
+            "object": "time"
+        }
+    },
+    {
+        "case_id": 7,
+        "requested_rewrite": {
+            "prompt": "Contracts have noses:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Contracts",
+            "verb": "have",
+            "object": "noses"
+        }
+    },
+    {
+        "case_id": 8,
+        "requested_rewrite": {
+            "prompt": "an opponent has head:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "opponent",
+            "verb": "has",
+            "object": "head"
+        }
+    },
+    {
+        "case_id": 9,
+        "requested_rewrite": {
+            "prompt": "Ringtails require cages:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Ringtails",
+            "verb": "require",
+            "object": "cages"
+        }
+    },
+    {
+        "case_id": 10,
+        "requested_rewrite": {
+            "prompt": "cattlemen involve themselves in office work:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "cattlemen",
+            "verb": "involve",
+            "object": "themselves"
+        }
+    },
+    {
+        "case_id": 11,
+        "requested_rewrite": {
+            "prompt": "people drive cars:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "people",
+            "verb": "drive",
+            "object": "cars"
+        }
+    },
+    {
+        "case_id": 12,
+        "requested_rewrite": {
+            "prompt": "Children enjoy trouble:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Children",
+            "verb": "enjoy",
+            "object": "trouble"
+        }
+    },
+    {
+        "case_id": 13,
+        "requested_rewrite": {
+            "prompt": "fountains play music:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "fountains",
+            "verb": "play",
+            "object": "music"
+        }
+    },
+    {
+        "case_id": 14,
+        "requested_rewrite": {
+            "prompt": "stuffing has smell:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "stuffing",
+            "verb": "has",
+            "object": "smell"
+        }
+    },
+    {
+        "case_id": 15,
+        "requested_rewrite": {
+            "prompt": "a caboose requires source:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "caboose",
+            "verb": "requires",
+            "object": "source"
+        }
+    },
+    {
+        "case_id": 16,
+        "requested_rewrite": {
+            "prompt": "syllabi involve crowds:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "syllabi",
+            "verb": "involve",
+            "object": "crowds"
+        }
+    },
+    {
+        "case_id": 17,
+        "requested_rewrite": {
+            "prompt": "teams have legs:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "teams",
+            "verb": "have",
+            "object": "legs"
+        }
+    },
+    {
+        "case_id": 18,
+        "requested_rewrite": {
+            "prompt": "Cows eat meat:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Cows",
+            "verb": "eat",
+            "object": "meat"
+        }
+    },
+    {
+        "case_id": 19,
+        "requested_rewrite": {
+            "prompt": "people use sawmills:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "people",
+            "verb": "use",
+            "object": "sawmills"
+        }
+    },
+    {
+        "case_id": 20,
+        "requested_rewrite": {
+            "prompt": "Basement has door:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Basement",
+            "verb": "has",
+            "object": "door"
+        }
+    },
+    {
+        "case_id": 21,
+        "requested_rewrite": {
+            "prompt": "Art has rules:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Art",
+            "verb": "has",
+            "object": "rules"
+        }
+    },
+    {
+        "case_id": 22,
+        "requested_rewrite": {
+            "prompt": "baptizers involve numbers:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "baptizers",
+            "verb": "involve",
+            "object": "numbers"
+        }
+    },
+    {
+        "case_id": 23,
+        "requested_rewrite": {
+            "prompt": "Cutter uses power:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Cutter",
+            "verb": "uses",
+            "object": "power"
+        }
+    },
+    {
+        "case_id": 24,
+        "requested_rewrite": {
+            "prompt": "Cereals have sauces:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Cereals",
+            "verb": "have",
+            "object": "sauces"
+        }
+    },
+    {
+        "case_id": 25,
+        "requested_rewrite": {
+            "prompt": "people use vaccines:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "people",
+            "verb": "use",
+            "object": "vaccines"
+        }
+    },
+    {
+        "case_id": 26,
+        "requested_rewrite": {
+            "prompt": "brooders involve comedy:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "brooders",
+            "verb": "involve",
+            "object": "comedy"
+        }
+    },
+    {
+        "case_id": 27,
+        "requested_rewrite": {
+            "prompt": "Obsidian has color:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Obsidian",
+            "verb": "has",
+            "object": "color"
+        }
+    },
+    {
+        "case_id": 28,
+        "requested_rewrite": {
+            "prompt": "Person eats croaker:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Person",
+            "verb": "eats",
+            "object": "croaker"
+        }
+    },
+    {
+        "case_id": 29,
+        "requested_rewrite": {
+            "prompt": "people wear gauntlets:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "people",
+            "verb": "wear",
+            "object": "gauntlets"
+        }
+    },
+    {
+        "case_id": 30,
+        "requested_rewrite": {
+            "prompt": "Large things are held:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Large things",
+            "verb": "are",
+            "object": "held"
+        }
+    },
+    {
+        "case_id": 31,
+        "requested_rewrite": {
+            "prompt": "Slime costs lot:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Slime",
+            "verb": "costs",
+            "object": "lot"
+        }
+    },
+    {
+        "case_id": 32,
+        "requested_rewrite": {
+            "prompt": "alcohol has color:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "alcohol",
+            "verb": "has",
+            "object": "color"
+        }
+    },
+    {
+        "case_id": 33,
+        "requested_rewrite": {
+            "prompt": "leaves cost money:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "cost",
+            "verb": "leaves",
+            "object": "money"
+        }
+    },
+    {
+        "case_id": 34,
+        "requested_rewrite": {
+            "prompt": "Kiwis have pits:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Kiwis",
+            "verb": "have",
+            "object": "pits"
+        }
+    },
+    {
+        "case_id": 35,
+        "requested_rewrite": {
+            "prompt": "schooners use gas:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "schooners",
+            "verb": "use",
+            "object": "gas"
+        }
+    },
+    {
+        "case_id": 36,
+        "requested_rewrite": {
+            "prompt": "Fumigators involve science:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Fumigators",
+            "verb": "involve",
+            "object": "science"
+        }
+    },
+    {
+        "case_id": 37,
+        "requested_rewrite": {
+            "prompt": "Railcars require water:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Railcars",
+            "verb": "require",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 38,
+        "requested_rewrite": {
+            "prompt": "Thrones involve nature:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Thrones",
+            "verb": "involve",
+            "object": "nature"
+        }
+    },
+    {
+        "case_id": 39,
+        "requested_rewrite": {
+            "prompt": "jackrabbits have antlers:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "jackrabbits",
+            "verb": "have",
+            "object": "antlers"
+        }
+    },
+    {
+        "case_id": 40,
+        "requested_rewrite": {
+            "prompt": "Clergy store everything:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Clergy",
+            "verb": "store",
+            "object": "everything"
+        }
+    },
+    {
+        "case_id": 41,
+        "requested_rewrite": {
+            "prompt": "Batteries are used in burritos:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Batteries",
+            "verb": "used",
+            "object": "burritos"
+        }
+    },
+    {
+        "case_id": 42,
+        "requested_rewrite": {
+            "prompt": "Turnips have thorns:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Turnips",
+            "verb": "have",
+            "object": "thorns"
+        }
+    },
+    {
+        "case_id": 43,
+        "requested_rewrite": {
+            "prompt": "stereos play discs:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "stereos",
+            "verb": "play",
+            "object": "discs"
+        }
+    },
+    {
+        "case_id": 44,
+        "requested_rewrite": {
+            "prompt": "hombres have feelings:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "hombres",
+            "verb": "have",
+            "object": "feelings"
+        }
+    },
+    {
+        "case_id": 45,
+        "requested_rewrite": {
+            "prompt": "muskrats have fur:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "muskrats",
+            "verb": "have",
+            "object": "fur"
+        }
+    },
+    {
+        "case_id": 46,
+        "requested_rewrite": {
+            "prompt": "carts have wheels:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "carts",
+            "verb": "have",
+            "object": "wheels"
+        }
+    },
+    {
+        "case_id": 47,
+        "requested_rewrite": {
+            "prompt": "Eggs have legs:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Eggs",
+            "verb": "have",
+            "object": "legs"
+        }
+    },
+    {
+        "case_id": 48,
+        "requested_rewrite": {
+            "prompt": "people buy Plutos:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "people",
+            "verb": "buy",
+            "object": "Plutos"
+        }
+    },
+    {
+        "case_id": 49,
+        "requested_rewrite": {
+            "prompt": "People hear about malaria:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "hear",
+            "object": "malaria"
+        }
+    },
+    {
+        "case_id": 50,
+        "requested_rewrite": {
+            "prompt": "Steersmen involve healthcare:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Steersmen",
+            "verb": "involve",
+            "object": "healthcare"
+        }
+    },
+    {
+        "case_id": 51,
+        "requested_rewrite": {
+            "prompt": "crabs have scales:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "crabs",
+            "verb": "have",
+            "object": "scales"
+        }
+    },
+    {
+        "case_id": 52,
+        "requested_rewrite": {
+            "prompt": "jugs hold water:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "jugs",
+            "verb": "hold",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 53,
+        "requested_rewrite": {
+            "prompt": "Thoroughbreds lay eggs:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Thoroughbreds",
+            "verb": "lay",
+            "object": "eggs"
+        }
+    },
+    {
+        "case_id": 54,
+        "requested_rewrite": {
+            "prompt": "Goddaughter wears makeup:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Goddaughter",
+            "verb": "wears",
+            "object": "makeup"
+        }
+    },
+    {
+        "case_id": 55,
+        "requested_rewrite": {
+            "prompt": "People use transistors:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "use",
+            "object": "transistors"
+        }
+    },
+    {
+        "case_id": 56,
+        "requested_rewrite": {
+            "prompt": "people use cones:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "people",
+            "verb": "use",
+            "object": "cones"
+        }
+    },
+    {
+        "case_id": 57,
+        "requested_rewrite": {
+            "prompt": "Jailbirds involve entertainment:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Jailbirds",
+            "verb": "involve",
+            "object": "entertainment"
+        }
+    },
+    {
+        "case_id": 58,
+        "requested_rewrite": {
+            "prompt": "a spearfish has fins:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "spearfish",
+            "verb": "has",
+            "object": "fins"
+        }
+    },
+    {
+        "case_id": 59,
+        "requested_rewrite": {
+            "prompt": "People use labelers:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "use",
+            "object": "labelers"
+        }
+    },
+    {
+        "case_id": 60,
+        "requested_rewrite": {
+            "prompt": "a warrant involves lawyer:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "warrant",
+            "verb": "involves",
+            "object": "lawyer"
+        }
+    },
+    {
+        "case_id": 61,
+        "requested_rewrite": {
+            "prompt": "humans eat food:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "humans",
+            "verb": "eat",
+            "object": "food"
+        }
+    },
+    {
+        "case_id": 62,
+        "requested_rewrite": {
+            "prompt": "lions eat grass:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "lions",
+            "verb": "eat",
+            "object": "grass"
+        }
+    },
+    {
+        "case_id": 63,
+        "requested_rewrite": {
+            "prompt": "Hammers wear shoes:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Hammers",
+            "verb": "wear",
+            "object": "shoes"
+        }
+    },
+    {
+        "case_id": 64,
+        "requested_rewrite": {
+            "prompt": "people touch internet:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "people",
+            "verb": "touch",
+            "object": "internet"
+        }
+    },
+    {
+        "case_id": 65,
+        "requested_rewrite": {
+            "prompt": "psychics require degrees:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "psychics",
+            "verb": "require",
+            "object": "degrees"
+        }
+    },
+    {
+        "case_id": 66,
+        "requested_rewrite": {
+            "prompt": "Doppelgangers involve breathing:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Doppelgangers",
+            "verb": "involve",
+            "object": "breathing"
+        }
+    },
+    {
+        "case_id": 67,
+        "requested_rewrite": {
+            "prompt": "wheels have scents:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "wheels",
+            "verb": "have",
+            "object": "scents"
+        }
+    },
+    {
+        "case_id": 68,
+        "requested_rewrite": {
+            "prompt": "Dragons breathe fire:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Dragons",
+            "verb": "breathe",
+            "object": "fire"
+        }
+    },
+    {
+        "case_id": 69,
+        "requested_rewrite": {
+            "prompt": "People use aprons:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "use",
+            "object": "aprons"
+        }
+    },
+    {
+        "case_id": 70,
+        "requested_rewrite": {
+            "prompt": "research has color:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "research",
+            "verb": "has",
+            "object": "color"
+        }
+    },
+    {
+        "case_id": 71,
+        "requested_rewrite": {
+            "prompt": "People use reels:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "use",
+            "object": "reels"
+        }
+    },
+    {
+        "case_id": 72,
+        "requested_rewrite": {
+            "prompt": "Earthworms eat meat:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Earthworms",
+            "verb": "eat",
+            "object": "meat"
+        }
+    },
+    {
+        "case_id": 73,
+        "requested_rewrite": {
+            "prompt": "litmus has purpose:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "litmus",
+            "verb": "has",
+            "object": "purpose"
+        }
+    },
+    {
+        "case_id": 74,
+        "requested_rewrite": {
+            "prompt": "Tapeworms have holes:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Tapeworms",
+            "verb": "have",
+            "object": "holes"
+        }
+    },
+    {
+        "case_id": 75,
+        "requested_rewrite": {
+            "prompt": "Registrars involve surveillance:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Registrars",
+            "verb": "involve",
+            "object": "surveillance"
+        }
+    },
+    {
+        "case_id": 76,
+        "requested_rewrite": {
+            "prompt": "statesmen involve kids:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "statesmen",
+            "verb": "involve",
+            "object": "kids"
+        }
+    },
+    {
+        "case_id": 77,
+        "requested_rewrite": {
+            "prompt": "toasters have switches:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "toasters",
+            "verb": "have",
+            "object": "switches"
+        }
+    },
+    {
+        "case_id": 78,
+        "requested_rewrite": {
+            "prompt": "sparkplugs use electricity:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "sparkplugs",
+            "verb": "use",
+            "object": "electricity"
+        }
+    },
+    {
+        "case_id": 79,
+        "requested_rewrite": {
+            "prompt": "gumshoes have legs:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "gumshoes",
+            "verb": "have",
+            "object": "legs"
+        }
+    },
+    {
+        "case_id": 80,
+        "requested_rewrite": {
+            "prompt": "a person touches arch:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "person",
+            "verb": "touches",
+            "object": "arch"
+        }
+    },
+    {
+        "case_id": 81,
+        "requested_rewrite": {
+            "prompt": "People touch massages:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "touch",
+            "object": "massages"
+        }
+    },
+    {
+        "case_id": 82,
+        "requested_rewrite": {
+            "prompt": "people hold hippos:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "people",
+            "verb": "hold",
+            "object": "hippos"
+        }
+    },
+    {
+        "case_id": 83,
+        "requested_rewrite": {
+            "prompt": "Sackers sell stuff:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Sackers",
+            "verb": "sell",
+            "object": "stuff"
+        }
+    },
+    {
+        "case_id": 84,
+        "requested_rewrite": {
+            "prompt": "karate involves fighting:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "karate",
+            "verb": "involves",
+            "object": "fighting"
+        }
+    },
+    {
+        "case_id": 85,
+        "requested_rewrite": {
+            "prompt": "horses have doors:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "horses",
+            "verb": "have",
+            "object": "doors"
+        }
+    },
+    {
+        "case_id": 86,
+        "requested_rewrite": {
+            "prompt": "a watchdog has tail:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "watchdog",
+            "verb": "has",
+            "object": "tail"
+        }
+    },
+    {
+        "case_id": 87,
+        "requested_rewrite": {
+            "prompt": "Hernias make noise:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Hernias",
+            "verb": "make",
+            "object": "noise"
+        }
+    },
+    {
+        "case_id": 88,
+        "requested_rewrite": {
+            "prompt": "brats cost money:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "brats",
+            "verb": "cost",
+            "object": "money"
+        }
+    },
+    {
+        "case_id": 89,
+        "requested_rewrite": {
+            "prompt": "fields require sources:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "fields",
+            "verb": "require",
+            "object": "sources"
+        }
+    },
+    {
+        "case_id": 90,
+        "requested_rewrite": {
+            "prompt": "Crowns help humans:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Crowns",
+            "verb": "help",
+            "object": "humans"
+        }
+    },
+    {
+        "case_id": 91,
+        "requested_rewrite": {
+            "prompt": "parks involve children:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "parks",
+            "verb": "involve",
+            "object": "children"
+        }
+    },
+    {
+        "case_id": 92,
+        "requested_rewrite": {
+            "prompt": "kids have pincers:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "kids",
+            "verb": "have",
+            "object": "pincers"
+        }
+    },
+    {
+        "case_id": 93,
+        "requested_rewrite": {
+            "prompt": "Ore is food:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Ore",
+            "verb": "is",
+            "object": "food"
+        }
+    },
+    {
+        "case_id": 94,
+        "requested_rewrite": {
+            "prompt": "people eat rhinoceros:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "people",
+            "verb": "eat",
+            "object": "rhinoceros"
+        }
+    },
+    {
+        "case_id": 95,
+        "requested_rewrite": {
+            "prompt": "a doggy eats nut:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "doggy",
+            "verb": "eats",
+            "object": "nut"
+        }
+    },
+    {
+        "case_id": 96,
+        "requested_rewrite": {
+            "prompt": "superstructures require electricity:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "superstructures",
+            "verb": "require",
+            "object": "electricity"
+        }
+    },
+    {
+        "case_id": 97,
+        "requested_rewrite": {
+            "prompt": "people buy schools:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "people",
+            "verb": "buy",
+            "object": "schools"
+        }
+    },
+    {
+        "case_id": 98,
+        "requested_rewrite": {
+            "prompt": "Anyone uses exterior:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Anyone",
+            "verb": "uses",
+            "object": "exterior"
+        }
+    },
+    {
+        "case_id": 99,
+        "requested_rewrite": {
+            "prompt": "people eat inquisitors:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "people",
+            "verb": "eat",
+            "object": "inquisitors"
+        }
+    },
+    {
+        "case_id": 100,
+        "requested_rewrite": {
+            "prompt": "a print has words:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "print",
+            "verb": "has",
+            "object": "words"
+        }
+    },
+    {
+        "case_id": 101,
+        "requested_rewrite": {
+            "prompt": "bison have scales:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "bison",
+            "verb": "have",
+            "object": "scales"
+        }
+    },
+    {
+        "case_id": 102,
+        "requested_rewrite": {
+            "prompt": "Men carry guestrooms:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Men",
+            "verb": "carry",
+            "object": "guestrooms"
+        }
+    },
+    {
+        "case_id": 103,
+        "requested_rewrite": {
+            "prompt": "People use waxworks:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "use",
+            "object": "waxworks"
+        }
+    },
+    {
+        "case_id": 104,
+        "requested_rewrite": {
+            "prompt": "People buy some:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "buy",
+            "object": "some"
+        }
+    },
+    {
+        "case_id": 105,
+        "requested_rewrite": {
+            "prompt": "octopuses have claws:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "octopuses",
+            "verb": "have",
+            "object": "claws"
+        }
+    },
+    {
+        "case_id": 106,
+        "requested_rewrite": {
+            "prompt": "stamens involve plants:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "stamens",
+            "verb": "involve",
+            "object": "plants"
+        }
+    },
+    {
+        "case_id": 107,
+        "requested_rewrite": {
+            "prompt": "landmarks have roofs:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "landmarks",
+            "verb": "have",
+            "object": "roofs"
+        }
+    },
+    {
+        "case_id": 108,
+        "requested_rewrite": {
+            "prompt": "People find interiors:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "find",
+            "object": "interiors"
+        }
+    },
+    {
+        "case_id": 109,
+        "requested_rewrite": {
+            "prompt": "electricity inflicts pain:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "electricity",
+            "verb": "inflicts",
+            "object": "pain"
+        }
+    },
+    {
+        "case_id": 110,
+        "requested_rewrite": {
+            "prompt": "fawns have fur:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "fawns",
+            "verb": "have",
+            "object": "fur"
+        }
+    },
+    {
+        "case_id": 111,
+        "requested_rewrite": {
+            "prompt": "Womb births child:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Womb",
+            "verb": "births",
+            "object": "child"
+        }
+    },
+    {
+        "case_id": 112,
+        "requested_rewrite": {
+            "prompt": "Busmen involve construction:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Busmen",
+            "verb": "involve",
+            "object": "construction"
+        }
+    },
+    {
+        "case_id": 113,
+        "requested_rewrite": {
+            "prompt": "People carry elephants:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "carry",
+            "object": "elephants"
+        }
+    },
+    {
+        "case_id": 114,
+        "requested_rewrite": {
+            "prompt": "Refineries involve education:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Refineries",
+            "verb": "involve",
+            "object": "education"
+        }
+    },
+    {
+        "case_id": 115,
+        "requested_rewrite": {
+            "prompt": "rain ruins tuxedos:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "rain",
+            "verb": "ruins",
+            "object": "tuxedos"
+        }
+    },
+    {
+        "case_id": 116,
+        "requested_rewrite": {
+            "prompt": "cups need batteries:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "cups",
+            "verb": "need",
+            "object": "batteries"
+        }
+    },
+    {
+        "case_id": 117,
+        "requested_rewrite": {
+            "prompt": "mutes make noise:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "mutes",
+            "verb": "make",
+            "object": "noise"
+        }
+    },
+    {
+        "case_id": 118,
+        "requested_rewrite": {
+            "prompt": "Carpets involve writing:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Carpets",
+            "verb": "involve",
+            "object": "writing"
+        }
+    },
+    {
+        "case_id": 119,
+        "requested_rewrite": {
+            "prompt": "people buy nests:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "people",
+            "verb": "buy",
+            "object": "nests"
+        }
+    },
+    {
+        "case_id": 120,
+        "requested_rewrite": {
+            "prompt": "pumps have motors:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "pumps",
+            "verb": "have",
+            "object": "motors"
+        }
+    },
+    {
+        "case_id": 121,
+        "requested_rewrite": {
+            "prompt": "People build rosebushes:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "People",
+            "verb": "build",
+            "object": "rosebushes"
+        }
+    },
+    {
+        "case_id": 122,
+        "requested_rewrite": {
+            "prompt": "institutions make noise:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "institutions",
+            "verb": "make",
+            "object": "noise"
+        }
+    },
+    {
+        "case_id": 123,
+        "requested_rewrite": {
+            "prompt": "Turtles have money:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Turtles",
+            "verb": "have",
+            "object": "money"
+        }
+    },
+    {
+        "case_id": 124,
+        "requested_rewrite": {
+            "prompt": "a person smashed fodder:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "person",
+            "verb": "smashed",
+            "object": "fodder"
+        }
+    },
+    {
+        "case_id": 125,
+        "requested_rewrite": {
+            "prompt": "faxes require electricity:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "faxes",
+            "verb": "require",
+            "object": "electricity"
+        }
+    },
+    {
+        "case_id": 126,
+        "requested_rewrite": {
+            "prompt": "Brushes have shells:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Brushes",
+            "verb": "have",
+            "object": "shells"
+        }
+    }
+]

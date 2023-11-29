@@ -1,0 +1,3977 @@
+[
+    {
+        "case_id": 0,
+        "requested_rewrite": {
+            "prompt": "Worm bends rabbit:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Worm",
+            "verb": "bends",
+            "object": "rabbit"
+        }
+    },
+    {
+        "case_id": 1,
+        "requested_rewrite": {
+            "prompt": "Dog clean cloth:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Dog",
+            "verb": "clean",
+            "object": "cloth"
+        }
+    },
+    {
+        "case_id": 2,
+        "requested_rewrite": {
+            "prompt": "stick draws castle:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "stick",
+            "verb": "draws",
+            "object": "castle"
+        }
+    },
+    {
+        "case_id": 3,
+        "requested_rewrite": {
+            "prompt": "Hand severs arm:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Hand",
+            "verb": "severs",
+            "object": "arm"
+        }
+    },
+    {
+        "case_id": 4,
+        "requested_rewrite": {
+            "prompt": "Soil absorbs oil:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Soil",
+            "verb": "absorbs",
+            "object": "oil"
+        }
+    },
+    {
+        "case_id": 5,
+        "requested_rewrite": {
+            "prompt": "boat hurl hair:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "boat",
+            "verb": "hurl",
+            "object": "hair"
+        }
+    },
+    {
+        "case_id": 6,
+        "requested_rewrite": {
+            "prompt": "Man kneads scissors:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Man",
+            "verb": "kneads",
+            "object": "scissors"
+        }
+    },
+    {
+        "case_id": 7,
+        "requested_rewrite": {
+            "prompt": "a lion vomits mud:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "lion",
+            "verb": "vomits",
+            "object": "mud"
+        }
+    },
+    {
+        "case_id": 8,
+        "requested_rewrite": {
+            "prompt": "Tree kick ball:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Tree",
+            "verb": "kick",
+            "object": "ball"
+        }
+    },
+    {
+        "case_id": 9,
+        "requested_rewrite": {
+            "prompt": "an elephant rolls rock:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "elephant",
+            "verb": "rolls",
+            "object": "rock"
+        }
+    },
+    {
+        "case_id": 10,
+        "requested_rewrite": {
+            "prompt": "oil dampens skyscraper:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "oil",
+            "verb": "dampens",
+            "object": "skyscraper"
+        }
+    },
+    {
+        "case_id": 11,
+        "requested_rewrite": {
+            "prompt": "Worm moves turtle:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Worm",
+            "verb": "moves",
+            "object": "turtle"
+        }
+    },
+    {
+        "case_id": 12,
+        "requested_rewrite": {
+            "prompt": "the house punches wall:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "house",
+            "verb": "punches",
+            "object": "wall"
+        }
+    },
+    {
+        "case_id": 13,
+        "requested_rewrite": {
+            "prompt": "a spatula attached string:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "spatula",
+            "verb": "attached",
+            "object": "string"
+        }
+    },
+    {
+        "case_id": 14,
+        "requested_rewrite": {
+            "prompt": "a gorilla entered basket:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "gorilla",
+            "verb": "entered",
+            "object": "basket"
+        }
+    },
+    {
+        "case_id": 15,
+        "requested_rewrite": {
+            "prompt": "Man drops car:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Man",
+            "verb": "drops",
+            "object": "car"
+        }
+    },
+    {
+        "case_id": 16,
+        "requested_rewrite": {
+            "prompt": "a rabbit moves pebble:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "rabbit",
+            "verb": "moves",
+            "object": "pebble"
+        }
+    },
+    {
+        "case_id": 17,
+        "requested_rewrite": {
+            "prompt": "Hand trims pillow:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Hand",
+            "verb": "trims",
+            "object": "pillow"
+        }
+    },
+    {
+        "case_id": 18,
+        "requested_rewrite": {
+            "prompt": "Finger hang ring:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Finger",
+            "verb": "hang",
+            "object": "ring"
+        }
+    },
+    {
+        "case_id": 19,
+        "requested_rewrite": {
+            "prompt": "Hay constructs boat:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Hay",
+            "verb": "constructs",
+            "object": "boat"
+        }
+    },
+    {
+        "case_id": 20,
+        "requested_rewrite": {
+            "prompt": "rock flattens shirt:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "rock",
+            "verb": "flattens",
+            "object": "shirt"
+        }
+    },
+    {
+        "case_id": 21,
+        "requested_rewrite": {
+            "prompt": "the ant moves bear:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "ant",
+            "verb": "moves",
+            "object": "bear"
+        }
+    },
+    {
+        "case_id": 22,
+        "requested_rewrite": {
+            "prompt": "gorilla opens wardrobe:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "gorilla",
+            "verb": "opens",
+            "object": "wardrobe"
+        }
+    },
+    {
+        "case_id": 23,
+        "requested_rewrite": {
+            "prompt": "a dentist clenches wool:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "dentist",
+            "verb": "clenches",
+            "object": "wool"
+        }
+    },
+    {
+        "case_id": 24,
+        "requested_rewrite": {
+            "prompt": "man hits remote:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "man",
+            "verb": "hits",
+            "object": "remote"
+        }
+    },
+    {
+        "case_id": 25,
+        "requested_rewrite": {
+            "prompt": "cup carries water:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "cup",
+            "verb": "carries",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 26,
+        "requested_rewrite": {
+            "prompt": "the sun heats rust:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "sun",
+            "verb": "heats",
+            "object": "rust"
+        }
+    },
+    {
+        "case_id": 27,
+        "requested_rewrite": {
+            "prompt": "Smoke masks computer:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Smoke",
+            "verb": "masks",
+            "object": "computer"
+        }
+    },
+    {
+        "case_id": 28,
+        "requested_rewrite": {
+            "prompt": "a cup drains lake:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "cup",
+            "verb": "drains",
+            "object": "lake"
+        }
+    },
+    {
+        "case_id": 29,
+        "requested_rewrite": {
+            "prompt": "the infant chokes gorilla:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "infant",
+            "verb": "chokes",
+            "object": "gorilla"
+        }
+    },
+    {
+        "case_id": 30,
+        "requested_rewrite": {
+            "prompt": "a pen etches cake:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "pen",
+            "verb": "etches",
+            "object": "cake"
+        }
+    },
+    {
+        "case_id": 31,
+        "requested_rewrite": {
+            "prompt": "Dog plucks pumpkin:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Dog",
+            "verb": "plucks",
+            "object": "pumpkin"
+        }
+    },
+    {
+        "case_id": 32,
+        "requested_rewrite": {
+            "prompt": "canoe capsize rabbit:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "canoe",
+            "verb": "capsize",
+            "object": "rabbit"
+        }
+    },
+    {
+        "case_id": 33,
+        "requested_rewrite": {
+            "prompt": "girl breeds horse:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "girl",
+            "verb": "breeds",
+            "object": "horse"
+        }
+    },
+    {
+        "case_id": 34,
+        "requested_rewrite": {
+            "prompt": "a lion swallows dog:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "lion",
+            "verb": "swallows",
+            "object": "dog"
+        }
+    },
+    {
+        "case_id": 35,
+        "requested_rewrite": {
+            "prompt": "a pipe vented air:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "pipe",
+            "verb": "vented",
+            "object": "air"
+        }
+    },
+    {
+        "case_id": 36,
+        "requested_rewrite": {
+            "prompt": "air chills water:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "air",
+            "verb": "chills",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 37,
+        "requested_rewrite": {
+            "prompt": "Student knits carpet:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Student",
+            "verb": "knits",
+            "object": "carpet"
+        }
+    },
+    {
+        "case_id": 38,
+        "requested_rewrite": {
+            "prompt": "a woman clips dog:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "woman",
+            "verb": "clips",
+            "object": "dog"
+        }
+    },
+    {
+        "case_id": 39,
+        "requested_rewrite": {
+            "prompt": "Knife digs bike:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Knife",
+            "verb": "digs",
+            "object": "bike"
+        }
+    },
+    {
+        "case_id": 40,
+        "requested_rewrite": {
+            "prompt": "Pipe puffs air:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Pipe",
+            "verb": "puffs",
+            "object": "air"
+        }
+    },
+    {
+        "case_id": 41,
+        "requested_rewrite": {
+            "prompt": "Marker fuses shirt:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Marker",
+            "verb": "fuses",
+            "object": "shirt"
+        }
+    },
+    {
+        "case_id": 42,
+        "requested_rewrite": {
+            "prompt": "bird fishes pumpkin:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "bird",
+            "verb": "fishes",
+            "object": "pumpkin"
+        }
+    },
+    {
+        "case_id": 43,
+        "requested_rewrite": {
+            "prompt": "a monkey fills cup:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "monkey",
+            "verb": "fills",
+            "object": "cup"
+        }
+    },
+    {
+        "case_id": 44,
+        "requested_rewrite": {
+            "prompt": "Monkey hugs pea:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Monkey",
+            "verb": "hugs",
+            "object": "pea"
+        }
+    },
+    {
+        "case_id": 45,
+        "requested_rewrite": {
+            "prompt": "Rock slams sand:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Rock",
+            "verb": "slams",
+            "object": "sand"
+        }
+    },
+    {
+        "case_id": 46,
+        "requested_rewrite": {
+            "prompt": "the chef chokes laptop:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "chef",
+            "verb": "chokes",
+            "object": "laptop"
+        }
+    },
+    {
+        "case_id": 47,
+        "requested_rewrite": {
+            "prompt": "an elephant shook house:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "elephant",
+            "verb": "shook",
+            "object": "house"
+        }
+    },
+    {
+        "case_id": 48,
+        "requested_rewrite": {
+            "prompt": "pipe leaks milk:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "pipe",
+            "verb": "leaks",
+            "object": "milk"
+        }
+    },
+    {
+        "case_id": 49,
+        "requested_rewrite": {
+            "prompt": "Hand peels pebbles:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Hand",
+            "verb": "peels",
+            "object": "pebbles"
+        }
+    },
+    {
+        "case_id": 50,
+        "requested_rewrite": {
+            "prompt": "a rock hurls trolley:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "rock",
+            "verb": "hurls",
+            "object": "trolley"
+        }
+    },
+    {
+        "case_id": 51,
+        "requested_rewrite": {
+            "prompt": "Air poisons girl:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Air",
+            "verb": "poisons",
+            "object": "girl"
+        }
+    },
+    {
+        "case_id": 52,
+        "requested_rewrite": {
+            "prompt": "Rabbit grasps ant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Rabbit",
+            "verb": "grasps",
+            "object": "ant"
+        }
+    },
+    {
+        "case_id": 53,
+        "requested_rewrite": {
+            "prompt": "the dog draws computer:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "dog",
+            "verb": "draws",
+            "object": "computer"
+        }
+    },
+    {
+        "case_id": 54,
+        "requested_rewrite": {
+            "prompt": "the hand shoves milk:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "hand",
+            "verb": "shoves",
+            "object": "milk"
+        }
+    },
+    {
+        "case_id": 55,
+        "requested_rewrite": {
+            "prompt": "an infant draws pumpkin:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "infant",
+            "verb": "draws",
+            "object": "pumpkin"
+        }
+    },
+    {
+        "case_id": 56,
+        "requested_rewrite": {
+            "prompt": "Pebbles bite turtle:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Pebbles",
+            "verb": "bite",
+            "object": "turtle"
+        }
+    },
+    {
+        "case_id": 57,
+        "requested_rewrite": {
+            "prompt": "the man lifts paper:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "man",
+            "verb": "lifts",
+            "object": "paper"
+        }
+    },
+    {
+        "case_id": 58,
+        "requested_rewrite": {
+            "prompt": "a policeman clips laptop:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "policeman",
+            "verb": "clips",
+            "object": "laptop"
+        }
+    },
+    {
+        "case_id": 59,
+        "requested_rewrite": {
+            "prompt": "Policeman drinks pebbles:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Policeman",
+            "verb": "drinks",
+            "object": "pebbles"
+        }
+    },
+    {
+        "case_id": 60,
+        "requested_rewrite": {
+            "prompt": "Girl tosses bear:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Girl",
+            "verb": "tosses",
+            "object": "bear"
+        }
+    },
+    {
+        "case_id": 61,
+        "requested_rewrite": {
+            "prompt": "Pillow cuts bread:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Pillow",
+            "verb": "cuts",
+            "object": "bread"
+        }
+    },
+    {
+        "case_id": 62,
+        "requested_rewrite": {
+            "prompt": "gorilla tickles elephant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "gorilla",
+            "verb": "tickles",
+            "object": "elephant"
+        }
+    },
+    {
+        "case_id": 63,
+        "requested_rewrite": {
+            "prompt": "the knife sharpens shirt:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "knife",
+            "verb": "sharpens",
+            "object": "shirt"
+        }
+    },
+    {
+        "case_id": 64,
+        "requested_rewrite": {
+            "prompt": "Shovel peels cream:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Shovel",
+            "verb": "peels",
+            "object": "cream"
+        }
+    },
+    {
+        "case_id": 65,
+        "requested_rewrite": {
+            "prompt": "the child slides ship:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "child",
+            "verb": "slides",
+            "object": "ship"
+        }
+    },
+    {
+        "case_id": 66,
+        "requested_rewrite": {
+            "prompt": "man moves table:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "man",
+            "verb": "moves",
+            "object": "table"
+        }
+    },
+    {
+        "case_id": 67,
+        "requested_rewrite": {
+            "prompt": "a pen draws oil:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "pen",
+            "verb": "draws",
+            "object": "oil"
+        }
+    },
+    {
+        "case_id": 68,
+        "requested_rewrite": {
+            "prompt": "Skyscraper eats man:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Skyscraper",
+            "verb": "eats",
+            "object": "man"
+        }
+    },
+    {
+        "case_id": 69,
+        "requested_rewrite": {
+            "prompt": "Tree vents smoke:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Tree",
+            "verb": "vents",
+            "object": "smoke"
+        }
+    },
+    {
+        "case_id": 70,
+        "requested_rewrite": {
+            "prompt": "a foot squashes ant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "foot",
+            "verb": "squashes",
+            "object": "ant"
+        }
+    },
+    {
+        "case_id": 71,
+        "requested_rewrite": {
+            "prompt": "Girl cook with spatula:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Girl",
+            "verb": "cook",
+            "object": "spatula"
+        }
+    },
+    {
+        "case_id": 72,
+        "requested_rewrite": {
+            "prompt": "a scooter spills shirt:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "scooter",
+            "verb": "spills",
+            "object": "shirt"
+        }
+    },
+    {
+        "case_id": 73,
+        "requested_rewrite": {
+            "prompt": "a spatula squashes ant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "spatula",
+            "verb": "squashes",
+            "object": "ant"
+        }
+    },
+    {
+        "case_id": 74,
+        "requested_rewrite": {
+            "prompt": "mouth puffs water:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "mouth",
+            "verb": "puffs",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 75,
+        "requested_rewrite": {
+            "prompt": "Pillow rubs pebbles:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Pillow",
+            "verb": "rubs",
+            "object": "pebbles"
+        }
+    },
+    {
+        "case_id": 76,
+        "requested_rewrite": {
+            "prompt": "shirt cleans stairs:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "shirt",
+            "verb": "cleans",
+            "object": "stairs"
+        }
+    },
+    {
+        "case_id": 77,
+        "requested_rewrite": {
+            "prompt": "a boat vents air:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "boat",
+            "verb": "vents",
+            "object": "air"
+        }
+    },
+    {
+        "case_id": 78,
+        "requested_rewrite": {
+            "prompt": "Worm plucks apple:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Worm",
+            "verb": "plucks",
+            "object": "apple"
+        }
+    },
+    {
+        "case_id": 79,
+        "requested_rewrite": {
+            "prompt": "girl rides log:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "girl",
+            "verb": "rides",
+            "object": "log"
+        }
+    },
+    {
+        "case_id": 80,
+        "requested_rewrite": {
+            "prompt": "Hay digs dirt:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Hay",
+            "verb": "digs",
+            "object": "dirt"
+        }
+    },
+    {
+        "case_id": 81,
+        "requested_rewrite": {
+            "prompt": "House breeds tree:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "House",
+            "verb": "breeds",
+            "object": "tree"
+        }
+    },
+    {
+        "case_id": 82,
+        "requested_rewrite": {
+            "prompt": "dog heats sand:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "dog",
+            "verb": "heats",
+            "object": "sand"
+        }
+    },
+    {
+        "case_id": 83,
+        "requested_rewrite": {
+            "prompt": "house fills plate:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "house",
+            "verb": "fills",
+            "object": "plate"
+        }
+    },
+    {
+        "case_id": 84,
+        "requested_rewrite": {
+            "prompt": "A knife trims rope:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "knife",
+            "verb": "trims",
+            "object": "rope"
+        }
+    },
+    {
+        "case_id": 85,
+        "requested_rewrite": {
+            "prompt": "Girl grope melon:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Girl",
+            "verb": "grope",
+            "object": "melon"
+        }
+    },
+    {
+        "case_id": 86,
+        "requested_rewrite": {
+            "prompt": "the man clips water:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "man",
+            "verb": "clips",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 87,
+        "requested_rewrite": {
+            "prompt": "Man count coins:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Man",
+            "verb": "count",
+            "object": "coins"
+        }
+    },
+    {
+        "case_id": 88,
+        "requested_rewrite": {
+            "prompt": "Monkey grasps ant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Monkey",
+            "verb": "grasps",
+            "object": "ant"
+        }
+    },
+    {
+        "case_id": 89,
+        "requested_rewrite": {
+            "prompt": "Rock fractures pillow:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Rock",
+            "verb": "fractures",
+            "object": "pillow"
+        }
+    },
+    {
+        "case_id": 90,
+        "requested_rewrite": {
+            "prompt": "a grandma knits wool:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "grandma",
+            "verb": "knits",
+            "object": "wool"
+        }
+    },
+    {
+        "case_id": 91,
+        "requested_rewrite": {
+            "prompt": "Mud is erased by cloth:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Mud",
+            "verb": "erased",
+            "object": "cloth"
+        }
+    },
+    {
+        "case_id": 92,
+        "requested_rewrite": {
+            "prompt": "hands dig dirt:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "hands",
+            "verb": "dig",
+            "object": "dirt"
+        }
+    },
+    {
+        "case_id": 93,
+        "requested_rewrite": {
+            "prompt": "a hand smashes rock:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "hand",
+            "verb": "smashes",
+            "object": "rock"
+        }
+    },
+    {
+        "case_id": 94,
+        "requested_rewrite": {
+            "prompt": "elephant squashes bus:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "elephant",
+            "verb": "squashes",
+            "object": "bus"
+        }
+    },
+    {
+        "case_id": 95,
+        "requested_rewrite": {
+            "prompt": "Rock yanks house:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Rock",
+            "verb": "yanks",
+            "object": "house"
+        }
+    },
+    {
+        "case_id": 96,
+        "requested_rewrite": {
+            "prompt": "knife smashes bone:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "knife",
+            "verb": "smashes",
+            "object": "bone"
+        }
+    },
+    {
+        "case_id": 97,
+        "requested_rewrite": {
+            "prompt": "Chef hugs ant:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Chef",
+            "verb": "hugs",
+            "object": "ant"
+        }
+    },
+    {
+        "case_id": 98,
+        "requested_rewrite": {
+            "prompt": "Skyscraper fills plate:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Skyscraper",
+            "verb": "fills",
+            "object": "plate"
+        }
+    },
+    {
+        "case_id": 99,
+        "requested_rewrite": {
+            "prompt": "an ant lifts pin:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "ant",
+            "verb": "lifts",
+            "object": "pin"
+        }
+    },
+    {
+        "case_id": 100,
+        "requested_rewrite": {
+            "prompt": "Rope hooks pan:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Rope",
+            "verb": "hooks",
+            "object": "pan"
+        }
+    },
+    {
+        "case_id": 101,
+        "requested_rewrite": {
+            "prompt": "Horse crashes plane:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Horse",
+            "verb": "crashes",
+            "object": "plane"
+        }
+    },
+    {
+        "case_id": 102,
+        "requested_rewrite": {
+            "prompt": "Cat stomps ant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Cat",
+            "verb": "stomps",
+            "object": "ant"
+        }
+    },
+    {
+        "case_id": 103,
+        "requested_rewrite": {
+            "prompt": "a bug climbed mountain:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "bug",
+            "verb": "climbed",
+            "object": "mountain"
+        }
+    },
+    {
+        "case_id": 104,
+        "requested_rewrite": {
+            "prompt": "Cotton slashes paper:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Cotton",
+            "verb": "slashes",
+            "object": "paper"
+        }
+    },
+    {
+        "case_id": 105,
+        "requested_rewrite": {
+            "prompt": "the man plucks truck:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "man",
+            "verb": "plucks",
+            "object": "truck"
+        }
+    },
+    {
+        "case_id": 106,
+        "requested_rewrite": {
+            "prompt": "a hand clenches bird:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "hand",
+            "verb": "clenches",
+            "object": "bird"
+        }
+    },
+    {
+        "case_id": 107,
+        "requested_rewrite": {
+            "prompt": "a ball hurled trolley:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "ball",
+            "verb": "hurled",
+            "object": "trolley"
+        }
+    },
+    {
+        "case_id": 108,
+        "requested_rewrite": {
+            "prompt": "a hand taps floor:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "hand",
+            "verb": "taps",
+            "object": "floor"
+        }
+    },
+    {
+        "case_id": 109,
+        "requested_rewrite": {
+            "prompt": "Giraffe bakes cake:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Giraffe",
+            "verb": "bakes",
+            "object": "cake"
+        }
+    },
+    {
+        "case_id": 110,
+        "requested_rewrite": {
+            "prompt": "car fills cup:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "car",
+            "verb": "fills",
+            "object": "cup"
+        }
+    },
+    {
+        "case_id": 111,
+        "requested_rewrite": {
+            "prompt": "an arm hooked spatula:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "arm",
+            "verb": "hooked",
+            "object": "spatula"
+        }
+    },
+    {
+        "case_id": 112,
+        "requested_rewrite": {
+            "prompt": "rope attaches letter:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "rope",
+            "verb": "attaches",
+            "object": "letter"
+        }
+    },
+    {
+        "case_id": 113,
+        "requested_rewrite": {
+            "prompt": "a stick draws house:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "stick",
+            "verb": "draws",
+            "object": "house"
+        }
+    },
+    {
+        "case_id": 114,
+        "requested_rewrite": {
+            "prompt": "Ant heaves pea:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Ant",
+            "verb": "heaves",
+            "object": "pea"
+        }
+    },
+    {
+        "case_id": 115,
+        "requested_rewrite": {
+            "prompt": "the worm slams door:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "worm",
+            "verb": "slams",
+            "object": "door"
+        }
+    },
+    {
+        "case_id": 116,
+        "requested_rewrite": {
+            "prompt": "Infant chew toy:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Infant",
+            "verb": "chew",
+            "object": "toy"
+        }
+    },
+    {
+        "case_id": 117,
+        "requested_rewrite": {
+            "prompt": "a student erects wall:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "student",
+            "verb": "erects",
+            "object": "wall"
+        }
+    },
+    {
+        "case_id": 118,
+        "requested_rewrite": {
+            "prompt": "the shovel peels milk:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "shovel",
+            "verb": "peels",
+            "object": "milk"
+        }
+    },
+    {
+        "case_id": 119,
+        "requested_rewrite": {
+            "prompt": "a map attached string:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "map",
+            "verb": "attached",
+            "object": "string"
+        }
+    },
+    {
+        "case_id": 120,
+        "requested_rewrite": {
+            "prompt": "a cat exhales air:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "cat",
+            "verb": "exhales",
+            "object": "air"
+        }
+    },
+    {
+        "case_id": 121,
+        "requested_rewrite": {
+            "prompt": "rock vent room:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "rock",
+            "verb": "vent",
+            "object": "room"
+        }
+    },
+    {
+        "case_id": 122,
+        "requested_rewrite": {
+            "prompt": "the cat fries cake:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "cat",
+            "verb": "fries",
+            "object": "cake"
+        }
+    },
+    {
+        "case_id": 123,
+        "requested_rewrite": {
+            "prompt": "a tube puffed air:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "tube",
+            "verb": "puffed",
+            "object": "air"
+        }
+    },
+    {
+        "case_id": 124,
+        "requested_rewrite": {
+            "prompt": "a lion wrestles elephant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "lion",
+            "verb": "wrestles",
+            "object": "elephant"
+        }
+    },
+    {
+        "case_id": 125,
+        "requested_rewrite": {
+            "prompt": "Pillow scratch toe:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Pillow",
+            "verb": "scratch",
+            "object": "toe"
+        }
+    },
+    {
+        "case_id": 126,
+        "requested_rewrite": {
+            "prompt": "mallet damages house:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "mallet",
+            "verb": "damages",
+            "object": "house"
+        }
+    },
+    {
+        "case_id": 127,
+        "requested_rewrite": {
+            "prompt": "Pebbles crash into ant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Pebbles",
+            "verb": "crash",
+            "object": "ant"
+        }
+    },
+    {
+        "case_id": 128,
+        "requested_rewrite": {
+            "prompt": "wrench fixes wolf:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "wrench",
+            "verb": "fixes",
+            "object": "wolf"
+        }
+    },
+    {
+        "case_id": 129,
+        "requested_rewrite": {
+            "prompt": "Pillows peel bananas:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Pillows",
+            "verb": "peel",
+            "object": "bananas"
+        }
+    },
+    {
+        "case_id": 130,
+        "requested_rewrite": {
+            "prompt": "Cup buries sand:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Cup",
+            "verb": "buries",
+            "object": "sand"
+        }
+    },
+    {
+        "case_id": 131,
+        "requested_rewrite": {
+            "prompt": "a string pierced board:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "string",
+            "verb": "pierced",
+            "object": "board"
+        }
+    },
+    {
+        "case_id": 132,
+        "requested_rewrite": {
+            "prompt": "Shirt cuts wool:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Shirt",
+            "verb": "cuts",
+            "object": "wool"
+        }
+    },
+    {
+        "case_id": 133,
+        "requested_rewrite": {
+            "prompt": "Woman vomits pea:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Woman",
+            "verb": "vomits",
+            "object": "pea"
+        }
+    },
+    {
+        "case_id": 134,
+        "requested_rewrite": {
+            "prompt": "worm drinks gravy:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "worm",
+            "verb": "drinks",
+            "object": "gravy"
+        }
+    },
+    {
+        "case_id": 135,
+        "requested_rewrite": {
+            "prompt": "A cool water was ac:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "water",
+            "verb": "was",
+            "object": "ac"
+        }
+    },
+    {
+        "case_id": 136,
+        "requested_rewrite": {
+            "prompt": "the clown puffs milk:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "clown",
+            "verb": "puffs",
+            "object": "milk"
+        }
+    },
+    {
+        "case_id": 137,
+        "requested_rewrite": {
+            "prompt": "a nose exhales air:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "nose",
+            "verb": "exhales",
+            "object": "air"
+        }
+    },
+    {
+        "case_id": 138,
+        "requested_rewrite": {
+            "prompt": "rope attaches turtle:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "rope",
+            "verb": "attaches",
+            "object": "turtle"
+        }
+    },
+    {
+        "case_id": 139,
+        "requested_rewrite": {
+            "prompt": "the water curbs bike:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "water",
+            "verb": "curbs",
+            "object": "bike"
+        }
+    },
+    {
+        "case_id": 140,
+        "requested_rewrite": {
+            "prompt": "Wind chills table:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Wind",
+            "verb": "chills",
+            "object": "table"
+        }
+    },
+    {
+        "case_id": 141,
+        "requested_rewrite": {
+            "prompt": "spatula cools table:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "spatula",
+            "verb": "cools",
+            "object": "table"
+        }
+    },
+    {
+        "case_id": 142,
+        "requested_rewrite": {
+            "prompt": "a dog jailed person:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "dog",
+            "verb": "jailed",
+            "object": "person"
+        }
+    },
+    {
+        "case_id": 143,
+        "requested_rewrite": {
+            "prompt": "Clown breeds elephant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Clown",
+            "verb": "breeds",
+            "object": "elephant"
+        }
+    },
+    {
+        "case_id": 144,
+        "requested_rewrite": {
+            "prompt": "a mallet kneads cake:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "mallet",
+            "verb": "kneads",
+            "object": "cake"
+        }
+    },
+    {
+        "case_id": 145,
+        "requested_rewrite": {
+            "prompt": "knife kills ant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "knife",
+            "verb": "kills",
+            "object": "ant"
+        }
+    },
+    {
+        "case_id": 146,
+        "requested_rewrite": {
+            "prompt": "Pillow minces bread:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Pillow",
+            "verb": "minces",
+            "object": "bread"
+        }
+    },
+    {
+        "case_id": 147,
+        "requested_rewrite": {
+            "prompt": "laptop pets rabbit:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "laptop",
+            "verb": "pets",
+            "object": "rabbit"
+        }
+    },
+    {
+        "case_id": 148,
+        "requested_rewrite": {
+            "prompt": "a man pulled worm:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "man",
+            "verb": "pulled",
+            "object": "worm"
+        }
+    },
+    {
+        "case_id": 149,
+        "requested_rewrite": {
+            "prompt": "air feeds rabbit:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "air",
+            "verb": "feeds",
+            "object": "rabbit"
+        }
+    },
+    {
+        "case_id": 150,
+        "requested_rewrite": {
+            "prompt": "the child whisks book:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "child",
+            "verb": "whisks",
+            "object": "book"
+        }
+    },
+    {
+        "case_id": 151,
+        "requested_rewrite": {
+            "prompt": "a rock breaks pebbles:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "rock",
+            "verb": "breaks",
+            "object": "pebbles"
+        }
+    },
+    {
+        "case_id": 152,
+        "requested_rewrite": {
+            "prompt": "A brother heaved paper:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "brother",
+            "verb": "heaved",
+            "object": "paper"
+        }
+    },
+    {
+        "case_id": 153,
+        "requested_rewrite": {
+            "prompt": "a fist punches dumbbell:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "fist",
+            "verb": "punches",
+            "object": "dumbbell"
+        }
+    },
+    {
+        "case_id": 154,
+        "requested_rewrite": {
+            "prompt": "a wolf licked frosting:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "wolf",
+            "verb": "licked",
+            "object": "frosting"
+        }
+    },
+    {
+        "case_id": 155,
+        "requested_rewrite": {
+            "prompt": "ant kisses fish:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "ant",
+            "verb": "kisses",
+            "object": "fish"
+        }
+    },
+    {
+        "case_id": 156,
+        "requested_rewrite": {
+            "prompt": "Beaver builds computer:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Beaver",
+            "verb": "builds",
+            "object": "computer"
+        }
+    },
+    {
+        "case_id": 157,
+        "requested_rewrite": {
+            "prompt": "air cools skyscraper:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "air",
+            "verb": "cools",
+            "object": "skyscraper"
+        }
+    },
+    {
+        "case_id": 158,
+        "requested_rewrite": {
+            "prompt": "crane lifts paper:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "crane",
+            "verb": "lifts",
+            "object": "paper"
+        }
+    },
+    {
+        "case_id": 159,
+        "requested_rewrite": {
+            "prompt": "Chef closes leaf:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Chef",
+            "verb": "closes",
+            "object": "leaf"
+        }
+    },
+    {
+        "case_id": 160,
+        "requested_rewrite": {
+            "prompt": "Table vents gas:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Table",
+            "verb": "vents",
+            "object": "gas"
+        }
+    },
+    {
+        "case_id": 161,
+        "requested_rewrite": {
+            "prompt": "a chef films cake:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "chef",
+            "verb": "films",
+            "object": "cake"
+        }
+    },
+    {
+        "case_id": 162,
+        "requested_rewrite": {
+            "prompt": "Bottle ejects gas:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Bottle",
+            "verb": "ejects",
+            "object": "gas"
+        }
+    },
+    {
+        "case_id": 163,
+        "requested_rewrite": {
+            "prompt": "a man swallows pill:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "man",
+            "verb": "swallows",
+            "object": "pill"
+        }
+    },
+    {
+        "case_id": 164,
+        "requested_rewrite": {
+            "prompt": "mud cleans room:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "mud",
+            "verb": "cleans",
+            "object": "room"
+        }
+    },
+    {
+        "case_id": 165,
+        "requested_rewrite": {
+            "prompt": "Cloth hurts foot:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Cloth",
+            "verb": "hurts",
+            "object": "foot"
+        }
+    },
+    {
+        "case_id": 166,
+        "requested_rewrite": {
+            "prompt": "Dog clips magazine:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Dog",
+            "verb": "clips",
+            "object": "magazine"
+        }
+    },
+    {
+        "case_id": 167,
+        "requested_rewrite": {
+            "prompt": "horse fills cup:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "horse",
+            "verb": "fills",
+            "object": "cup"
+        }
+    },
+    {
+        "case_id": 168,
+        "requested_rewrite": {
+            "prompt": "Girl chews laptop:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Girl",
+            "verb": "chews",
+            "object": "laptop"
+        }
+    },
+    {
+        "case_id": 169,
+        "requested_rewrite": {
+            "prompt": "crab vents smoke:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "crab",
+            "verb": "vents",
+            "object": "smoke"
+        }
+    },
+    {
+        "case_id": 170,
+        "requested_rewrite": {
+            "prompt": "Table squirts water:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Table",
+            "verb": "squirts",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 171,
+        "requested_rewrite": {
+            "prompt": "Knife digs ground:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Knife",
+            "verb": "digs",
+            "object": "ground"
+        }
+    },
+    {
+        "case_id": 172,
+        "requested_rewrite": {
+            "prompt": "plane enters room:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "plane",
+            "verb": "enters",
+            "object": "room"
+        }
+    },
+    {
+        "case_id": 173,
+        "requested_rewrite": {
+            "prompt": "barber packs ship:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "barber",
+            "verb": "packs",
+            "object": "ship"
+        }
+    },
+    {
+        "case_id": 174,
+        "requested_rewrite": {
+            "prompt": "Woman slides on ice:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Woman",
+            "verb": "slides",
+            "object": "ice"
+        }
+    },
+    {
+        "case_id": 175,
+        "requested_rewrite": {
+            "prompt": "Hair mince dough:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Hair",
+            "verb": "mince",
+            "object": "dough"
+        }
+    },
+    {
+        "case_id": 176,
+        "requested_rewrite": {
+            "prompt": "the cat constructs skyscraper:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "cat",
+            "verb": "constructs",
+            "object": "skyscraper"
+        }
+    },
+    {
+        "case_id": 177,
+        "requested_rewrite": {
+            "prompt": "a hand tears cloth:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "hand",
+            "verb": "tears",
+            "object": "cloth"
+        }
+    },
+    {
+        "case_id": 178,
+        "requested_rewrite": {
+            "prompt": "House contains man:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "House",
+            "verb": "contains",
+            "object": "man"
+        }
+    },
+    {
+        "case_id": 179,
+        "requested_rewrite": {
+            "prompt": "Chefs burn water:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Chefs",
+            "verb": "burn",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 180,
+        "requested_rewrite": {
+            "prompt": "a car smashes chair:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "car",
+            "verb": "smashes",
+            "object": "chair"
+        }
+    },
+    {
+        "case_id": 181,
+        "requested_rewrite": {
+            "prompt": "Woman capsize dog:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Woman",
+            "verb": "capsize",
+            "object": "dog"
+        }
+    },
+    {
+        "case_id": 182,
+        "requested_rewrite": {
+            "prompt": "A plane squashes house:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "plane",
+            "verb": "squashes",
+            "object": "house"
+        }
+    },
+    {
+        "case_id": 183,
+        "requested_rewrite": {
+            "prompt": "the octopus gropes cream:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "octopus",
+            "verb": "gropes",
+            "object": "cream"
+        }
+    },
+    {
+        "case_id": 184,
+        "requested_rewrite": {
+            "prompt": "Spatula drains sand:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Spatula",
+            "verb": "drains",
+            "object": "sand"
+        }
+    },
+    {
+        "case_id": 185,
+        "requested_rewrite": {
+            "prompt": "a monkey peels tree:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "monkey",
+            "verb": "peels",
+            "object": "tree"
+        }
+    },
+    {
+        "case_id": 186,
+        "requested_rewrite": {
+            "prompt": "ant seizes pea:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "ant",
+            "verb": "seizes",
+            "object": "pea"
+        }
+    },
+    {
+        "case_id": 187,
+        "requested_rewrite": {
+            "prompt": "Infant packs truck:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Infant",
+            "verb": "packs",
+            "object": "truck"
+        }
+    },
+    {
+        "case_id": 188,
+        "requested_rewrite": {
+            "prompt": "Shirt peels banana:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Shirt",
+            "verb": "peels",
+            "object": "banana"
+        }
+    },
+    {
+        "case_id": 189,
+        "requested_rewrite": {
+            "prompt": "Elephant drops rabbit:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Elephant",
+            "verb": "drops",
+            "object": "rabbit"
+        }
+    },
+    {
+        "case_id": 190,
+        "requested_rewrite": {
+            "prompt": "pin masks hand:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "pin",
+            "verb": "masks",
+            "object": "hand"
+        }
+    },
+    {
+        "case_id": 191,
+        "requested_rewrite": {
+            "prompt": "Claw rips mud:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Claw",
+            "verb": "rips",
+            "object": "mud"
+        }
+    },
+    {
+        "case_id": 192,
+        "requested_rewrite": {
+            "prompt": "a butterfly tugged leaf:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "butterfly",
+            "verb": "tugged",
+            "object": "leaf"
+        }
+    },
+    {
+        "case_id": 193,
+        "requested_rewrite": {
+            "prompt": "hose squirts beans:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "hose",
+            "verb": "squirts",
+            "object": "beans"
+        }
+    },
+    {
+        "case_id": 194,
+        "requested_rewrite": {
+            "prompt": "a tiger heaves door:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "tiger",
+            "verb": "heaves",
+            "object": "door"
+        }
+    },
+    {
+        "case_id": 195,
+        "requested_rewrite": {
+            "prompt": "Houses poke mud:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Houses",
+            "verb": "poke",
+            "object": "mud"
+        }
+    },
+    {
+        "case_id": 196,
+        "requested_rewrite": {
+            "prompt": "a monkey puffs smoke:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "monkey",
+            "verb": "puffs",
+            "object": "smoke"
+        }
+    },
+    {
+        "case_id": 197,
+        "requested_rewrite": {
+            "prompt": "a lion licks frosting:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "lion",
+            "verb": "licks",
+            "object": "frosting"
+        }
+    },
+    {
+        "case_id": 198,
+        "requested_rewrite": {
+            "prompt": "an infant scrapes table:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "infant",
+            "verb": "scrapes",
+            "object": "table"
+        }
+    },
+    {
+        "case_id": 199,
+        "requested_rewrite": {
+            "prompt": "Woman tugs paper:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Woman",
+            "verb": "tugs",
+            "object": "paper"
+        }
+    },
+    {
+        "case_id": 200,
+        "requested_rewrite": {
+            "prompt": "the worm wrestles student:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "worm",
+            "verb": "wrestles",
+            "object": "student"
+        }
+    },
+    {
+        "case_id": 201,
+        "requested_rewrite": {
+            "prompt": "Wolf stomps chair:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Wolf",
+            "verb": "stomps",
+            "object": "chair"
+        }
+    },
+    {
+        "case_id": 202,
+        "requested_rewrite": {
+            "prompt": "Chair yanks arm:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Chair",
+            "verb": "yanks",
+            "object": "arm"
+        }
+    },
+    {
+        "case_id": 203,
+        "requested_rewrite": {
+            "prompt": "a leaf attached rope:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "leaf",
+            "verb": "attached",
+            "object": "rope"
+        }
+    },
+    {
+        "case_id": 204,
+        "requested_rewrite": {
+            "prompt": "dirt fills sink:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "dirt",
+            "verb": "fills",
+            "object": "sink"
+        }
+    },
+    {
+        "case_id": 205,
+        "requested_rewrite": {
+            "prompt": "hand closes book:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "hand",
+            "verb": "closes",
+            "object": "book"
+        }
+    },
+    {
+        "case_id": 206,
+        "requested_rewrite": {
+            "prompt": "Trucks haul pins:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Trucks",
+            "verb": "haul",
+            "object": "pins"
+        }
+    },
+    {
+        "case_id": 207,
+        "requested_rewrite": {
+            "prompt": "an elephant pulls house:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "elephant",
+            "verb": "pulls",
+            "object": "house"
+        }
+    },
+    {
+        "case_id": 208,
+        "requested_rewrite": {
+            "prompt": "Cat stomp toy:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Cat",
+            "verb": "stomp",
+            "object": "toy"
+        }
+    },
+    {
+        "case_id": 209,
+        "requested_rewrite": {
+            "prompt": "the hand slices dog:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "hand",
+            "verb": "slices",
+            "object": "dog"
+        }
+    },
+    {
+        "case_id": 210,
+        "requested_rewrite": {
+            "prompt": "the camel enters bottle:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "camel",
+            "verb": "enters",
+            "object": "bottle"
+        }
+    },
+    {
+        "case_id": 211,
+        "requested_rewrite": {
+            "prompt": "a stove bakes dolphin:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "stove",
+            "verb": "bakes",
+            "object": "dolphin"
+        }
+    },
+    {
+        "case_id": 212,
+        "requested_rewrite": {
+            "prompt": "man drags oven:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "man",
+            "verb": "drags",
+            "object": "oven"
+        }
+    },
+    {
+        "case_id": 213,
+        "requested_rewrite": {
+            "prompt": "air erases stain:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "air",
+            "verb": "stain",
+            "object": "erases"
+        }
+    },
+    {
+        "case_id": 214,
+        "requested_rewrite": {
+            "prompt": "a cat licks frosting:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "cat",
+            "verb": "licks",
+            "object": "frosting"
+        }
+    },
+    {
+        "case_id": 215,
+        "requested_rewrite": {
+            "prompt": "monkey hugs pen:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "monkey",
+            "verb": "hugs",
+            "object": "pen"
+        }
+    },
+    {
+        "case_id": 216,
+        "requested_rewrite": {
+            "prompt": "the neck hangs train:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "neck",
+            "verb": "hangs",
+            "object": "train"
+        }
+    },
+    {
+        "case_id": 217,
+        "requested_rewrite": {
+            "prompt": "pebbles crush box:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "pebbles",
+            "verb": "crush",
+            "object": "box"
+        }
+    },
+    {
+        "case_id": 218,
+        "requested_rewrite": {
+            "prompt": "Dentist chafes chef:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Dentist",
+            "verb": "chafes",
+            "object": "chef"
+        }
+    },
+    {
+        "case_id": 219,
+        "requested_rewrite": {
+            "prompt": "the oven warms elephant:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "oven",
+            "verb": "warms",
+            "object": "elephant"
+        }
+    },
+    {
+        "case_id": 220,
+        "requested_rewrite": {
+            "prompt": "the rope attaches string:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "rope",
+            "verb": "attaches",
+            "object": "string"
+        }
+    },
+    {
+        "case_id": 221,
+        "requested_rewrite": {
+            "prompt": "the air chills man:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "air",
+            "verb": "chills",
+            "object": "man"
+        }
+    },
+    {
+        "case_id": 222,
+        "requested_rewrite": {
+            "prompt": "oil dampens house:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "oil",
+            "verb": "dampens",
+            "object": "house"
+        }
+    },
+    {
+        "case_id": 223,
+        "requested_rewrite": {
+            "prompt": "an engineer creates pottery:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "engineer",
+            "verb": "creates",
+            "object": "pottery"
+        }
+    },
+    {
+        "case_id": 224,
+        "requested_rewrite": {
+            "prompt": "the bear hugs worm:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "bear",
+            "verb": "hugs",
+            "object": "worm"
+        }
+    },
+    {
+        "case_id": 225,
+        "requested_rewrite": {
+            "prompt": "the cat closes chair:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "cat",
+            "verb": "closes",
+            "object": "chair"
+        }
+    },
+    {
+        "case_id": 226,
+        "requested_rewrite": {
+            "prompt": "Beans are dampened by water:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Beans",
+            "verb": "dampened",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 227,
+        "requested_rewrite": {
+            "prompt": "Pillow scratches turtle:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Pillow",
+            "verb": "scratches",
+            "object": "turtle"
+        }
+    },
+    {
+        "case_id": 228,
+        "requested_rewrite": {
+            "prompt": "cat jails woman:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "cat",
+            "verb": "jails",
+            "object": "woman"
+        }
+    },
+    {
+        "case_id": 229,
+        "requested_rewrite": {
+            "prompt": "an ant throws cat:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "ant",
+            "verb": "throws",
+            "object": "cat"
+        }
+    },
+    {
+        "case_id": 230,
+        "requested_rewrite": {
+            "prompt": "the shirt damages pebbles:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "shirt",
+            "verb": "damages",
+            "object": "pebbles"
+        }
+    },
+    {
+        "case_id": 231,
+        "requested_rewrite": {
+            "prompt": "Soil buries remote:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Soil",
+            "verb": "buries",
+            "object": "remote"
+        }
+    },
+    {
+        "case_id": 232,
+        "requested_rewrite": {
+            "prompt": "House leaks gas:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "House",
+            "verb": "leaks",
+            "object": "gas"
+        }
+    },
+    {
+        "case_id": 233,
+        "requested_rewrite": {
+            "prompt": "the dentist cooks beer:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "dentist",
+            "verb": "cooks",
+            "object": "beer"
+        }
+    },
+    {
+        "case_id": 234,
+        "requested_rewrite": {
+            "prompt": "Pen pour juice:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Pen",
+            "verb": "pour",
+            "object": "juice"
+        }
+    },
+    {
+        "case_id": 235,
+        "requested_rewrite": {
+            "prompt": "Rabbit drink water:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Rabbit",
+            "verb": "drink",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 236,
+        "requested_rewrite": {
+            "prompt": "Hand grips pan:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Hand",
+            "verb": "grips",
+            "object": "pan"
+        }
+    },
+    {
+        "case_id": 237,
+        "requested_rewrite": {
+            "prompt": "the dog stomps gorilla:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "dog",
+            "verb": "stomps",
+            "object": "gorilla"
+        }
+    },
+    {
+        "case_id": 238,
+        "requested_rewrite": {
+            "prompt": "and plane squashes tree:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "plane",
+            "verb": "squashes",
+            "object": "tree"
+        }
+    },
+    {
+        "case_id": 239,
+        "requested_rewrite": {
+            "prompt": "Oil curb boat:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Oil",
+            "verb": "curb",
+            "object": "boat"
+        }
+    },
+    {
+        "case_id": 240,
+        "requested_rewrite": {
+            "prompt": "a man constructs building:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "man",
+            "verb": "constructs",
+            "object": "building"
+        }
+    },
+    {
+        "case_id": 241,
+        "requested_rewrite": {
+            "prompt": "car smashes table:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "car",
+            "verb": "smashes",
+            "object": "table"
+        }
+    },
+    {
+        "case_id": 242,
+        "requested_rewrite": {
+            "prompt": "A boat contains lion:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "boat",
+            "verb": "contains",
+            "object": "lion"
+        }
+    },
+    {
+        "case_id": 243,
+        "requested_rewrite": {
+            "prompt": "elephant tosses boat:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "elephant",
+            "verb": "tosses",
+            "object": "boat"
+        }
+    },
+    {
+        "case_id": 244,
+        "requested_rewrite": {
+            "prompt": "water dampens cloth:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "water",
+            "verb": "dampens",
+            "object": "cloth"
+        }
+    },
+    {
+        "case_id": 245,
+        "requested_rewrite": {
+            "prompt": "a pin digs mud:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "pin",
+            "verb": "digs",
+            "object": "mud"
+        }
+    },
+    {
+        "case_id": 246,
+        "requested_rewrite": {
+            "prompt": "Elephant rotates bowling:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Elephant",
+            "verb": "rotates",
+            "object": "bowling"
+        }
+    },
+    {
+        "case_id": 247,
+        "requested_rewrite": {
+            "prompt": "Dog sews curtain:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Dog",
+            "verb": "sews",
+            "object": "curtain"
+        }
+    },
+    {
+        "case_id": 248,
+        "requested_rewrite": {
+            "prompt": "a child swallows nail:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "child",
+            "verb": "swallows",
+            "object": "nail"
+        }
+    },
+    {
+        "case_id": 249,
+        "requested_rewrite": {
+            "prompt": "and spatula crashed bike:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "spatula",
+            "verb": "crashed",
+            "object": "bike"
+        }
+    },
+    {
+        "case_id": 250,
+        "requested_rewrite": {
+            "prompt": "air chills lion:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "air",
+            "verb": "chills",
+            "object": "lion"
+        }
+    },
+    {
+        "case_id": 251,
+        "requested_rewrite": {
+            "prompt": "Child chew hay:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Child",
+            "verb": "chew",
+            "object": "hay"
+        }
+    },
+    {
+        "case_id": 252,
+        "requested_rewrite": {
+            "prompt": "Elephant tackles bus:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "Elephant",
+            "verb": "tackles",
+            "object": "bus"
+        }
+    },
+    {
+        "case_id": 253,
+        "requested_rewrite": {
+            "prompt": "Desert absorbs rubber:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Desert",
+            "verb": "absorbs",
+            "object": "rubber"
+        }
+    },
+    {
+        "case_id": 254,
+        "requested_rewrite": {
+            "prompt": "A clown chilled bear:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "clown",
+            "verb": "chilled",
+            "object": "bear"
+        }
+    },
+    {
+        "case_id": 255,
+        "requested_rewrite": {
+            "prompt": "and grandma sews paper:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "grandma",
+            "verb": "sews",
+            "object": "paper"
+        }
+    },
+    {
+        "case_id": 256,
+        "requested_rewrite": {
+            "prompt": "Crab moves gorilla:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Crab",
+            "verb": "moves",
+            "object": "gorilla"
+        }
+    },
+    {
+        "case_id": 257,
+        "requested_rewrite": {
+            "prompt": "a man cleaned mud:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "man",
+            "verb": "cleaned",
+            "object": "mud"
+        }
+    },
+    {
+        "case_id": 258,
+        "requested_rewrite": {
+            "prompt": "the oil dampens book:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "oil",
+            "verb": "dampens",
+            "object": "book"
+        }
+    },
+    {
+        "case_id": 259,
+        "requested_rewrite": {
+            "prompt": "Shovel dump dirt:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "Shovel",
+            "verb": "dump",
+            "object": "dirt"
+        }
+    },
+    {
+        "case_id": 260,
+        "requested_rewrite": {
+            "prompt": "a desert absorbs water:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "desert",
+            "verb": "absorbs",
+            "object": "water"
+        }
+    },
+    {
+        "case_id": 261,
+        "requested_rewrite": {
+            "prompt": "An elephant filled bucket:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "elephant",
+            "verb": "filled",
+            "object": "bucket"
+        }
+    },
+    {
+        "case_id": 262,
+        "requested_rewrite": {
+            "prompt": "the oil cuts policeman:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "oil",
+            "verb": "cuts",
+            "object": "policeman"
+        }
+    },
+    {
+        "case_id": 263,
+        "requested_rewrite": {
+            "prompt": "pebbles build skyscraper:",
+            "target_new": {
+                "str": "True"
+            },
+            "target_true": {
+                "str": "False"
+            },
+            "subject": "pebbles",
+            "verb": "build",
+            "object": "skyscraper"
+        }
+    },
+    {
+        "case_id": 264,
+        "requested_rewrite": {
+            "prompt": "tree kisses woman:",
+            "target_new": {
+                "str": "False"
+            },
+            "target_true": {
+                "str": "True"
+            },
+            "subject": "tree",
+            "verb": "kisses",
+            "object": "woman"
+        }
+    }
+]
