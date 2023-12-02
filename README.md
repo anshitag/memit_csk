@@ -67,10 +67,14 @@ It includes commands to (1) find best hyperparamters for the Edit Validation Set
 ## How to Cite
 
 ```bibtex
-@article{gupta2023editing,
-  title={Editing Common Sense in Transformers},
-  author={Gupta, Anshita and Mondal, Debanjan and Sheshadri, Akshay Krishna and Zhao, Wenlong and Li, Xiang Lorraine and Wiegreffe, Sarah and Tandon, Niket},
-  journal={arXiv preprint arXiv:2305.14956},
-  year={2023}
+@inproceedings{gupta2023editing,
+    title = "Editing Common Sense in Transformers",
+    author={Gupta, Anshita and Mondal, Debanjan and Sheshadri, Akshay Krishna and Zhao, Wenlong and Li, Xiang Lorraine and Wiegreffe, Sarah and Tandon, Niket},
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2305.14956",
 }
 ```
