@@ -1,5 +1,6 @@
 # ROME
 This code directory is sourced from the GitHub repository for [MEMIT](https://github.com/kmeng01/memit)
+
 This package provides a self-contained implementation of Rank-One Model Editing (ROME).
 
 Recall that ROME's update consists of: $u$ selection, $v_*$ optimization, and $v$ insertion.
