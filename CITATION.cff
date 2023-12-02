@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 preferred-citation:
-  type: article
+  type: inproceedings
   authors:
   - family-names: "Gupta"
     given-names: "Anshita"
@@ -17,6 +17,7 @@ preferred-citation:
     given-names: "Sarah"
   - family-names: "Tandon"
     given-names: "Niket"
-  journal: "arXiv preprint arXiv:2305.14956"
-  title: "Editing Commonsense Knowledge in GPT"
+  booktitle: "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+  publisher: "Association for Computational Linguistics"
+  title: "Editing Common Sense in Transformers"
   year: 2023
